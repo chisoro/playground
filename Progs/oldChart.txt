@@ -1,0 +1,631 @@
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  1
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+REVENUE
+   Fees and Penalties
+      Taxes
+        Unit tax Base stations                         11306382  12     110 1130
+        UNIT TAX  ON LICENCE                           11306352  12     110 1130
+        UNIT TAX ON STAND                              16006353  12     110 1600
+        ASSESMENT RATES                                16006362  12     110 1600
+      Fees Licences and Pernalities
+        UNTIED REVENUE WORKS AND HOUSING               11306357  12     120 1130
+        AGRICULTURE                                    11306301  12     120 1130
+        CDF Income                                     18006300  12     120 1800
+        FINANCE-RATES & FEES                           11306300  12     120 1130
+        LICENCES MARKETING RENTALS                     11306327  12     120 1130
+        BILL-BOARDS                                    16006303  12     120 1600
+        AGRICULTURE                                    16006301  12     120 1600
+        BUS LEVY AND PARKING FEES                      16006306  12     120 1600
+        AGRICULTURE                                    13006301  12     120 1300
+        SOCIAL SERVICES - RATES & FEES                 13006300  12     120 1300
+        REFUSE COLLECTION  FEES                        16006338  12     120 1600
+        CESSION FEES                                   16006309  12     120 1600
+        LICENCES RURAL AREAS                           11306328  12     120 1130
+        SOCIAL SERVICES                                11206300  12     120 1120
+        SOCIAL SERVICES                                11306346  12     120 1130
+        LICENCES GROWTH POINTS                         11306326  12     120 1130
+        CEMETERY CHARGES                               13006308  12     120 1300
+        FINANCE OPERATIONAL                            16006314  12     120 1600
+        HOME  INDUSTRY & SME LEASES                    16006315  12     120 1600
+        DRAMA/ROAD SHOW                                13006311  12     120 1300
+        FINANCE OPERATIONAL                            13006314  12     120 1300
+        MARKET FEES                                    13006330  12     120 1300
+        REGISTRATION OF NGO'S                          13006339  12     120 1300
+        HUMAN RESOURCES                                13006354  12     120 1300
+        UNTIED REVENUE WORKS AND HOUSING               11207357  12     120 1120
+        USER CHARGES \SCHOOL                           13006355  12     120 1300
+        STAND AND LEASE APPLICATION FEES               16006347  12     120 1600
+        EMA- INCOME GENERATING ACTIVITIES              15007300  12     120 1500
+        COTTON FIELD CLEARING                          15006310  12     120 1500
+        REFUSE DISPOSAL                                15006367  12     120 1500
+        UNTIED REVENUE WORKS AND HOUSING               13006357  12     120 1300
+        ROADS, WORKS & PLANNING-RATES & FEES           16006300  12     120 1600
+        SAND EXTRACTION                                15006366  12     120 1500
+        UNTIED REVENUE WORKS AND HOUSING               15006357  12     120 1500
+        UNTIED REVENUE                                 15006354  12     120 1500
+        BUSINESS INSPECTION FEES                       16006307  12     120 1600
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  2
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+        CHURCH AFFILIATION FEES                        13006371  12     120 1300
+        SOCIAL CLUBS                                   13006372  12     120 1300
+        SOCIAL SERVICES                                15006346  12     120 1500
+        NON- COMPLIANCE FINE                           13006373  12     120 1300
+        PEGGING FEES                                   16006331  12     120 1600
+        Operating permit                               13006380  12     120 1300
+        SOCIAL SERVICES - INTER-ACCOUNT INCOME         13007300  12     120 1300
+        DEBT RECOVERY                                  11306375  12     120 1130
+        SEWER CONNECTION FEES                          16006344  12     120 1600
+        SHOWING OF STANDS                              16006345  12     120 1600
+        PEGGING FEES                                   16006393  12     120 1600
+        STAND APPLICATION FEES                         16006392  12     120 1600
+        BUILDERS REGISTRATION                          16006305  12     120 1600
+        INSPECTION FEES                                16006390  12     120 1600
+        Establishment                                  16006387  12     120 1600
+        CHANGE OF USE                                  16006370  12     120 1600
+        SAND EXTRACTION FEE                            16006369  12     120 1600
+        REGULARISATION FEE                             16006368  12     120 1600
+        SCHOOL ADMIN FEES                              13006360  12     120 1300
+        SEWERAGE                                       16006359  12     120 1600
+        UNTIED REVENUE                                 16006354  12     120 1600
+        USER CHARGES HOSPITAL FEES                     13006356  12     120 1300
+        SUNDRIES INCOME                                16006351  12     120 1600
+        AGRICULTURE                                    11206301  12     120 1120
+        FINANCE OPERATIONAL                            11206314  12     120 1120
+        SOCIAL SERVICES                                16006346  12     120 1600
+        SUNDRIES INCOME                                11206351  12     120 1120
+        UNTIED REVENUE WORKS AND HOUSING               11206357  12     120 1120
+        INTER ACCOUNT FROM                             11207316  12     120 1120
+        FINANCE OPERATIONAL                            11207314  12     120 1120
+        AGRICULTURE                                    11207300  12     120 1120
+        Proof of residence                             11206386  12     120 1120
+        PLAN APPROVAL FEES                             16006333  12     120 1600
+        TENDER FEES                                    11306376  12     120 1130
+        SOCIAL SERVICES                                11206346  12     120 1120
+        AUDITING SERVICES                              11306377  12     120 1130
+        HUMAN RESOURCES                                11306354  12     120 1130
+        LAND DISPUTE                                   15006321  12     120 1500
+        ADMINISTRATION FEES                            11306385  12     120 1130
+        FINANCE- INCOME GENERATING ACTIVITIES          11307300  12     120 1130
+        FINANCE OPERATIONAL                            15006314  12     120 1500
+        FEES & FINES                                   15006313  12     120 1500
+        RATES CLEARANCE                                16006337  12     120 1600
+        EMA-RATES AND FEES                             15006300  12     120 1500
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  3
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+        PENALTIES                                      16006332  12     120 1600
+      Financial Revenue
+        Bank Interest                                  15007365  12     121 1500
+        BRICK MOULDING                                 16006391  12     121 1600
+        Bank Interest                                  11307365  12     121 1130
+        Bank Interest                                  17007365  12     121 1700
+        Bank Interest                                  11207365  12     121 1120
+        Bank Interest                                  13007365  12     121 1300
+        Bank Interest                                  16007365  12     121 1600
+      Grants
+        PSIP GRANTS                                    16006335  12     130 1600
+        RURAL DEVELOPMENT FUND GRANTS                  16006340  12     130 1600
+        ZINARA GRANTS                                  17006361  12     130 1700
+        ZINARA INCOME                                  17006300  12     130 1700
+        STATUTORY ROAD FUNDS GRANTS                    16006348  12     130 1600
+        E.M.A GRANTS                                   15007312  12     130 1500
+        GRANT (GENDERLINKS)                            13006374  12     130 1300
+      Sales
+        SALE OF RECEIPT BOOKS                          11306341  12     140 1130
+        SALE OF SITE PLAN                              16006342  12     140 1600
+        Pig Sales                                      11307381  12     140 1130
+        STRAY CATTLE SALES                             15006349  12     140 1500
+        BOOK SELLERS                                   13006304  12     140 1300
+      Rentals
+        RENT                                           11306358  12     150 1130
+        PLANT HIRE                                     11306334  12     150 1130
+        LEASE                                          11306325  12     150 1130
+        QUARRIES LAND DEVELOPMENT LEVY                 11306336  12     170 1130
+        LIVESTOCK LEVY                                 15006329  12     170 1500
+        LDL COMMUNAL                                   15006325  12     170 1500
+        IRRIGATION LEVY                                15006320  12     170 1500
+        LDL RESETTLEMENT                               15006323  12     170 1500
+        LDL SMALL SCALE FARMERS                        15006324  12     170 1500
+      Income from Other Departments
+        INTER ACCOUNT FROM                             11307316  12     190 1130
+        INTER-ACCOUNT FINANCE                          11307317  12     190 1130
+        INTER ACCOUNT-SOCIAL SERVICES                  11307319  12     190 1130
+        ZINARA - INTER-ACCOUNT INCOME                  17007300  12     190 1700
+        INTER ACCOUNT FROM                             16507316  12     190 1650
+         PSP- INTER-ACCOUNT INCOME                     16507300  12     190 1650
+        INTER ACCOUNT FROM                             15007316  12     190 1500
+        Inter account from Stanchart                   11206378  12     190 1120
+        AUDIT - INTER-ACCOUNT INCOME                   11227300  12     190 1122
+        INTER ACCOUNT FROM                             16007316  12     190 1600
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  4
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+        INTER ACCOUNT FROM                             13007316  12     190 1300
+        WORKS - INTER-ACCOUNT INCOME                   16007300  12     190 1600
+        INTER ACCOUNT FROM                             11227316  12     190 1122
+        INTER ACCOUNT FROM                             18007316  12     190 1800
+        CDF Inter a/c Income                           18007300  12     190 1800
+        INTER ACCOUNT FROM                             17007316  12     190 1700
+   Grants
+      Grants
+        WASH GRANTS                                    16516335  13     130 1651
+   Sales
+      Sales
+        SALE OF STANDS                                 16008300  14     140 1600
+        Land sales                                     16008379  14     140 1600
+        SALE OF STANDS                                 16008343  14     140 1600
+   Levies and Royalties
+      Levies and Royalties
+        LDL LARGE SCALE FARMERS                        15006388  17     160 1500
+        Development levies                             11206389  17     160 1120
+   Other Revenue
+      Grants
+        Zinara Income                                  17009300  18     130 1700
+        Zinara Income (other)                          17009363  18     130 1700
+      Sales
+        SALE OF ASSETS                                 11309364  18     140 1130
+      Other Revenue
+        INTER ACCOUNT FROM                             15006316  18     180 1500
+        POS                                            15007384  18     180 1500
+      Income from Other Departments
+        INTER ACCOUNT FROM                             16517316  18     190 1651
+
+
+EXPENSES
+   Salaries & Allowances
+      Wages and Salaries
+        WCIF                                           11200106  21     211 1120
+        ZIMDEF                                         11200107  21     211 1120
+        EMPLOYMENT EXPENSES                            13000100  21     211 1300
+        SALARIES AND WAGES                             13000101  21     211 1300
+        ALLOWANCES                                     13000102  21     211 1300
+        PENSIONS & NSSA                                13000103  21     211 1300
+        CASH-IN-LUE OF LEAVE                           13000104  21     211 1300
+        MEDICAL AID                                    13000105  21     211 1300
+        WCIF                                           13000106  21     211 1300
+        ZIMDEF                                         13000107  21     211 1300
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  5
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+        MEDICAL AID                                    11200105  21     211 1120
+        ALLOWANCES                                     11200102  21     211 1120
+        CASH-IN-LUE OF LEAVE                           11200104  21     211 1120
+        PENSIONS & NSSA                                11200103  21     211 1120
+        HR-EMPLOYMENT EXPENSES                         11200100  21     211 1120
+        SALARIES AND WAGES                             11200101  21     211 1120
+   General Expenses
+      General Expenses
+        MATERIALS & CONSUMABLES                        16001132  22     220 1600
+        CDF General expenses                           18001100  22     220 1800
+        GENERAL EXPENSES                               18001129  22     220 1800
+        MATERIALS & CONSUMABLES                        18001132  22     220 1800
+        HUMAN RESOURCES                                16001354  22     220 1600
+        SERVICING OF STANDS                            16001171  22     220 1600
+        REFUSE REMOVAL EXPE                            16001178  22     220 1600
+        LEGAL FEES                                     16001131  22     220 1600
+        UNTIED REVENUE WORKS AND HOUSING               13001357  22     220 1300
+        EMA GENERAL EXPENSES                           15001100  22     220 1500
+        AUDIT FEES                                     15001121  22     220 1500
+        UNTIED REVENUE WORKS AND HOUSING               11201357  22     220 1120
+        SOCIAL SERVICES                                11201346  22     220 1120
+        FINANCE OPERATIONAL                            11201314  22     220 1120
+        AGRICULTURE                                    11201301  22     220 1120
+        Conference                                     11201196  22     220 1120
+        Consultancy costs                              11201195  22     220 1120
+        Budget consultation                            11201194  22     220 1120
+        STATE FUNCTIONS                                11201174  22     220 1120
+        POSTAGE AND TELEPHONE  CHARGES                 11201160  22     220 1120
+        SECURITY FOR OFFICES                           11201159  22     220 1120
+        INTERNET SUBSCRIPTIONS                         11201157  22     220 1120
+        SUBSCRIPTIONS AGRICULTURAL SHOW                15001146  22     220 1500
+        Mileage                                        11201154  22     220 1120
+        PRINTING AND STATIONERY                        11201150  22     220 1120
+        TRAINING                                       11201149  22     220 1120
+        SUBSCRIPTIONS                                  11201145  22     220 1120
+        STAFF T & S                                    11201144  22     220 1120
+        PROTECTIVE CLOTHING                            11201136  22     220 1120
+        VIP INTERTAINMENT ALLOWANCES                   11201133  22     220 1120
+        MATERIALS & CONSUMABLES                        11201132  22     220 1120
+        LEGAL FEES                                     17001131  22     220 1700
+        MATERIALS & CONSUMABLES                        17001132  22     220 1700
+        STAFF T & S                                    17001144  22     220 1700
+        COUNCILORS T & S                               16001124  22     220 1600
+        WAGES                                          17001158  22     220 1700
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  6
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+        FUEL                                           16001128  22     220 1600
+        GENERAL EXPENSES                               16001129  22     220 1600
+        SOCIAL SERVICES GENERAL EXPENSES               13001100  22     220 1300
+        AUDIT FEES                                     13001121  22     220 1300
+        COUNCILOR'S ALLOWANCE                          13001123  22     220 1300
+        FUEL                                           18001128  22     220 1800
+        DONATIONS                                      13001125  22     220 1300
+        FORUM AND WORKSHOP                             13001127  22     220 1300
+        BANK CHARGES                                   16001156  22     220 1600
+        GENERAL EXPENSES                               13001129  22     220 1300
+        LEGAL FEES                                     13001131  22     220 1300
+        MATERIALS & CONSUMABLES                        13001132  22     220 1300
+        VIP INTERTAINMENT ALLOWANCES                   13001133  22     220 1300
+        PAUPER BURIALS                                 13001134  22     220 1300
+        PROTECTIVE CLOTHING                            13001136  22     220 1300
+        SOCIAL SERVICES                                13001142  22     220 1300
+        STAFF T & S                                    13001144  22     220 1300
+        SUBSCRIPTIONS                                  13001145  22     220 1300
+        TRAINING                                       13001149  22     220 1300
+        PRINTING AND STATIONERY                        13001150  22     220 1300
+        STAFF T & S                                    16001144  22     220 1600
+        POSTAGE AND TELEPHONE  CHARGES                 13001160  22     220 1300
+        FUEL                                           13001128  22     220 1300
+        SOCIAL ACTIVITIES                              13001186  22     220 1300
+        INTER COMMITTEE TRANSFERS                      13001190  22     220 1300
+        COUNCILORS T & S                               13001124  22     220 1300
+        AGRICULTURE                                    13001301  22     220 1300
+        FINANCE OPERATIONAL                            13001314  22     220 1300
+        HUMAN RESOURCES                                13001354  22     220 1300
+        COUNCILORS T & S                               17001124  22     220 1700
+        CONTINGENCY                                    17001122  22     220 1700
+        AUDIT FEES                                     17001121  22     220 1700
+        ZINARA GENERAL EXPENSES                        17001100  22     220 1700
+        UNTIED REVENUE WORKS AND HOUSING               11301357  22     220 1130
+        STAFF T & S                                    16511144  22     220 1651
+        GENERAL EXPENSES                               16511129  22     220 1651
+        General Expenses                               16511100  22     220 1651
+        HUMAN RESOURCES                                11301354  22     220 1130
+        SOCIAL SERVICES                                11301346  22     220 1130
+        AGRICULTURE                                    11301301  22     220 1130
+        Consultancy costs                              11301195  22     220 1130
+        Budget consultation                            11301194  22     220 1130
+        COUNCILOR'S ALLOWANCE                          11201123  22     220 1120
+        Advertising                                    11301151  22     220 1130
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  7
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+        PRINTING AND STATIONERY                        11301150  22     220 1130
+        SUBSCRIPTIONS                                  11301145  22     220 1130
+        STAFF T & S                                    11301144  22     220 1130
+        PROTECTIVE CLOTHING                            11301136  22     220 1130
+        MATERIALS & CONSUMABLES                        11301132  22     220 1130
+        LEGAL FEES                                     11301131  22     220 1130
+        GENERAL EXPENSES                               11301129  22     220 1130
+        FUEL                                           11301128  22     220 1130
+        FORUM AND WORKSHOP                             11301127  22     220 1130
+        COUNCILORS T & S                               11301124  22     220 1130
+        CONTINGENCY                                    11301122  22     220 1130
+        AUDIT FEES                                     11301121  22     220 1130
+        FINANCE GENERAL EXPENSES                       11301100  22     220 1130
+        STAFF T & S                                    15001144  22     220 1500
+        AUDIT GENERAL EXPENSES                         11221100  22     220 1122
+        PREPARATION OF LEAPS                           15001135  22     220 1500
+        MATERIALS & CONSUMABLES                        15001132  22     220 1500
+        CONTINGENCY                                    15001122  22     220 1500
+        COUNCILORS T & S                               15001124  22     220 1500
+        DONATIONS                                      15001125  22     220 1500
+        FORUM AND WORKSHOP                             15001127  22     220 1500
+        FUEL                                           15001128  22     220 1500
+        GENERAL EXPENSES                               15001129  22     220 1500
+        LEGAL FEES                                     15001131  22     220 1500
+        Transport Hire                                 16001155  22     220 1600
+        Survey                                         16001154  22     220 1600
+        PROTECTIVE CLOTHING                            15001136  22     220 1500
+        FORUM AND WORKSHOP                             16001127  22     220 1600
+        CONTINGENCY                                    16001122  22     220 1600
+        SUBSCRIPTIONS CAMPFIRE                         15001147  22     220 1500
+        SUBSCRIPTIONS EMA                              15001148  22     220 1500
+        GENERAL EXPENSES                               17001129  22     220 1700
+        FUEL                                           17001128  22     220 1700
+        COMMISSION                                     15001193  22     220 1500
+        BANK CHARGES                                   16511156  22     220 1651
+        AGRICULTURE                                    15001301  22     220 1500
+        FINANCE OPERATIONAL                            15001314  22     220 1500
+        SOCIAL SERVICES                                15001346  22     220 1500
+        HUMAN RESOURCES                                15001354  22     220 1500
+        UNTIED REVENUE WORKS AND HOUSING               15001357  22     220 1500
+        COUNCILORS T & S                               11201124  22     220 1120
+        DONATIONS                                      11201125  22     220 1120
+        FORUM AND WORKSHOP                             11201127  22     220 1120
+        FUEL                                           11201128  22     220 1120
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  8
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+        GENERAL EXPENSES                               11201129  22     220 1120
+        LEGAL FEES                                     11201131  22     220 1120
+        CONTINGENCY                                    11201122  22     220 1120
+        SOCIAL SERVICES                                16001346  22     220 1600
+        SALE OF STANDS -REFUND                         16001184  22     220 1600
+        AUDIT FEES                                     16001121  22     220 1600
+        PROTECTIVE CLOTHING                            16001136  22     220 1600
+        FINANCE OPERATIONAL                            16001314  22     220 1600
+        PSIP GENERAL EXPENSES                          16501100  22     220 1650
+        HR-GENERAL EXPENSES                            11201100  22     220 1120
+        AUDIT FEES                                     11201121  22     220 1120
+        ROADS,WORKS AND PLANNING GENERAL EXPENSES      16001100  22     220 1600
+        FORUM AND WORKSHOP                             17001127  22     220 1700
+      Revenue cont. to Capital
+        TRAINING                                       16004149  22     235 1600
+        RURAL ROADS                                    16004181  22     235 1600
+        HOSPITAL PLANT & EQUIPMENT                     13004170  22     235 1300
+        BOARDROOM EXTENSION                            16004180  22     235 1600
+        HEALTH CENTERS (PROPERTIES)                    13004166  22     235 1300
+        PUBLIC FACILITIES                              16004182  22     235 1600
+        TRAINING                                       11304149  22     235 1130
+        WATER & SEWER RETICULATION                     16004179  22     235 1600
+        BOREHOLE DRILLING                              15004175  22     235 1500
+        IGP- PIGGERY                                   11304192  22     235 1130
+        OTHER ROADS- MAINTANANCE                       16004183  22     235 1600
+        DIP TANK EQUIPMENT                             15004169  22     235 1500
+        PLANT & EQUIPMENT                              11304162  22     235 1130
+        MOTOR VECHILCES                                11304161  22     235 1130
+        GENERAL EXPENSES                               18004129  22     235 1800
+        Plant and equipment                            18004100  22     235 1800
+        INTERNET SUBSCRIPTIONS                         11204157  22     235 1120
+        TRANSPORT COST CENTRE                          11204173  22     235 1120
+        Motor Vehicles                                 17004100  22     235 1700
+        ROADS                                          17004138  22     235 1700
+        Motor Vehicles                                 17004161  22     235 1700
+        SCHOOLS (PROPERTIES)                           13004167  22     235 1300
+        MATERIALS & CONSUMABLES                        18004132  22     235 1800
+        BOREHOLE EQUIPMENT                             15004168  22     235 1500
+      Finance Costs
+        BANK CHARGES                                   13001156  22     260 1300
+        BANK CHARGES                                   11221156  22     260 1122
+        BANK CHARGES                                   11301156  22     260 1130
+        BANK CHARGES                                   17001156  22     260 1700
+        BANK CHARGES                                   11201156  22     260 1120
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  9
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+        BANK CHARGES                                   15001156  22     260 1500
+      Transfer to Other Departments
+        INTER ACCOUNT TO                               17001164  22     290 1700
+        INTER ACCOUNT TO                               18001164  22     290 1800
+        INTER ACCOUNT TO                               16501164  22     290 1650
+        AGRICULTURE                                    16001301  22     290 1600
+        INTER-ACCOUNT TO                               16001300  22     290 1600
+        INTER ACCOUNT TO                               11201164  22     290 1120
+        Zinara Transfer(re-imbursement)                16001165  22     290 1600
+        INTER-ACCOUNT TO                               11201300  22     290 1120
+        INTER ACCOUNT TO                               11221164  22     290 1122
+        INTER ACCOUNT TO                               11301164  22     290 1130
+        Zinara Transfer(re-imbursement)                11301165  22     290 1130
+        INTER ACCOUNT TO                               16001164  22     290 1600
+        INTER ACCOUNT TO                               13001164  22     290 1300
+        INTER-ACCOUNT TO                               13001300  22     290 1300
+        INTER ACCOUNT TO                               15001164  22     290 1500
+        INTER-ACCOUNTTO                                15001300  22     290 1500
+        INTER-ACCOUNT TO                               11301300  22     290 1130
+        Inter account to CBZ                           11201176  22     290 1120
+   Repairs and Maintenance
+      Repairs and Mantainance
+        REPAIRS AND MAINTENANCE - OFFICE FURNITURE     13002163  23     230 1300
+        REPAIRS AND MAINTENANCE - VEHICLES             13002161  23     230 1300
+        REPAIRS AND MENTAINANCE                        13002100  23     230 1300
+        BOREHOLE EQUIPMENT                             15002168  23     230 1500
+        WATER PONDS                                    15002185  23     230 1500
+        PLANT & EQUIPMENT                              15002162  23     230 1500
+        REPAIRS AND MAINTANANCE WATER AND SEWERAGE     16002139  23     230 1600
+        REPAIRS AND MAINTANANCE ROAD MAINTENANCE       16002138  23     230 1600
+        REPAIRS AND MAINTANANCE HOUSES AND OFFICES     16002137  23     230 1600
+        REPAIRS AND MAINTENANCE - OFFICE FURNITURE     11202163  23     230 1120
+        REPAIRS AND MAINTENANCE - PLANT & EQUIPMEN     11202162  23     230 1120
+        REPAIRS AND MAINTENANCE - VEHICLES             11202161  23     230 1120
+        Repairs and maintenance- General               11202129  23     230 1120
+        HR REPAIRS AND MENTAINANCE                     11202100  23     230 1120
+        ROAD WORKS AND PLANNING REPAIRS                16002100  23     230 1600
+        REPAIRS AND MAINTENANCE - PLANT & EQUIPMEN     13002162  23     230 1300
+        Repairs and maintenance                        11201163  23     230 1120
+   Other Expenses
+      General Expenses
+        IGP- PIGGERY                                   16001192  27     220 1600
+
+
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  10
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+
+ASSETS
+   Current Assets
+      Cash and Cash Equivalent
+        HR CASHBOOK ACCOUNT                              211101  31     311 0000
+        AUDITING CASH BOOK                               211102  31     311 0000
+        FINANCE CASH BOOK                                211103  31     311 0000
+        SOCIAL SERVICES DEPOSITS                         211300  31     311 0000
+        SOCIAL SERVICES CASH BOOK                        211304  31     311 0000
+        BEER LEVY CASHBOOK                               211308  31     311 0000
+        EMMA DEPOSITS                                    211500  31     311 0000
+        EMMA CASH BOOK                                   211505  31     311 0000
+        ROAD WORKS AND PLANNING DEPOSITS                 211600  31     311 0000
+        ROAD WORKS & PLANNING CASHBOOK                   211602  31     311 0000
+        WASH Cashbook                                    211603  31     311 0002
+        WORKS & PLANNING CASH BOOK                       211606  31     311 0000
+        ZINARA ROADS CASH BOOK                           211607  31     311 0000
+        CDF / Devolution                                 211608  31     311 0000
+        FINANCE DEPOSITS                                 211100  31     311 0000
+      Recievables
+        BUSINESS LICENCES DEBTORS                        213101  31     312 0000
+        UNIT TAX - LICENCE DEBTORS                       213102  31     312 0000
+         LEASE DEBTORS                                   213103  31     312 0002
+        FINANCE DEBTORS                                  213100  31     312 0000
+        LDL QUARRIES DEBTORS                             213106  31     312 0000
+        RENT DEBTORS                                     213109  31     312 0000
+        SOCIAL SERVICES DEBTORS                          213300  31     312 0000
+        SCHOOL ADMIN FEES DEBTORS                        213310  31     312 0000
+        COUNCILLORS DEBTORS                              213311  31     312 0002
+        EMMA DEBTORS                                     213500  31     312 0000
+        LAND DEV LEVY DEBTORS                            213505  31     312 0000
+        IRRIGATION DEV LEVY DEBTORS                      213507  31     312 0000
+        VAT CLAIMABLE                                    215102  31     312 0000
+        VAT PROVISIONS - CREDITORS                       215101  31     312 0000
+        OTHER DEBTORS                                    215100  31     312 0000
+        LAND SALES DEBTORS                               213808  31     312 0000
+        LAND SALES DEBTORS CTRL                          213800  31     312 0000
+        PEGGING FEES                                     213605  31     312 0002
+        SEWERAGE DEBTORS                                 213604  31     312 0000
+        REFUSE DEBTORS                                   213603  31     312 0000
+        UNIT TAX -STANDS DEBTORS                         213602  31     312 0000
+        UNIT TAX DEBTORS                                 213601  31     312 0000
+        ROAD WORKS & PLANNING DEBTORS                    213600  31     312 0000
+        Development levies                               213105  31     312 0002
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  11
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+      Inventories
+        CENTRAL STORES                                   218101  31     313 0000
+        STOCK CONTROL                                    218100  31     313 0000
+   Non-current Assets
+      Capital Dabtors
+        Land Debtors                                     223800  32     321 0000
+        Land sales debtors                               223811  32     321 0000
+      Plant and Equipment
+        Motor Vehicles                                   226101  32     323 0002
+        Furniture, Fittings and Machinery                226102  32     323 0002
+        Computer and Equipment                           226103  32     323 0002
+        Plant and Equipment                            18004162  32     323 1800
+      Land and Buildings
+        Land and Buildings                               228101  32     324 0002
+
+
+LIABILITIES
+   Current Liabilities
+      Accounts Payable
+        PURCHASE CREDITORS                               234101  41     411 0000
+        VAT PAYABLE                                      234103  41     411 0000
+        CREDITORS CTRL                                   234100  41     411 0000
+        SUSPENSE A/C                                     234105  41     411 0000
+        Association of Rural District Councils (AR       234106  41     411 0002
+        VAT PROVISION - DEBTORS                          234102  41     411 0000
+        SALARIES CONTROL ACCOUNT                         234104  41     411 0000
+
+
+EQUITY
+   Reserves
+      Accumulated Surplus/Deficit
+        MAIN ACCUMULATED DEFICT/SURPLUS                  258101  51     518 0000
+        HR ACCUMULATED DEFICT/SURPLUS                    258102  51     518 0000
+        AUDITING ACCUMULATED DEFICT/SURPLUS              258103  51     518 0000
+        FINANCE ACCUMULATED DEFICT/SURPLUS               258104  51     518 0000
+        ACCUMULATED DEFICT/SURPLUS                       258300  51     518 0000
+        ACCUMULATED DEFICT/SURPLUS SOCIAL REVIRCES       258301  51     518 0000
+        ACCUMULATED DEFICT/SURPLUS                       258500  51     518 0000
+        EMMA ACCUMULATED DEFICT/SURPLUS                  258501  51     518 0000
+        ACCUMULATED DEFICT/SURPLUS                       258600  51     518 0000
+        ACCUMULATED DEFICT/SURPLUS WORKS & PLANNIN       258601  51     518 0000
+        ACCUMULATED DEFICT/SURPLUS                       258100  51     518 0000
+      Revaluation Reserves
+        ASSET REVALUATION RESERVES                       251113  51     521 0002
+
+
+                   MUTOKO RURAL DISTRICT COUNCIL
+
+
+
+    CONSOLIDATED CHART OF ACCOUNT MASTERFILE LISTING
+                                                                Page:  12
+
+
+DESCRIPTION                                             ACCOUNT CAT SUB-CAT DEPT
+-------------------------------------------------- ------------ --- ------- ----
+
+
+

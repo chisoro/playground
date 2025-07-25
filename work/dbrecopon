@@ -1,0 +1,81 @@
+ADD TABLE "dbRecopOn"
+  AREA "Schema Area"
+  LABEL "Online Receipt"
+  DESCRIPTION "Online Receipt Operator"
+  DUMP-NAME "dbrecopon"
+
+ADD FIELD "ucode" OF "dbRecopOn" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "UserCode"
+  POSITION 2
+  MAX-WIDTH 6
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "txtKey" OF "dbRecopOn" AS character 
+  FORMAT "x(48)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 512
+  COLUMN-LABEL "Key"
+  ORDER 20
+  MANDATORY
+
+ADD FIELD "txtName" OF "dbRecopOn" AS character 
+  DESCRIPTION "Bank Name"
+  FORMAT "x(15)"
+  INITIAL ""
+  POSITION 4
+  MAX-WIDTH 30
+  COLUMN-LABEL "Name"
+  ORDER 30
+
+ADD FIELD "txtCur" OF "dbRecopOn" AS character 
+  FORMAT "x(4)"
+  INITIAL ""
+  LABEL "Currency"
+  POSITION 5
+  MAX-WIDTH 8
+  COLUMN-LABEL "Currency"
+  ORDER 40
+
+ADD FIELD "Paytype" OF "dbRecopOn" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Paytype"
+  POSITION 6
+  MAX-WIDTH 4
+  COLUMN-LABEL "Paytype"
+  ORDER 50
+
+ADD FIELD "DeviceName" OF "dbRecopOn" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "DeviceName"
+  POSITION 7
+  MAX-WIDTH 40
+  COLUMN-LABEL "DeviceName"
+  ORDER 60
+
+ADD FIELD "Credate" OF "dbRecopOn" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Created"
+  POSITION 8
+  MAX-WIDTH 4
+  COLUMN-LABEL "Created"
+  ORDER 70
+
+ADD FIELD "UID" OF "dbRecopOn" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  POSITION 9
+  MAX-WIDTH 6
+  ORDER 80
+
+.
+PSC
+cpstream=ISO8859-1
+.
+0000001437

@@ -1,0 +1,255 @@
+session:DATA-ENTRY-RETURN = TRUE.
+/* Program.................paycaf02.p
+   Notes:...... De-/Activate payroll item for all employees
+   Author:.................S. Mawire
+*/
+DEF VAR wsSearch   LIKE dbcmf.NAME.
+DEF VAR hCol        AS WIDGET-HANDLE.
+DEF BUTTON  btnSearch LABEL "Search".
+DEF VAR X AS INT.
+DEF SHARED VAR varUser LIKE simusr.usercode. 
+DEF VAR wsNotch AS DEC.
+DEF VAR wsDate AS DATE.
+DEF VAR wsfac LIKE paymtf.Active.
+DEF VAR st-per LIKE gltdf.period.
+DEF VAR wsSys  LIKE Paysys.Paysys.
+DEF VAR wsName AS CHAR FORM "x(70)".
+DEF VAR wsitem LIKE payitem.itemcode.
+DEF VAR wsDesc AS CHAR FORM "x(40)".
+DEF VAR wsfrm AS CHAR FORM "x(40)".
+DEF VAR wsTitle AS CHAR FORM "x(80)".
+
+DEF BUTTON btn-item LABEL "ITEM CODE".
+DEF BUTTON btn-Sys   LABEL "Payroll System".
+DEF BUTTON btn-Edit   LABEL "EDIT".
+DEF BUTTON btn-close  LABEL "CLOSE".
+DEF BUTTON btn-ok     LABEL "OK".
+DEF BUTTON btn-Emp   LABEL "EMPLOYEE".
+
+DEF BUFFER bfrpaymtf FOR paymtf.
+
+DEF RECT rec  SIZE 70 BY 6.
+DEF RECT rec1 SIZE 70 BY 2.
+
+DEF FRAME Search-opt
+    wsSearch  COLON 20 LABEL "Search Value"
+    btnSearch
+    with view-as dialog-box keep-tab-order no-validate
+         side-labels no-underline three-d SCROLLABLE CENTERED.
+
+DEF    QUERY qry-Sys FOR Paysys SCROLLING.
+DEF BROWSE brw-Sys QUERY qry-Sys
+        DISPLAY Paysys.Paysys Paysys.Descrip COLUMN-LABEL "Decsription" 
+        WIDTH 60 WITH 20 DOWN SEPARATORS.
+
+DEFINE FRAME frm-pick 
+    brw-Sys AT ROW 2 COL 5
+    skip(0.5)
+    btn-ok colon 5
+    btn-close colon 60
+    with view-as dialog-box keep-tab-order no-validate
+         side-labels no-underline three-d SCROLLABLE CENTERED TITLE "Payroll System Selection".
+
+DEF    QUERY qry-item FOR Payitem SCROLLING.
+DEF BROWSE brw-item QUERY qry-item
+        DISPLAY payitem.Itemcode payitem.Descrip WIDTH 40 WITH 20 DOWN SEPARATORS.
+
+DEFINE FRAME frm-item 
+    brw-item AT ROW 2 COL 5
+    skip(0.5)
+    btn-ok colon 5
+    btn-close colon 60
+    with view-as dialog-box keep-tab-order no-validate
+         side-labels no-underline three-d SCROLLABLE CENTERED TITLE "Employee Selection".
+
+DEFINE FRAME frm-Paysys
+    SKIP(0.5)
+    btn-Sys   COLON 10 NO-LABEL NO-TAB-STOP
+    wsSys     NO-LABEL AUTO-RETURN 
+    Paysys.Descrip NO-LABEL FORM "x(30)" VIEW-AS TEXT SKIP(1)
+    Paysys.CurPer  COLON 25 LABEL " Current Period   " VIEW-AS TEXT SKIP(1)
+    Paysys.CurDate COLON 25 LABEL "Payroll Date   " VIEW-AS TEXT SKIP(2)
+    btn-ok colon 10
+    btn-close colon 50
+    rec AT ROW 1.2     COL 2
+    rec1 AT ROW 7.4   COL 2
+    WITH 1 DOWN OVERLAY SIDE-LABELS CENTERED THREE-D SIZE 73 BY 10 
+    TITLE "PAYROLL SELECTION" VIEW-AS DIALOG-BOX.
+
+DEFINE FRAME frm-Data
+    SKIP(0.5)
+    btn-item  COLON 10 NO-LABEL NO-TAB-STOP
+    payitem.itemcode   NO-LABEL
+    wsdesc NO-LABEL VIEW-AS TEXT SKIP(0.5)
+    wsfac     COLON 23 LABEL "Factor " HELP "0 - Deactivate and 1 - Activate" SKIP(2)
+    payemf.empcode COLON 23 LABEL "Processing..." VIEW-AS TEXT SKIP(1) 
+    btn-ok colon 10
+    btn-close colon 50
+    rec AT ROW 1.2     COL 2
+    rec1 AT ROW 7.4   COL 2
+    WITH 1 DOWN OVERLAY SIDE-LABELS CENTERED THREE-D SIZE 73 BY 10
+    TITLE "De-Activate Payroll Items - ALL EMPLOYEES" VIEW-AS DIALOG-BOX.
+
+/* Triggers for the Paysys frame */
+ON CHOOSE OF btn-sys IN FRAME frm-Paysys
+    OR CHOOSE OF btn-sys IN FRAME frm-Paysys
+DO:
+  VIEW FRAME frm-pick.
+  OPEN QUERY qry-sys FOR EACH paysys NO-LOCK.
+  ENABLE ALL WITH FRAME frm-pick.
+  WAIT-FOR CHOOSE OF btn-close IN FRAME frm-pick 
+          OR close of THIS-PROCEDURE IN FRAME frm-pick
+          OR CHOOSE OF btn-ok IN FRAME frm-pick 
+          OR 'enter':u OF brw-sys
+          OR 'mouse-select-dblclick' OF brw-sys.
+  CLOSE QUERY qry-sys.
+  HIDE FRAME frm-pick.
+  APPLY 'tab' TO SELF.
+  APPLY 'tab' TO wsSys.
+  RETURN. 
+END.
+
+ON CHOOSE OF btn-ok IN FRAME frm-pick 
+    OR 'enter':u OF brw-sys
+    OR 'mouse-select-dblclick' OF brw-sys
+DO: 
+   GET CURRENT qry-sys NO-LOCK NO-WAIT.
+   DISPLAY Paysys.Paysys @ wsSys Paysys.Descrip WITH FRAME frm-Paysys.
+   ASSIGN wsSys = INT(wsSys:SCREEN-VALUE).
+   APPLY 'tab' TO wsSys.
+   RETURN. 
+END.
+
+ON  'enter':U OF wsSys IN FRAME frm-Paysys
+    OR 'tab':U OF wsSys IN FRAME frm-Paysys
+    OR 'leave':U OF wsSys IN FRAME frm-Paysys
+DO:
+    ASSIGN wsSys.
+    IF INT(wsSys:SCREEN-VALUE) = 0 THEN
+        APPLY 'close' TO THIS-PROCEDURE.
+    ELSE DO:
+        ASSIGN wsSys.
+        FIND FIRST paysys WHERE Paysys.Paysys = INT(wsSys:SCREEN-VALUE) NO-LOCK NO-ERROR.
+        IF AVAILABLE paysys THEN DO:
+           FIND FIRST simusr WHERE simusr.usercode = varUser NO-LOCK NO-ERROR.
+           IF AVAILABLE simusr AND (simusr.Paysys = 99 OR simusr.Paysys = INT(wsSys:SCREEN-VALUE)) THEN
+           DO:
+              DISPLAY Paysys.Descrip  Paysys.CurDate Paysys.CurPer WITH FRAM frm-Paysys.
+              ENABLE btn-ok WITH FRAME frm-paysys.
+              APPLY 'entry' TO btn-ok IN FRAME frm-paysys.
+              RETURN NO-APPLY.
+           END.
+           ELSE DO:
+              MESSAGE "You are not allowed to access this Payroll...Please try again" VIEW-AS ALERT-BOX.
+              DISABLE btn-ok WITH FRAME frm-paysys.
+              RETURN NO-APPLY.
+           END.
+        END.  
+        ELSE DO:
+            MESSAGE "Invalid Payroll System...Please try again" VIEW-AS ALERT-BOX.
+            RETURN NO-APPLY.
+        END.
+    END.
+     RETURN.
+END.
+
+ON 'choose':U OF btn-ok IN FRAME frm-Paysys 
+DO:
+    FIND FIRST paysys WHERE Paysys.Paysys = INT(wsSys:SCREEN-VALUE) NO-LOCK NO-ERROR.
+    IF AVAILABLE paysys THEN
+       RUN Datacap.ip.
+    APPLY 'close' TO THIS-PROCEDURE.
+END.
+
+ON CHOOSE OF btn-ok IN FRAME frm-data
+    OR 'tab' OF wsfac IN FRAME frm-data
+DO:
+    ASSIGN wsfac = INT(wsfac:SCREEN-VALUE)
+           wsItem = INT( payitem.itemcode:SCREEN-VALUE).
+ 
+    FOR EACH payemf WHERE payemf.paysys = wsSys AND (payemf.eStatus = 1 OR  payemf.eStatus = 2):
+        DISPLAY payemf.empcode WITH FRAME frm-Data.
+        PAUSE 0.
+        FIND FIRST paymtf WHERE paymtf.empcode = payemf.empcode AND paymtf.itemcode = wsitem NO-ERROR.
+        IF AVAILABLE paymtf THEN
+           ASSIGN Paymtf.ACTIVE   = wsfac.
+    END. /* eo-for EACH paymtf...*/
+   CLEAR FRAME frm-data.
+   APPLY 'entry' TO payitem.itemcode IN FRAME frm-data.
+   RETURN NO-APPLY.
+END.
+
+/* Triggers for the button item */
+ON CHOOSE OF btn-item IN FRAME frm-data
+DO:
+  VIEW FRAME frm-item .
+  OPEN QUERY qry-item  FOR EACH payitem NO-LOCK.
+  ENABLE ALL WITH FRAME frm-item .
+  WAIT-FOR CHOOSE OF btn-close IN FRAME frm-item  
+          OR close of THIS-PROCEDURE IN FRAME frm-item 
+          OR CHOOSE OF btn-ok IN FRAME frm-item  
+          OR 'enter':u OF brw-item 
+          OR 'mouse-select-dblclick' OF brw-item.
+  CLOSE QUERY qry-item.
+  HIDE FRAME frm-item.
+  APPLY 'tab' TO SELF.
+  APPLY 'tab' TO payitem.itemcode IN FRAME frm-data.
+  RETURN. 
+END.
+
+ON CHOOSE OF btn-ok IN FRAME frm-item 
+    OR 'enter':u OF brw-item
+    OR 'mouse-select-dblclick' OF brw-item
+DO: 
+   GET CURRENT qry-item NO-LOCK NO-WAIT.
+   payitem.itemcode:SCREEN-VALUE  IN FRAME frm-Data = STRING(payitem.itemcode).
+   APPLY 'tab' TO  payitem.itemcode IN FRAME frm-data. 
+END.
+
+ON 'enter':u OF payitem.itemcode IN FRAME frm-data
+    OR 'tab':u OF payitem.itemcode IN FRAME frm-data
+DO: 
+   wsitem = INT(payitem.itemcode:SCREEN-VALUE).
+   FIND FIRST payitem WHERE payitem.itemcode = wsItem NO-LOCK NO-ERROR.
+   DISPLAY wsitem @ payitem.itemcode Payitem.Descrip @ wsDesc WITH FRAME frm-data.
+END.
+
+on 'start-search':u of BROWSE brw-item
+    run Search.ip.
+
+/********** MAIN LOGIC **********/
+browse brw-item:allow-column-searching = true.
+FIND FIRST payctr NO-LOCK NO-ERROR.
+VIEW FRAME frm-Paysys.
+ENABLE ALL WITH FRAME frm-Paysys.
+WAIT-FOR CHOOSE OF btn-close OR close of THIS-PROCEDURE IN FRAME frm-Paysys.
+HIDE FRAME frm-Paysys.
+RETURN.
+
+PROCEDURE Datacap.ip:
+    HIDE FRAME frm-Paysys.
+    VIEW FRAME frm-Data.
+    ENABLE ALL WITH FRAME frm-data.
+       WAIT-FOR CHOOSE OF btn-close OR CLOSE OF THIS-PROCEDURE IN FRAME frm-data.
+    HIDE FRAME frm-data.
+    RETURN.
+END.
+
+procedure Search.ip.
+  hCol = browse brw-item:current-column.
+    view frame Search-opt.
+    enable all with frame Search-opt.
+    WAIT-FOR 'choose' of btnSearch OR 'tab' of btnSearch OR 'enter' of btnSearch 
+        OR 'window-close' of frame Search-opt or close of this-procedure or
+            'esc','f4' of frame Search-opt.
+    hide frame Search-opt.
+    case trim(hCol:label):
+        WHEN "ITEM" then
+             open query qry-item
+                  FOR EACH payitem  WHERE payitem.ITEM >= INT(wsSearch:SCREEN-VALUE) no-lock.
+        WHEN "DESCRIPTION" then
+             open query qry-item
+                  FOR EACH payitem  WHERE payitem.Descrip >= wsSearch:SCREEN-VALUE NO-LOCK BY payitem.Descrip.
+        END.
+    RETURN.
+END. 

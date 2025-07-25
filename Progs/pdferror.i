@@ -1,0 +1,1 @@
+DO: RUN pdf_error(pdfStream,ENTRY(1,PROGRAM-NAME(1)," "),{&msg}). &IF "{&cleanup}" <> "" &THEN {&cleanup} &ENDIF &IF "{&return}" = "YES" &THEN RETURN &IF "{&error}" EQ "YES" &THEN ERROR &IF "{&returnmsg}" NE "NO" &THEN {&msg} &ENDIF &ELSE {&return-value} &ENDIF &ENDIF. END.

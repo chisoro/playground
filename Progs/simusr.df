@@ -1,0 +1,169 @@
+ADD TABLE "simusr"
+  AREA "Schema Area"
+  DESCRIPTION "User table"
+  DUMP-NAME "simusr"
+
+ADD FIELD "usercode" OF "simusr" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "UserCode"
+  POSITION 2
+  MAX-WIDTH 6
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "txtPass" OF "simusr" AS character 
+  FORMAT "x(15)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 30
+  COLUMN-LABEL "Password"
+  ORDER 20
+
+ADD FIELD "Name" OF "simusr" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  POSITION 4
+  MAX-WIDTH 60
+  COLUMN-LABEL "Full Name"
+  ORDER 30
+
+ADD FIELD "NextExpire" OF "simusr" AS date 
+  DESCRIPTION "Password expiry date"
+  FORMAT "99/99/99"
+  INITIAL ?
+  POSITION 5
+  MAX-WIDTH 4
+  COLUMN-LABEL "Expire"
+  ORDER 40
+
+ADD FIELD "txtStatus" OF "simusr" AS character 
+  FORMAT "x(1)"
+  INITIAL "A"
+  POSITION 6
+  MAX-WIDTH 2
+  COLUMN-LABEL "Status"
+  ORDER 50
+
+ADD FIELD "Accessgrp" OF "simusr" AS integer 
+  FORMAT ",>>9"
+  INITIAL "0"
+  POSITION 7
+  MAX-WIDTH 4
+  COLUMN-LABEL "Access Group"
+  ORDER 60
+
+ADD FIELD "txtDept" OF "simusr" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "Department"
+  POSITION 8
+  MAX-WIDTH 40
+  COLUMN-LABEL "Department"
+  ORDER 70
+
+ADD FIELD "txtJob" OF "simusr" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "Designantion"
+  POSITION 9
+  MAX-WIDTH 40
+  COLUMN-LABEL "Designation"
+  ORDER 80
+
+ADD FIELD "iPhone" OF "simusr" AS int64 
+  FORMAT "ZZZZZZZZZZZZZZ9"
+  INITIAL "0"
+  LABEL "Phone"
+  POSITION 10
+  MAX-WIDTH 4
+  COLUMN-LABEL "Phone"
+  ORDER 90
+
+ADD FIELD "Paysys" OF "simusr" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Paysys"
+  POSITION 11
+  MAX-WIDTH 4
+  COLUMN-LABEL "Paysys"
+  ORDER 100
+
+ADD FIELD "supervisor" OF "simusr" AS logical 
+  FORMAT "yes/no"
+  INITIAL "no"
+  LABEL "Receipt Supervisor"
+  POSITION 12
+  MAX-WIDTH 1
+  COLUMN-LABEL "Receipt Supervisor"
+  ORDER 110
+
+ADD FIELD "eMail" OF "simusr" AS character 
+  FORMAT "x(40)"
+  INITIAL ""
+  LABEL "eMail"
+  POSITION 13
+  MAX-WIDTH 80
+  COLUMN-LABEL "eMail"
+  ORDER 120
+
+ADD FIELD "DeviceName" OF "simusr" AS character 
+  DESCRIPTION "DeviceName"
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "DeviceName"
+  POSITION 14
+  MAX-WIDTH 40
+  COLUMN-LABEL "DeviceName"
+  ORDER 130
+  MANDATORY
+
+ADD FIELD "UID" OF "simusr" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "UserCode"
+  POSITION 15
+  MAX-WIDTH 6
+  ORDER 140
+  MANDATORY
+
+ADD FIELD "CreDate" OF "simusr" AS date 
+  FORMAT "99/99/99"
+  INITIAL "today"
+  LABEL "Create Date"
+  POSITION 16
+  MAX-WIDTH 4
+  COLUMN-LABEL "Create Date"
+  ORDER 150
+  MANDATORY
+
+ADD FIELD "password" OF "simusr" AS raw 
+  FORMAT "x(128)"
+  INITIAL ""
+  POSITION 17
+  MAX-WIDTH 256
+  ORDER 160
+  MANDATORY
+
+ADD FIELD "bKey" OF "simusr" AS raw 
+  FORMAT "x(128)"
+  INITIAL ""
+  POSITION 18
+  MAX-WIDTH 256
+  ORDER 170
+
+ADD INDEX "Usercode" ON "simusr" 
+  AREA "Schema Area"
+  UNIQUE
+  PRIMARY
+  INDEX-FIELD "usercode" ASCENDING 
+
+ADD INDEX "Name" ON "simusr" 
+  AREA "Schema Area"
+  INDEX-FIELD "Name" ASCENDING 
+
+.
+PSC
+cpstream=ISO8859-1
+.
+0000003101

@@ -1,0 +1,566 @@
+17:05:57 Looking for *.p in c:\simacc\progs
+Compiling adep01.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\adep01.p Could not understand line 10. (196)
+Compiling aloc.p
+Unknown or ambiguous table Aloc. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling ararea.p
+Unknown or ambiguous table area. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling arcat.p
+Unknown or ambiguous table acat. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling asEnq.p
+Unknown or ambiguous table aloc. (725)
+** c:\simacc\progs\asEnq.p Could not understand line 6. (196)
+Compiling asrpt01.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\asrpt01.p Could not understand line 12. (196)
+Compiling asrpt02.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\asrpt02.p Could not understand line 12. (196)
+Compiling asrpt03.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\asrpt03.p Could not understand line 12. (196)
+Compiling asrpt04.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\asrpt04.p Could not understand line 12. (196)
+Compiling assmf.p
+Unknown or ambiguous table Assmf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling assmf01.p
+Unknown or ambiguous table aloc. (725)
+** c:\simacc\progs\assmf01.p Could not understand line 6. (196)
+Compiling asubcat.p
+Unknown or ambiguous table asubcat. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling bkEnq.p
+Unknown or ambiguous table cbkmf. (725)
+** c:\simacc\progs\bkEnq.p Could not understand line 7. (196)
+Compiling bkpay.p
+Unknown or ambiguous table CBTrans. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling bnkrec.p
+Unknown or ambiguous table bnkStat. (545)
+** c:\simacc\progs\bnkrec.p Could not understand line 11. (196)
+Compiling cbbank.p
+Unknown or ambiguous table cbkmf. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling cbBook.p
+Unknown or ambiguous table cbkmf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling CbEnq.p
+Unknown or ambiguous table cbkmf. (725)
+** c:\simacc\progs\CbEnq.p Could not understand line 7. (196)
+Compiling CBJnl00.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\CBJnl00.p Could not understand line 10. (196)
+Compiling CBJnl01.p
+Unknown or ambiguous table CBTrans. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling CBJnl02.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\CBJnl02.p Could not understand line 10. (196)
+Compiling CBJnl03.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\CBJnl03.p Could not understand line 10. (196)
+Compiling cbpar01.p
+** Unknown table name cbtype. (200)
+** c:\simacc\progs\cbpar01.p Could not understand line 38. (196)
+Compiling cbreco.p
+Unknown or ambiguous table CBTrans. (545)
+** c:\simacc\progs\cbreco.p Could not understand line 6. (196)
+Compiling cbrpt01-org.p
+Unknown or ambiguous table CBTrans. (725)
+** c:\simacc\progs\cbrpt01-org.p Could not understand line 10. (196)
+Compiling cbrpt01.p
+Unknown or ambiguous table CBTrans. (725)
+** c:\simacc\progs\cbrpt01.p Could not understand line 10. (196)
+Compiling cbrpt02.p
+Unknown or ambiguous table SIMCTR. (725)
+** c:\simacc\progs\cbrpt02.p Could not understand line 22. (196)
+Compiling cbrpt03.p
+Unknown or ambiguous table CBTrans. (725)
+** c:\simacc\progs\cbrpt03.p Could not understand line 12. (196)
+Compiling cbrpt04.p
+Unknown or ambiguous table CBTrans. (725)
+** c:\simacc\progs\cbrpt04.p Could not understand line 12. (196)
+Compiling cbrrpt.p
+Unknown or ambiguous table CBTrans. (545)
+** c:\simacc\progs\cbrrpt.p Could not understand line 2. (196)
+Compiling cbtype.p
+Unknown or ambiguous table cbtype. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling cburec.p
+Unknown or ambiguous table CBTrans. (545)
+** c:\simacc\progs\cburec.p Could not understand line 6. (196)
+Compiling crdcap.p
+Unknown or ambiguous table Crdtmf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling crdcap1.p
+Unknown or ambiguous table Crdtmf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling crdenq.p
+Unknown or ambiguous table crdmf. (725)
+** c:\simacc\progs\crdenq.p Could not understand line 7. (196)
+Compiling crdmf.p
+Unknown or ambiguous table crdmf. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling crdrpt01.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\crdrpt01.p Could not understand line 12. (196)
+Compiling crdrpt02.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\crdrpt02.p Could not understand line 12. (196)
+Compiling cshinterface.p
+** Unknown table name tmpTrans. (200)
+** c:\simacc\progs\cshinterface.p Could not understand line 6. (196)
+Compiling dbage.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbage.p Could not understand line 14. (196)
+Compiling dbcmf01.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbcmf01.p Could not understand line 7. (196)
+Compiling dbcmf02.p
+Unknown or ambiguous table landSale. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbcmf03.p
+Unknown or ambiguous table landSale. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbcmf05.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbcmf05.p Could not understand line 13. (196)
+Compiling dbcons.p
+Unknown or ambiguous table dbctf. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling dbenq.p
+Unknown or ambiguous table dbhtf. (725)
+** c:\simacc\progs\dbenq.p Could not understand line 11. (196)
+Compiling dbev01.p
+Unknown or ambiguous table dbTrack. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbev02.p
+Unknown or ambiguous table dbDiary. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbhist.p
+Unknown or ambiguous table dbhtf. (725)
+** c:\simacc\progs\dbhist.p Could not understand line 11. (196)
+Compiling dbint.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbint.p Could not understand line 14. (196)
+Compiling dbJnl01.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbJnl01.p Could not understand line 19. (196)
+Compiling dbJnl02.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\dbJnl02.p Could not understand line 9. (196)
+Compiling dbland.p
+Unknown or ambiguous table landsale. (725)
+** c:\simacc\progs\dbland.p Could not understand line 6. (196)
+Compiling dbmAcc.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\dbmAcc.p Could not understand line 3. (196)
+Compiling dbmcap.p
+Unknown or ambiguous table dbmmf. (545)
+** c:\simacc\progs\dbmcap.p Could not understand line 19. (196)
+Compiling dbmrpt1.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbmrpt1.p Could not understand line 18. (196)
+Compiling dbpar01.p
+** Unknown table name dbwrd. (200)
+** c:\simacc\progs\dbpar01.p Could not understand line 39. (196)
+Compiling dbper.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbper.p Could not understand line 46. (196)
+Compiling dbpmet.p
+Unknown or ambiguous table dbPay. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling dbproj.p
+Unknown or ambiguous table LProj. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbqcap.p
+Unknown or ambiguous table dbqty. (545)
+** c:\simacc\progs\dbqcap.p Could not understand line 19. (196)
+Compiling dbrCode.p
+Unknown or ambiguous table dbRCod. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbRec.p
+Unknown or ambiguous table dbRec. (545)
+** c:\simacc\progs\dbRec.p Could not understand line 8. (196)
+Compiling dbrpt00.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbrpt00.p Could not understand line 11. (196)
+Compiling dbrpt01.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbrpt01.p Could not understand line 13. (196)
+Compiling dbrpt02.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbrpt02.p Could not understand line 13. (196)
+Compiling dbrpt03.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbrpt03.p Could not understand line 14. (196)
+Compiling dbsg07.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbsg07.p Could not understand line 14. (196)
+Compiling dbsg08.p
+Unknown or ambiguous table dbcmf. (725)
+** c:\simacc\progs\dbsg08.p Could not understand line 15. (196)
+Compiling dbsgr.p
+Unknown or ambiguous table dbsgr. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbstat01.p
+Unknown or ambiguous table SIMCTR. (725)
+** c:\simacc\progs\dbstat01.p Could not understand line 11. (196)
+Compiling dbstat02.p
+** "company.i" was not found. (293)
+** c:\simacc\progs\dbstat02.p Could not understand line 9. (193)
+Unknown or ambiguous table munmes. (725)
+** c:\simacc\progs\dbstat02.p Could not understand line 11. (196)
+Compiling dbsub.p
+Unknown or ambiguous table dbsmf. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling dbtar.p
+Unknown or ambiguous table dbtmf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbter02.p
+Unknown or ambiguous table Landsale. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling dbward.p
+Unknown or ambiguous table dbwrd. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling eglic.p
+Unknown or ambiguous table tblKey. (725)
+** c:\simacc\progs\eglic.p Could not understand line 4. (196)
+Compiling extractland.p
+Unknown or ambiguous table munthf. (725)
+** c:\simacc\progs\extractland.p Could not understand line 2. (196)
+Compiling glallp.p
+Unknown or ambiguous table glmf. (725)
+** c:\simacc\progs\glallp.p Could not understand line 8. (196)
+Compiling glball.p
+Unknown or ambiguous table glmf. (725)
+** c:\simacc\progs\glball.p Could not understand line 8. (196)
+Compiling glbcap.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\glbcap.p Could not understand line 7. (196)
+Compiling glbucap.p
+Unknown or ambiguous table glmf. (725)
+** c:\simacc\progs\glbucap.p Could not understand line 9. (196)
+Compiling glcat.p
+Unknown or ambiguous table glcat. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling glclas.p
+Unknown or ambiguous table GlClas. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling GlDept.p
+Unknown or ambiguous table Gldept. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling gle00.p
+Unknown or ambiguous table glmf. (725)
+** c:\simacc\progs\gle00.p Could not understand line 10. (196)
+Compiling gle01.p
+Unknown or ambiguous table glmf. (725)
+** c:\simacc\progs\gle01.p Could not understand line 11. (196)
+Compiling gle02.p
+Unknown or ambiguous table glmf. (725)
+** c:\simacc\progs\gle02.p Could not understand line 11. (196)
+Compiling glfrpt01.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\glfrpt01.p Could not understand line 10. (196)
+Compiling glfrpt02.p
+Unknown or ambiguous table glmf. (545)
+** c:\simacc\progs\glfrpt02.p Could not understand line 6. (196)
+Compiling glfrpt03.p
+Unknown or ambiguous table glmf. (545)
+** c:\simacc\progs\glfrpt03.p Could not understand line 6. (196)
+Compiling glfrpt04.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\glfrpt04.p Could not understand line 10. (196)
+Compiling glfund.p
+Unknown or ambiguous table glfund. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling glitem.p
+Unknown or ambiguous table glitem. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling gljnl01.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\gljnl01.p Could not understand line 18. (196)
+Compiling gljnl02.p
+Unknown or ambiguous table glbctr. (725)
+** c:\simacc\progs\gljnl02.p Could not understand line 8. (196)
+Compiling glmf.p
+Unknown or ambiguous table glmf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling glmf02.p
+Unknown or ambiguous table glmf. (545)
+** c:\simacc\progs\glmf02.p Could not understand line 10. (196)
+Compiling glpar01.p
+** Unknown table name glfund. (200)
+** c:\simacc\progs\glpar01.p Could not understand line 40. (196)
+Compiling glproj.p
+Unknown or ambiguous table GlProj. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling glptr01.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\glptr01.p Could not understand line 8. (196)
+Compiling glrev01.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\glrev01.p Could not understand line 8. (196)
+Compiling glrev02.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\glrev02.p Could not understand line 8. (196)
+Compiling glrev03.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\glrev03.p Could not understand line 8. (196)
+Compiling glrpt01.p
+Unknown or ambiguous table glrpt. (725)
+** c:\simacc\progs\glrpt01.p Could not understand line 3. (196)
+Compiling glrpt02.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\glrpt02.p Could not understand line 10. (196)
+Compiling glrpt04.p
+Unknown or ambiguous table glbal. (725)
+** c:\simacc\progs\glrpt04.p Could not understand line 10. (196)
+Compiling glrpt10.p
+Unknown or ambiguous table glbal. (725)
+** c:\simacc\progs\glrpt10.p Could not understand line 10. (196)
+Compiling glsubcat.p
+Unknown or ambiguous table glsubcat. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling glsubvote.p
+Unknown or ambiguous table glsubvote. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling gltb01.p
+Unknown or ambiguous table glmf. (725)
+** c:\simacc\progs\gltb01.p Could not understand line 14. (196)
+Compiling glvote.p
+Unknown or ambiguous table glvote. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling go.p
+Compiling landcmf.p
+Unknown or ambiguous table landSale. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling Logon.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\Logon.p Could not understand line 10. (196)
+Compiling logon01.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\logon01.p Could not understand line 5. (196)
+Compiling Logon1.p
+** Unknown table name simusr. (200)
+** c:\simacc\progs\Logon1.p Could not understand line 113. (196)
+Compiling ordcap.p
+** "inc\pdfglobal.i" was not found. (293)
+** c:\simacc\progs\ordcap.p Could not understand line 331. (193)
+** Unknown Field or Variable name - h_PDFinc. (201)
+** c:\simacc\progs\ordcap.p Could not understand line 336. (196)
+Compiling ordenq.p
+** "inc\pdfglobal.i" was not found. (293)
+** c:\simacc\progs\ordenq.p Could not understand line 331. (193)
+** Unknown Field or Variable name - h_PDFinc. (201)
+** c:\simacc\progs\ordenq.p Could not understand line 336. (196)
+Compiling ordprn.p
+Unknown or ambiguous table simctr. (725)
+** c:\simacc\progs\ordprn.p Could not understand line 12. (196)
+Compiling ordrpt01.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\ordrpt01.p Could not understand line 12. (196)
+Compiling ordrpt02.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\ordrpt02.p Could not understand line 12. (196)
+Compiling paya01.p
+Unknown or ambiguous table payemf. (725)
+** c:\simacc\progs\paya01.p Could not understand line 29. (196)
+Compiling paybnk.p
+Unknown or ambiguous table paybnk. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling paycap.p
+Unknown or ambiguous table paymtf. (725)
+** c:\simacc\progs\paycap.p Could not understand line 11. (196)
+Compiling paycon.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\paycon.p Could not understand line 13. (196)
+Compiling payctr.p
+Unknown or ambiguous table simctr. (725)
+** c:\simacc\progs\payctr.p Could not understand line 6. (196)
+Compiling Paydept.p
+Unknown or ambiguous table paydept. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling payend.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\payend.p Could not understand line 3. (196)
+Compiling payenq.p
+Unknown or ambiguous table paymtf. (725)
+** c:\simacc\progs\payenq.p Could not understand line 10. (196)
+Compiling Payitem.p
+Unknown or ambiguous table PayItem. (725)
+** c:\simacc\progs\Payitem.p Could not understand line 35. (196)
+Compiling payl01.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payl01.p Could not understand line 12. (196)
+Compiling paymast.p
+Unknown or ambiguous table payemf. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling Paypost.p
+Unknown or ambiguous table Paypost. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling payrei.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payrei.p Could not understand line 14. (196)
+Compiling payrpt01.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payrpt01.p Could not understand line 12. (196)
+Compiling payrpt02.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payrpt02.p Could not understand line 12. (196)
+Compiling payrpt03.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payrpt03.p Could not understand line 12. (196)
+Compiling payrpt04.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payrpt04.p Could not understand line 12. (196)
+Compiling payrpt05.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payrpt05.p Could not understand line 13. (196)
+Compiling payrpt06.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payrpt06.p Could not understand line 12. (196)
+Compiling payrpt07.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payrpt07.p Could not understand line 12. (196)
+Compiling payrun.p
+Unknown or ambiguous table paymtf. (725)
+** c:\simacc\progs\payrun.p Could not understand line 10. (196)
+Compiling Payscale.p
+Unknown or ambiguous table Payscale. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling payslip.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payslip.p Could not understand line 11. (196)
+Compiling paysys.p
+Unknown or ambiguous table Paysys. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling PayTax.p
+Unknown or ambiguous table payTax. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling payter.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\payter.p Could not understand line 13. (196)
+Compiling PDFextract.p
+Compiling pdftool.p
+Compiling pdf_inc.p
+** "inc\pdfglobal.i" was not found. (293)
+** c:\simacc\progs\pdf_inc.p Could not understand line 1348. (193)
+** "inc\pdfdebug.i" was not found. (293)
+** c:\simacc\progs\pdf_inc.p Could not understand line 1352. (193)
+** "inc\pdf_tt_fonts.i" was not found. (293)
+** c:\simacc\progs\pdf_inc.p Could not understand line 1608. (193)
+** "inc\pdf_func_error.i" was not found. (293)
+** c:\simacc\progs\pdf_inc.p Could not understand line 1787. (193)
+** "inc\pdf_func_bin.i" was not found. (293)
+** c:\simacc\progs\pdf_inc.p Could not understand line 1788. (193)
+** c:\simacc\progs\pdf_inc.p Could not understand line 1788. (193)
+Compiling pdf_out.p
+** "inc\pdfglobal.i" was not found. (293)
+** c:\simacc\progs\pdf_out.p Could not understand line 331. (193)
+** Unknown Field or Variable name - h_PDFinc. (201)
+** c:\simacc\progs\pdf_out.p Could not understand line 334. (196)
+Compiling recinterface.p
+Unknown or ambiguous table dbRec. (725)
+** c:\simacc\progs\recinterface.p Could not understand line 1. (196)
+Compiling recjnl.p
+Unknown or ambiguous table gltdf. (725)
+** c:\simacc\progs\recjnl.p Could not understand line 12. (196)
+Compiling recop.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\recop.p Could not understand line 6. (196)
+Compiling RECUP01.P
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\RECUP01.P Could not understand line 9. (196)
+Compiling recupd.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\recupd.p Could not understand line 5. (196)
+Compiling recva01.p
+Unknown or ambiguous table dbRec. (725)
+** c:\simacc\progs\recva01.p Could not understand line 7. (196)
+Compiling recval.p
+Unknown or ambiguous table dbRec. (725)
+** c:\simacc\progs\recval.p Could not understand line 7. (196)
+Compiling recview.p
+Unknown or ambiguous table dbRec. (725)
+** c:\simacc\progs\recview.p Could not understand line 46. (196)
+Compiling Simcon.p
+Unknown or ambiguous table tblKey. (725)
+** c:\simacc\progs\Simcon.p Could not understand line 1. (196)
+Compiling simctr.p
+Unknown or ambiguous table simctr. (725)
+** c:\simacc\progs\simctr.p Could not understand line 6. (196)
+Compiling simEnd.p
+Unknown or ambiguous table simctr. (545)
+** c:\simacc\progs\simEnd.p Could not understand line 7. (196)
+Compiling simEv01.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\simEv01.p Could not understand line 5. (196)
+Compiling simfox.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\simfox.p Could not understand line 11. (196)
+Compiling simgo.p
+Unknown or ambiguous table tblKey. (725)
+** c:\simacc\progs\simgo.p Could not understand line 1. (196)
+Compiling simKey.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\simKey.p Could not understand line 8. (196)
+Compiling simusr01.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling stkbk.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\stkbk.p Could not understand line 11. (196)
+Compiling stkcat.p
+Unknown or ambiguous table stkcat. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling stkcnt.p
+Unknown or ambiguous table stkmf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling stkenq.p
+Unknown or ambiguous table stkmf. (725)
+** c:\simacc\progs\stkenq.p Could not understand line 7. (196)
+Compiling stkgrn.p
+Unknown or ambiguous table stkgrn. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling Stkiss.p
+Unknown or ambiguous table Crdtmf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling StkJnl01.p
+Unknown or ambiguous table stkbctr. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+Compiling StkJnl02.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\StkJnl02.p Could not understand line 9. (196)
+Compiling stkmf.p
+Unknown or ambiguous table stkmf. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling stkrec.p
+Unknown or ambiguous table simusr. (725)
+** c:\simacc\progs\stkrec.p Could not understand line 11. (196)
+Compiling stkrpt01.p
+Unknown or ambiguous table stkmf. (725)
+** c:\simacc\progs\stkrpt01.p Could not understand line 14. (196)
+Compiling stkrpt02.p
+Unknown or ambiguous table stkmf. (725)
+** c:\simacc\progs\stkrpt02.p Could not understand line 11. (196)
+Compiling stkrpt03.p
+Unknown or ambiguous table stkmf. (725)
+** c:\simacc\progs\stkrpt03.p Could not understand line 11. (196)
+Compiling stkscat.p
+Unknown or ambiguous table stkscat. (725)
+** c:\simacc\progs\varlib.i Could not understand line 4. (196)
+Compiling stkwhse.p
+Unknown or ambiguous table stkwhf. (725)
+** c:\simacc\progs\varlibrary.i Could not understand line 4. (196)
+17:06:06 Looking for *.w in c:\simacc\progs
+Compiling SimAcc.w
+Unknown or ambiguous table dbDiary. (725)
+** c:\simacc\progs\SimAcc.w Could not understand line 8. (196)
+17:06:06 Looking for *.cls in c:\simacc\progs

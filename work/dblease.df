@@ -1,0 +1,177 @@
+ADD TABLE "LandSale"
+  AREA "Schema Area"
+  DUMP-NAME "landsale"
+
+ADD FIELD "dbacc" OF "LandSale" AS decimal 
+  FORMAT "zzzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Account"
+  POSITION 2
+  MAX-WIDTH 17
+  COLUMN-LABEL "Account"
+  DECIMALS 2
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "scheme" OF "LandSale" AS decimal 
+  FORMAT "999"
+  INITIAL "0"
+  LABEL "scheme"
+  POSITION 3
+  MAX-WIDTH 17
+  COLUMN-LABEL "scheme"
+  DECIMALS 2
+  ORDER 20
+
+ADD FIELD "Amt" OF "LandSale" AS decimal 
+  FORMAT "->>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Amount"
+  POSITION 4
+  MAX-WIDTH 120
+  COLUMN-LABEL "Amount"
+  EXTENT 4
+  DECIMALS 2
+  ORDER 30
+
+ADD FIELD "Capital" OF "LandSale" AS decimal 
+  FORMAT "->>,>>>,>>9.99"
+  INITIAL "0"
+  POSITION 5
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 40
+
+ADD FIELD "Bal" OF "LandSale" AS decimal 
+  FORMAT "->>,>>>,>>9.99"
+  INITIAL "0"
+  POSITION 6
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 50
+
+ADD FIELD "Instal" OF "LandSale" AS decimal 
+  FORMAT "->>,>>>,>>9.99"
+  INITIAL "0"
+  POSITION 7
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 60
+
+ADD FIELD "Int" OF "LandSale" AS decimal 
+  FORMAT "99.99"
+  INITIAL "0"
+  POSITION 8
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 70
+
+ADD FIELD "Per" OF "LandSale" AS integer 
+  FORMAT "999"
+  INITIAL "0"
+  POSITION 9
+  MAX-WIDTH 4
+  ORDER 80
+
+ADD FIELD "NextPer" OF "LandSale" AS integer 
+  FORMAT "999999"
+  INITIAL "0"
+  LABEL "NextPeriod"
+  POSITION 10
+  MAX-WIDTH 56
+  COLUMN-LABEL "NextPeriod"
+  EXTENT 4
+  ORDER 90
+
+ADD FIELD "StandNo" OF "LandSale" AS character 
+  FORMAT "x(8)"
+  INITIAL ""
+  POSITION 11
+  MAX-WIDTH 16
+  ORDER 100
+
+ADD FIELD "Deposit" OF "LandSale" AS decimal 
+  FORMAT "->>,>>>,>>9.99"
+  INITIAL "0"
+  POSITION 12
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 110
+
+ADD TABLE "Proj"
+  AREA "Schema Area"
+  DUMP-NAME "proj"
+
+ADD FIELD "scheme" OF "Proj" AS decimal 
+  FORMAT "999"
+  INITIAL "0"
+  LABEL "scheme"
+  POSITION 2
+  MAX-WIDTH 17
+  COLUMN-LABEL "scheme"
+  DECIMALS 2
+  ORDER 20
+
+ADD FIELD "Descrip" OF "Proj" AS character 
+  FORMAT "X(80)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 160
+  ORDER 30
+
+ADD FIELD "iLedger" OF "Proj" AS decimal 
+  FORMAT "zzzzzzzzzzzz"
+  INITIAL "0"
+  LABEL "Ledger"
+  POSITION 4
+  MAX-WIDTH 104
+  COLUMN-LABEL "Ledger"
+  EXTENT 4
+  DECIMALS 2
+  ORDER 40
+
+ADD FIELD "svgrp" OF "Proj" AS integer 
+  FORMAT "999"
+  INITIAL "0"
+  LABEL "Service"
+  POSITION 5
+  MAX-WIDTH 32
+  COLUMN-LABEL "Service"
+  EXTENT 4
+  ORDER 50
+
+ADD FIELD "Cycle" OF "Proj" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Cycle"
+  POSITION 6
+  MAX-WIDTH 24
+  COLUMN-LABEL "Cycle"
+  EXTENT 4
+  ORDER 60
+
+ADD FIELD "Freq" OF "Proj" AS integer 
+  FORMAT "9"
+  INITIAL "0"
+  LABEL "Frequency"
+  POSITION 7
+  MAX-WIDTH 4
+  VIEW-AS "VIEW-AS COMBO-BOX
+    LIST-ITEM-PAIRS ""Monthly"",1,""Quarterly"",2, 
+                    ""Half-yearly"", 3, ""Annualy"",4."
+  COLUMN-LABEL "Frequency"
+  ORDER 70
+
+ADD FIELD "Int" OF "Proj" AS decimal 
+  FORMAT "99.99"
+  INITIAL "0"
+  POSITION 8
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 80
+
+.
+PSC
+cpstream=ISO8859-1
+.
+0000003130

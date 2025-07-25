@@ -1,0 +1,12 @@
+
+11/07/24 15:04:55  [15748]
+Progress Recent Message(s):
+  
+
+  *** ABL Call Stack ***
+Last action: FIND FIRST     (65)
+6551: call_sew_getHandle adeuib/_uibmain.p (adeuib/_uibmain.r)
+6476: call_sew adeuib/_uibmain.p (adeuib/_uibmain.r)
+5497: USER-INTERFACE-TRIGGER adeuib/_uibmain.p (adeuib/_uibmain.r)
+5596: adeuib/_uibmain.p (adeuib/_uibmain.r)
+394: _ab.p (C:\Progress\OpenEdge\gui\_ab.r)

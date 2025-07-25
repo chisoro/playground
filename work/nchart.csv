@@ -1,0 +1,2665 @@
+desc,acc,br,ca,sub,n1,len
+Revenue,1,1,1,1,1,1
+Taxes,11,1,11,11,11,2
+Taxes on property,113,1,11,113,113,3
+Recurrent taxes on immovable property,1131,1,11,113,1131,4
+tax on immovable property,1131000001,1,11,113,1131,10
+Assesement rates-industrial,1131000002,1,11,113,1131,10
+Assesement rates-other commercial,1131000003,1,11,113,1131,10
+Assesement rates-Residential,1131000004,1,11,113,1131,10
+Supplimentary charges/rates,1131000005,1,11,113,1131,10
+Development levy -A1,1131000006,1,11,113,1131,10
+Development levy -A2,1131000007,1,11,113,1131,10
+Development levy -Communal,1131000008,1,11,113,1131,10
+Development levy -mines,1131000009,1,11,113,1131,10
+Non-property Taxes,114,1,11,114,114,3
+Sales taxes,1141,1,11,114,1141,4
+Sales taxes,11412,1,11,114,1141,5
+Royalties-General,1141200005,1,11,114,1141,10
+Taxes on use of goods and on permission to use goods or perform activities,1145,1,11,114,1145,4
+Motor vehicle/ boats/ aeroplanes taxes,11451,1,11,114,1145,5
+Motor vehicle licences individuals,1145100001,1,11,114,1145,10
+Motor vehicle licences corporates,1145100002,1,11,114,1145,10
+Other taxes on use of goods and on permission to use goods or perform activities,11452,1,11,114,1145,5
+Business and professional licenses,114521,1,11,114,1145,6
+Payable by individuals,1145210001,1,11,114,1145,10
+Payable by corporations and other enterprises,1145210002,1,11,114,1145,10
+Liquor licences,1145210003,1,11,114,1145,10
+General dealers licence,1145210004,1,11,114,1145,10
+Manufacturing licence,1145210005,1,11,114,1145,10
+Other trading licences,1145210006,1,11,114,1145,10
+Licenses and permits for households1,114524,1,11,114,1145,6
+Individuals Licenses and permits,1145240001,1,11,114,1145,10
+Corporations Licenses and permits,1145240002,1,11,114,1145,10
+Other taxes on the use of goods and on permission to use goods or perform activities not elsewhere classified1,114525,1,11,114,1145,6
+Individuals Licenses and permits,0,1,0,0,0,10
+Corporations Licenses and permits,0,0,0,0,0,0
+Fishing permit,1145250003,1,11,114,1145,10
+Resource utilisation permit,1145250004,1,11,114,1145,10
+Mineral ore transporters fees,1145250005,1,11,114,1145,10
+Grants,13,1,13,13,13,2
+From foreign governments,131,1,13,131,131,3
+Current Grants from Foreign governments,1311,1,13,131,1311,4
+Current,1311000001,1,13,131,1311,10
+Capital Grants from Foreign governments,1312,1,13,131,1312,4
+Capital,0,0,0,0,0,0
+From international organizations,132,1,13,132,132,3
+Current Grants From international organizations,1321,1,13,132,1321,4
+Capital Grants From international organizations,1322,1,13,132,1322,4
+Capital Grants from International Organization,1322000001,1,13,132,1322,10
+From other general government units,133,1,13,133,133,3
+Current Grants From other general government units1,1331,1,13,133,1331,4
+Current Grants: From Budgetary central government,1331000001,1,13,133,1331,10
+Current Grants: From Extrabudgetary entities,1331000002,1,13,133,1331,10
+Current Grants: From Local government,1331000003,1,13,133,1331,10
+Current Grants: From Regional government,1331000004,1,13,133,1331,10
+Current Grants: From Social security funds,1331000005,1,13,133,1331,10
+Current Grants: From government subsector n.e.c,1331000006,1,13,133,1331,10
+Capital Grants From other general government units1,1332,1,13,133,1332,4
+Capital Grants: From Budgetary central government,1332000001,1,13,133,1332,10
+Capital Grants: From Extrabudgetary entities,1332000002,1,13,133,1332,10
+Capital Grants: From Local government,0,0,0,0,0,0
+Capital Grants: From Regional government,1332000004,1,13,133,1332,10
+Capital Grants: From Social security funds,1332000005,1,13,133,1332,10
+Capital Grants: From government subsector n.e.c,1332000006,1,13,133,1332,10
+Other revenue,14,1,14,14,14,2
+Property income ,141,1,14,141,141,3
+Interest,1411,1,14,141,1411,4
+Loans,1411100005,1,14,141,1411,10
+Interest: From residents other than general government [GFS],14112,1,14,141,1411,5
+Interest: From Private nonfinancial corporation,141121,1,14,141,1411,6
+Debt Securities,1411210001,1,14,141,1411,10
+Accounts receivables,1411210002,1,14,141,1411,10
+Currency and Deposits,1411210003,1,14,141,1411,10
+Loans,1411210004,1,14,141,1411,10
+Interest: From Private financial corporation,141122,1,14,141,1411,6
+Debt Securities,1411220001,1,14,141,1411,10
+Currency and Deposits,1411220003,1,14,141,1411,10
+Loans,1411220004,1,14,141,1411,10
+Interest: From Public nonfinancial corporation,141123,1,14,141,1411,6
+Debt Securities,1411230001,1,14,141,1411,10
+Accounts receivables,1411230002,1,14,141,1411,10
+Currency and Deposits,1411230003,1,14,141,1411,10
+Loans,1411230004,1,14,141,1411,10
+Interest: From Public financial corporation,141124,1,14,141,1411,6
+Debt Securities  Public financial corporation,1411240001,1,14,141,1411,10
+Accounts receivables- Public financial corporation,1411240002,1,14,141,1411,10
+Currency and Deposits- Public financial corporation,1411240003,1,14,141,1411,10
+Loans  Public financial corporation,1411240004,1,14,141,1411,10
+Interest: From Households,141125,1,14,141,1411,6
+Debt Securities- Households,1411250001,1,14,141,1411,10
+Accounts receivables- Households,0,0,0,0,0,0
+Currency and Deposits- Households,1411250003,1,14,141,1411,10
+Loans- Households,1411250004,1,14,141,1411,10
+Interest: From Nonprofit institutions serving households,141126,1,14,141,1411,6
+Interest: From residents other than general government n.e.c,141127,1,14,141,1411,6
+Debt Securities,1411270001,1,14,141,1411,10
+Accounts receivables,1411270002,1,14,141,1411,10
+Currency and Deposits,1411270003,1,14,141,1411,10
+Loans,1411270004,1,14,141,1411,10
+Interest: From Local government,141128,1,14,141,1411,6
+Debt Securities,1411280001,1,14,141,1411,10
+Accounts receivables,1411280002,1,14,141,1411,10
+Loans,1411280003,1,14,141,1411,10
+Interest: From Regional government,141128,1,14,141,1411,6
+Dividends,1412,1,14,141,1412,4
+From nonresidents,14121,1,14,141,1412,5
+From residents,14122,1,14,141,1412,5
+Dividends: From Public corporations,1412200001,1,14,141,1412,10
+Dividends: From Private corporations,1412200002,1,14,141,1412,10
+Dividends: From Extrabudgetary entities,1412200003,1,14,141,1412,10
+Dividends: From Local government,1412200004,1,14,141,1412,10
+Dividends: From Regional government,1412200005,1,14,141,1412,10
+Dividends: From Social security funds,1412200006,1,14,141,1412,10
+Dividends: From residents n.e.c,1412200007,1,14,141,1412,10
+Withdrawals of income from quasi-corporations,1413,1,14,141,1413,4
+Withdrawals of income from quasi-corporations,1413100001,1,14,141,1413,10
+Income from investment & Disposals,1414,1,14,141,1414,4
+Profit on disposals,1414000001,1,14,141,1414,10
+Rent,1415,1,14,141,1415,4
+Rent A1  Farms,1415000001,1,14,141,1415,10
+Rent A2 Farms,1415000002,1,14,141,1415,10
+Base Stations Land,1415000003,1,14,141,1415,10
+Natural Forest,1415000004,1,14,141,1415,10
+Fishing licences,1415000005,1,14,141,1415,10
+Trading Site Lease,1415000011,1,14,141,1415,10
+Bill boards rent,1415000012,1,14,141,1415,10
+stand leases(not for resale),1415000013,1,14,141,1415,10
+Sales of goods and services,142,1,14,142,142,3
+Sales by market establishments,1421,1,14,142,1421,4
+Sale of goods,1421000001,1,14,142,1421,10
+Sale of services,1421000002,1,14,142,1421,10
+Sale by quasi cooperations,1421000003,1,14,142,1421,10
+Profit on disposals,1421000005,1,14,142,1421,10
+Administrative fees,1422,1,14,142,1422,4
+Other fees,1422000017,1,14,142,1422,10
+General Agriculture fees,1422000022,1,14,142,1422,10
+Institutional Fines,1422000025,1,14,142,1422,10
+Institutional Educational Levies,1422000026,1,14,142,1422,10
+Amenities Fees,1422000027,1,14,142,1422,10
+Application Fees/waiting list,1422000028,1,14,142,1422,10
+Building adminstration fees,1422000029,1,14,142,1422,10
+Natural resources fees,1422000030,1,14,142,1422,10
+search fees,1422000031,1,14,142,1422,10
+Change of owner ship fees,1422000032,1,14,142,1422,10
+Cession fees,1422000033,1,14,142,1422,10
+Endowment fees,1422000034,1,14,142,1422,10
+Parking fees-revenue,1422000035,1,14,142,1422,10
+Health fees,1422000036,1,14,142,1422,10
+Public Toilet Fees,1422000037,1,14,142,1422,10
+way leaves,1422000038,1,14,142,1422,10
+Termini fees,1422000039,1,14,142,1422,10
+Beer levy,1422000040,1,14,142,1422,10
+Abatoir fees,1422000041,1,14,142,1422,10
+Ambulance fees,1422000042,1,14,142,1422,10
+Fire brigade fees,1422000043,1,14,142,1422,10
+Fees at government hospitals and clinics,1422000044,1,14,142,1422,10
+Tuition fees,1422000046,1,14,142,1422,10
+Admission fees to government museums,1422000047,1,14,142,1422,10
+"Admission fees parks, and cultural and recreational facilities",1422000048,1,14,142,1422,10
+Tender documents Sale/fees,1422000049,1,14,142,1422,10
+Education Levy,1422000050,1,14,142,1422,10
+Incidental sales by nonmarket establishments,1423,1,14,142,1423,4
+Sales of products made at vocational institutions,1423000001,1,14,142,1423,10
+Sales not elsewhere classified,1423000006,1,14,142,1423,10
+Imputed sales of goods and services,1424,1,14,142,1424,4
+Imputed sales of goods and services for paying employees,1424000001,1,14,142,1424,10
+Rentals & Land Sales,1425,1,14,142,1425,4
+Rentals,14250,1,14,142,1425,5
+Institutional Accommodation,1425000001,1,14,142,1425,10
+Hire of facilities,1425000003,1,14,142,1425,10
+Hire of equipment-revenue,1425000005,1,14,142,1425,10
+Office Rentals,1425000006,1,14,142,1425,10
+House Rentals,1425000007,1,14,142,1425,10
+lease,14251,1,14,142,1425,5
+Lease of  commercial stand,1425100001,1,14,142,1425,10
+Lease of institutional stand,1425100002,1,14,142,1425,10
+Lease of residential stand,1425100003,1,14,142,1425,10
+Sale of Land,14252,1,14,142,1425,5
+sale of  commercial stand,1425200001,1,14,142,1425,10
+Sale of institutional stand,1425200002,1,14,142,1425,10
+sale of residential stand,1425200003,1,14,142,1425,10
+sale of industrial stand,1425200004,1,14,142,1425,10
+Service Charges,14253,1,14,142,1425,5
+sewer charges,1425300001,1,14,142,1425,10
+Public Lighting,1425300002,1,14,142,1425,10
+Water charges,1425300003,1,14,142,1425,10
+Fire Levy,1425300004,1,14,142,1425,10
+Refuse Charges,1425300005,1,14,142,1425,10
+Other services charges (road side walk),1425300006,1,14,142,1425,10
+Education/school levy,1425300007,1,14,142,1425,10
+Roads levy,1425300008,1,14,142,1425,10
+"Fines, penalties, and forfeits",143,1,14,143,143,3
+Forfeits,1430000003,1,14,143,1430,10
+Employment Related Penalties,1430000004,1,14,143,1430,10
+Trafic enforcement penalty,1430000005,1,14,143,1430,10
+Building Enforcement Penalty,1430000006,1,14,143,1430,10
+Trading Penalty,1430000007,1,14,143,1430,10
+Environment,1430000008,1,14,143,1430,10
+Other penalties and fines,1430000009,1,14,143,1430,10
+Pound Fees (for animals),1430000010,1,14,143,1430,10
+Transfers not elsewhere classified,144,1,14,144,144,3
+Current transfers not elsewhere classified,1441,1,14,144,1441,4
+Subsidies,14411,1,14,144,1441,5
+Subsidies: From Budgetary central government,1441100001,1,14,144,1441,10
+Subsidies: From Extrabudgetary entities,1441100002,1,14,144,1441,10
+Subsidies: From Local government,1441100003,1,14,144,1441,10
+Subsidies: From Regional government,1441100004,1,14,144,1441,10
+Subsidies: From Social security funds,1441100005,1,14,144,1441,10
+Subsidies: From general government n.e.c,1441100006,1,14,144,1441,10
+Other current transfers not elsewhere classified,14412,1,14,144,1441,5
+Current transfers n.e.c: From Public corporations,1441201,1,14,144,1441,7
+Donations,1441201001,1,14,144,1441,10
+Gifts,1441201002,1,14,144,1441,10
+Currents transfers not considered to be donations or gifts,1441201003,1,14,144,1441,10
+Current transfers n.e.c: From Private corporations,1441202,1,14,144,1441,7
+Donations,1441202001,1,14,144,1441,10
+Gifts,1441202002,1,14,144,1441,10
+Currents transfers not considered to be donations or gifts,1441202003,1,14,144,1441,10
+Current transfers n.e.c: From Households,1441203,1,14,144,1441,7
+Donations,1441203001,1,14,144,1441,10
+Gifts,1441203002,1,14,144,1441,10
+Currents transfers not considered to be donations or gifts,1441203003,1,14,144,1441,10
+Current transfers n.e.c: From Budgetary central government,1441205,1,14,144,1441,7
+Donations,1441205001,1,14,144,1441,10
+Gifts,1441205002,1,14,144,1441,10
+Current transfers n.e.c: From unidentifiable source,1441210,1,14,144,1441,7
+Donations,1441210001,1,14,144,1441,10
+Gifts,1441210002,1,14,144,1441,10
+Other capital transfers not elsewhere classified,0,0,0,0,0,0
+Capital transfers n.e.c: From Public corporations,1442000004,1,14,144,1442,10
+Capital transfers n.e.c: From Private corporations,1442000006,1,14,144,1442,10
+Capital transfers n.e.c: From Households,1442000007,1,14,144,1442,10
+Capital transfers n.e.c: From Nonprofit institutions serving households,1442000008,1,14,144,1442,10
+Capital transfers n.e.c: From Budgetary central government,1442000009,1,14,144,1442,10
+Capital transfers n.e.c: From Extrabudgetary entities,1442000010,1,14,144,1442,10
+Capital transfers n.e.c: From Local government,1442000011,1,14,144,1442,10
+Capital transfers n.e.c: From Regional government,1442000012,1,14,144,1442,10
+Capital transfers n.e.c: From Social security funds,1442000013,1,14,144,1442,10
+Capital transfers n.e.c: From unidentifiable source,1442000014,1,14,144,1442,10
+EXPENSES,2,2,2,2,2,1
+Compensation of employees [GFS],21,2,21,21,21,2
+Wages and salaries [GFS],211,2,21,211,211,3
+Wages and salaries in cash [GFS],2111,2,21,211,2111,4
+Basic salary,2111000001,2,21,211,2111,10
+Constitutional salary,2111000002,2,21,211,2111,10
+Casual labourers,2111000003,2,21,211,2111,10
+Part time,2111000004,2,21,211,2111,10
+Contract,2111000005,2,21,211,2111,10
+External Service/Resident,2111000006,2,21,211,2111,10
+External Service/Non Resident,2111000007,2,21,211,2111,10
+Allowances,2111,2,21,211,2111,4
+Abnormal hours,2111000050,2,21,211,2111,10
+Acting,2111000051,2,21,211,2111,10
+Ambulance driver,2111000052,2,21,211,2111,10
+Anaesthetic,2111000053,2,21,211,2111,10
+Bituman,2111000054,2,21,211,2111,10
+Bonus,2111000055,2,21,211,2111,10
+Calculated overtime allowance,2111000057,2,21,211,2111,10
+Call out allowance,2111000058,2,21,211,2111,10
+Cash in lieu of leave (C.I.L)/ Encashment,2111000059,2,21,211,2111,10
+Catering allowance,2111000060,2,21,211,2111,10
+Cellphone,2111000061,2,21,211,2111,10
+Control posts allowance,2111000065,2,21,211,2111,10
+Cycle allowance,2111000066,2,21,211,2111,10
+Domestic Worker Allowance,2111000067,2,21,211,2111,10
+Driving Allowance,2111000069,2,21,211,2111,10
+Education Allowance,2111000070,2,21,211,2111,10
+Housing allowance,2111000077,2,21,211,2111,10
+Internship/Attachment,2111000079,2,21,211,2111,10
+Living out allowance,2111000082,2,21,211,2111,10
+Locum,2111000083,2,21,211,2111,10
+Night duty allowance,2111000086,2,21,211,2111,10
+On call allowance,2111000087,2,21,211,2111,10
+Professional and Technical Allowance,2111000091,2,21,211,2111,10
+Relocation Allowance,2111000092,2,21,211,2111,10
+Representation allowance,2111000093,2,21,211,2111,10
+Responsibility allowance,2111000095,2,21,211,2111,10
+Retention Allowance,2111000096,2,21,211,2111,10
+Risk Allowance,2111000097,2,21,211,2111,10
+Sanitary allowance,2111000098,2,21,211,2111,10
+Shift allowance,2111001000,2,21,211,2111,10
+Slaughter floor allowance,2111001001,2,21,211,2111,10
+Stand by allowance,2111001004,2,21,211,2111,10
+Telephone,2111001006,2,21,211,2111,10
+Theartre allowance,2111001007,2,21,211,2111,10
+Transport allowance,2111001009,2,21,211,2111,10
+Uniforms,2111000110,2,21,211,2111,10
+X-Ray operator allowance,2111000111,2,21,211,2111,10
+Mortuary attendant allowance,2111000112,2,21,211,2111,10
+Student allowances,2111000113,2,21,211,2111,10
+Special allowance,2111000114,2,21,211,2111,10
+Councillors Allowances,2111000116,2,21,211,2111,10
+Tutors / Instructors,2111000117,2,21,211,2111,10
+Messengers allowances,2111000120,2,21,211,2111,10
+Entertainment Allowance,2111000122,2,21,211,2111,10
+Rural Allowance,2111000125,2,21,211,2111,10
+School Fees Allowance,2111000127,2,21,211,2111,10
+Practising Allowance,2111000128,2,21,211,2111,10
+Charge hand allowance (foreman),2111000135,2,21,211,2111,10
+Chauffer allowance,2111000136,2,21,211,2111,10
+anaesthetic,2111000137,2,21,211,2111,10
+Sitting Allowance,2111000138,2,21,211,2111,10
+Electricity and water allowance,2111000140,2,21,211,2111,10
+Suspension allowance,2111000142,2,21,211,2111,10
+Trade allowance,2111000144,2,21,211,2111,10
+Motor vehicle allowance,2111000146,2,21,211,2111,10
+Fringe Benefits allowance,2111000149,2,21,211,2111,10
+camping allowance,2111000151,2,21,211,2111,10
+Tools allowance,2111000152,2,21,211,2111,10
+Cash handling allowance,2111000154,2,21,211,2111,10
+long service award,2111000155,2,21,211,2111,10
+Private mileage allowance,2111000156,2,21,211,2111,10
+commisioner allowance (representation of councillors,2111000159,2,21,211,2111,10
+Constitutional allowances,2111,2,21,211,2111,4
+Chiefs and headman allowance,2111003010,2,21,211,2111,10
+Wages and salaries in kind [GFS],2112,2,21,211,2112,4
+S.I.K Food and refreshments,2112000001,2,21,211,2112,10
+S.I.K Clothing,2112000002,2,21,211,2112,10
+S.I.K Housing,2112000003,2,21,211,2112,10
+S.I.K Diesel/Petrol,2112000004,2,21,211,2112,10
+S.I.K Vehicle hire and lease,2112000005,2,21,211,2112,10
+S.I.K Free travel,2112000006,2,21,211,2112,10
+"S.I.K Sports, recreation or holidays",2112000007,2,21,211,2112,10
+S.I.K Transport,2112000008,2,21,211,2112,10
+S.I.K Child care,2112000009,2,21,211,2112,10
+S.I.K Reduced Interest on Loan,2112000010,2,21,211,2112,10
+S.I.K Newspapers,2112000011,2,21,211,2112,10
+S.I.K Bonus shares or stock options,2112000012,2,21,211,2112,10
+subsides land sales,2112000013,2,21,211,2112,10
+Social contributions [GFS],212,2,21,212,212,3
+Actual social contributions [GFS],2121,2,21,212,2121,4
+National Social Security Scheme,2121000001,2,21,212,2121,10
+Contributions to health insurance,2121000002,2,21,212,2121,10
+Contributions to pension funds,2121000003,2,21,212,2121,10
+Personal Accident Insurance,2121000004,2,21,212,2121,10
+Severance payments,2121000006,2,21,212,2121,10
+Medical Expenses,2121000007,2,21,212,2121,10
+Funeral Expenses,2121000008,2,21,212,2121,10
+Pension Employer Contributions,2121000009,2,21,212,2121,10
+Gratuity,2121000010,2,21,212,2121,10
+Imputed social contributions [GFS],2122,2,21,212,2122,4
+Family benefits,2122000001,2,21,212,2122,10
+Sick leave,2122000002,2,21,212,2122,10
+Maternity leave,2122000003,2,21,212,2122,10
+Severance payments,2122000004,2,21,212,2122,10
+Medical Expenses,2122000005,2,21,212,2122,10
+Funeral Expenses,2122000006,2,21,212,2122,10
+Pension Employer Contributions,2122000007,2,21,212,2122,10
+Gratuity,2122000008,2,21,212,2122,10
+Use of Goods and Services,22,2,22,22,22,2
+"Communication and Information, Supplies and Services",22001,2,22,220,2200,5
+Public Relations & Advertising,2200100001,2,22,220,2200,10
+Courier services,2200100002,2,22,220,2200,10
+Internet,2200100003,2,22,220,2200,10
+Maps,2200100004,2,22,220,2200,10
+News services fees,2200100005,2,22,220,2200,10
+Newspapers - general,2200100006,2,22,220,2200,10
+Postal charges,2200100007,2,22,220,2200,10
+Printing Services,2200100008,2,22,220,2200,10
+"Audio/visual Tapes, records & disks",2200100009,2,22,220,2200,10
+Telephone -fixed,2200100010,2,22,220,2200,10
+Telephone-mobile,2200100011,2,22,220,2200,10
+Telex /fax,2200100012,2,22,220,2200,10
+Airwaves and Radio license,2200100013,2,22,220,2200,10
+Exhibitions,2200100014,2,22,220,2200,10
+Telephone - Roaming,2200100015,2,22,220,2200,10
+"Educational Material, Supplies and Services",22002,2,22,220,2200,5
+Archive material,2200200001,2,22,220,2200,10
+Books,2200200002,2,22,220,2200,10
+Laboratory accessories,2200200003,2,22,220,2200,10
+Learning material,2200200004,2,22,220,2200,10
+Periodicals,2200200005,2,22,220,2200,10
+School/ College meals,2200200006,2,22,220,2200,10
+"Sporting goods,",2200200007,2,22,220,2200,10
+Teaching/Training materials,2200200008,2,22,220,2200,10
+Examination expenses,2200200009,2,22,220,2200,10
+Hospitality,22003,2,22,220,2200,5
+Accomodation,2200300001,2,22,220,2200,10
+Catering,2200300002,2,22,220,2200,10
+Entertainment,2200300003,2,22,220,2200,10
+Gifts and Donations,2200300004,2,22,220,2200,10
+Visitors transport,2200300005,2,22,220,2200,10
+Ex-gratia,2200300006,2,22,220,2200,10
+Medical Supplies and Services,22004,2,22,220,2200,5
+Anti-retroviral drugs &HIV Kits,2200400001,2,22,220,2200,10
+Blood and Blood products,2200400002,2,22,220,2200,10
+Contraceptives,2200400003,2,22,220,2200,10
+Dental supplies,2200400004,2,22,220,2200,10
+Drugs and medicines (not ARV drugs),2200400005,2,22,220,2200,10
+Laboratory fees,2200400006,2,22,220,2200,10
+Medical examinations,2200400007,2,22,220,2200,10
+Medical laboratory supplies,2200400008,2,22,220,2200,10
+Post mortem expenses,2200400009,2,22,220,2200,10
+Surgical supplies,2200400010,2,22,220,2200,10
+Vaccines,2200400011,2,22,220,2200,10
+X-ray Supplies,2200400012,2,22,220,2200,10
+Medical Gases,2200400013,2,22,220,2200,10
+Mortuary Expenses,2200400014,2,22,220,2200,10
+special Medical Requirements,2200400015,2,22,220,2200,10
+Tuberculosis Drugs,2200400016,2,22,220,2200,10
+Health systems strengthening,2200400017,2,22,220,2200,10
+Pathology services,2200400018,2,22,220,2200,10
+Office Supplies and Services,22006,2,22,220,2200,5
+Microfilm/photocopying & photographic materials,2200600001,2,22,220,2200,10
+"Computer consumables, accessories & supplies",2200600002,2,22,220,2200,10
+Renewal of computer software licenses,2200600003,2,22,220,2200,10
+Stationery supplies,2200600004,2,22,220,2200,10
+Rental and Hire Expenses,22007,2,22,220,2200,5
+Air charters,2200700001,2,22,220,2200,10
+Boat hire,2200700002,2,22,220,2200,10
+Office accommodation,2200700003,2,22,220,2200,10
+"Plant, Machinery and equipment-Hire/lease and services",2200700004,2,22,220,2200,10
+Staff accommodation,2200700005,2,22,220,2200,10
+Conferences,2200700006,2,22,220,2200,10
+Storage accommodation,2200700007,2,22,220,2200,10
+Train / bulk movement,2200700008,2,22,220,2200,10
+Vehicle hire and lease general,2200700009,2,22,220,2200,10
+Training and Development Expenses,22008,2,22,220,2200,5
+Training Allowances and incidentals,2200800001,2,22,220,2200,10
+Training - Travel expenses,2200800002,2,22,220,2200,10
+Training - Tuition and exam fees,2200800003,2,22,220,2200,10
+Training - Accommodation,2200800004,2,22,220,2200,10
+Domestic Travel Expenses,22009,2,22,220,2200,5
+"Domestic allowances for accomodation, meals etc",2200900001,2,22,220,2200,10
+Domestic travel fares,2200900002,2,22,220,2200,10
+Baggage fee - Local,2200900003,2,22,220,2200,10
+Toll/Parking Fees,2200900004,2,22,220,2200,10
+Departure fee - Local,2200900005,2,22,220,2200,10
+Domestic Allowances -others,2200900006,2,22,220,2200,10
+Foreign Travel Expenses,22010,2,22,220,2201,5
+External travel fares,2201000001,2,22,220,2201,10
+"Foreign allowances for accomodation, meals etc",2201000002,2,22,220,2201,10
+Visas,2201000003,2,22,220,2201,10
+Baggage fee - Foreign,2201000004,2,22,220,2201,10
+Departure fee - Foreign,2201000005,2,22,220,2201,10
+Toll/Parking Fees- Foreign,2201000006,2,22,220,2201,10
+Medical Vaccination - for Foreign Travel,2201000007,2,22,220,2201,10
+Medical Insurance- Foreign Travell,2201000008,2,22,220,2201,10
+Vehicle Hire- Foreign Travell,2201000009,2,22,220,2201,10
+Utilities and Other Service Charges,22011,2,22,220,2201,5
+Coal,2201100001,2,22,220,2201,10
+Electricity,2201100002,2,22,220,2201,10
+Firewood,2201100003,2,22,220,2201,10
+Gas,2201100004,2,22,220,2201,10
+Water,2201100005,2,22,220,2201,10
+Rates,2201100006,2,22,220,2201,10
+Sewage and Refuse Collection & Other charges,2201100007,2,22,220,2201,10
+Hire of services,2201100008,2,22,220,2201,10
+Heating oil,2201100009,2,22,220,2201,10
+Chemicals Fertiliser and Animal Feeds,22012,2,22,220,2201,5
+Stock feed,2201200001,2,22,220,2201,10
+Agro-Chemicals,2201200002,2,22,220,2201,10
+Fertiliser,2201200003,2,22,220,2201,10
+Seed and seedlings,2201200004,2,22,220,2201,10
+Targets and attractants,2201200005,2,22,220,2201,10
+Dip chemicals,2201200006,2,22,220,2201,10
+Veterinary Vaccines,2201200007,2,22,220,2201,10
+Veterinary Drugs,2201200008,2,22,220,2201,10
+Veterinary Laboratory Expenses,2201200009,2,22,220,2201,10
+Water Treatment chemicals,2201200010,2,22,220,2201,10
+Sewerage Treatment chemicals,2201200011,2,22,220,2201,10
+Refunds - Constitutional,22013,2,22,220,2201,5
+Refunds - Revenue,2201300001,2,22,220,2201,10
+Financial Transactions,22014,2,22,220,2201,5
+Audit Fees,2201400001,2,22,220,2201,10
+Audit Committee expenses,2201400002,2,22,220,2201,10
+Bank transaction fees,2201400003,2,22,220,2201,10
+Board fees,2201400004,2,22,220,2201,10
+Borrowing  related costs,2201400005,2,22,220,2201,10
+Consultancy fees/extranoeus professional services,2201400006,2,22,220,2201,10
+Debt collection expenses,2201400007,2,22,220,2201,10
+Exchange rate loss,2201400008,2,22,220,2201,10
+Legal fees,2201400009,2,22,220,2201,10
+Loss on disposal,2201400010,2,22,220,2201,10
+Loss of public money,2201400011,2,22,220,2201,10
+Fiscal Fiduciary Fees,2201400012,2,22,220,2201,10
+Import Duty,2201400013,2,22,220,2201,10
+Holding Loss,2201400014,2,22,220,2201,10
+Technical related costs,2201400015,2,22,220,2201,10
+Valuation expenses,2201400016,2,22,220,2201,10
+Institutional Provisions,22015,2,22,220,2201,5
+Bedding and linen,2201500001,2,22,220,2201,10
+Uniform/Ceremonial dress and National symbols,2201500002,2,22,220,2201,10
+Protective clothing,2201500003,2,22,220,2201,10
+Food and refreshments,2201500004,2,22,220,2201,10
+Rations,2201500005,2,22,220,2201,10
+Toiletries,2201500006,2,22,220,2201,10
+Other Goods and Services Not Classified Above,22016,2,22,220,2201,5
+Honorariums and awards,2201600001,2,22,220,2201,10
+Material licence discs and number plates,2201600002,2,22,220,2201,10
+Witness expenses,2201600003,2,22,220,2201,10
+Cost Insurance and Freight including  Demurrage,2201600006,2,22,220,2201,10
+Procurement and Handling Fees,2201600008,2,22,220,2201,10
+General Insurance,2201600009,2,22,220,2201,10
+Hunting qoutas,2201600010,2,22,220,2201,10
+commissions expenses,2201600011,2,22,220,2201,10
+Raw Water,2201600012,2,22,220,2201,10
+Physical Maintenance,22017,2,22,220,2201,5
+Building Maintenance,2201700001,2,22,220,2201,10
+Road Maintenance,2201700002,2,22,220,2201,10
+Walling and Fencing Maintenance,2201700003,2,22,220,2201,10
+Plumbing Maintenance,2201700004,2,22,220,2201,10
+Electrical supplies Maintenance,2201700005,2,22,220,2201,10
+Borehole casings and accessories Maintenance,2201700006,2,22,220,2201,10
+Building Repairs,2201700007,2,22,220,2201,10
+Road Repairs,2201700008,2,22,220,2201,10
+Walling and Fencing Repairs,2201700009,2,22,220,2201,10
+Plumbing Repairs,2201700010,2,22,220,2201,10
+Electrical supplies Repairs,2201700011,2,22,220,2201,10
+Borehole casings and accessories Repairs,2201700012,2,22,220,2201,10
+Infrastrucure maintainance,2201700013,2,22,220,2201,10
+Infrastrucure Repairs,2201700014,2,22,220,2201,10
+Technical and Office Equipment,22018,2,22,220,2201,5
+Tools and Implements,2201800001,2,22,220,2201,10
+Parts - Technical equipment,2201800002,2,22,220,2201,10
+Medical and Diagnostic equipment,2201800003,2,22,220,2201,10
+Office equipment,2201800004,2,22,220,2201,10
+Residental Furniture and Equipment,2201800005,2,22,220,2201,10
+Technical  maintenance,2201800006,2,22,220,2201,10
+Technical  repairs,2201800007,2,22,220,2201,10
+Vehicle and Mobile Equipment,22019,2,22,220,2201,5
+Maintenance of mobile equipment,2201900001,2,22,220,2201,10
+Maintenance of vehicles,2201900002,2,22,220,2201,10
+Repairs of mobile equipment,2201900003,2,22,220,2201,10
+Repairs of vehicles,2201900004,2,22,220,2201,10
+Panel & body shop repairs,2201900003,2,22,220,2201,10
+Parts -mechanical/electrical (Vehicles and mobile equipment),2201900004,2,22,220,2201,10
+Tyres/batteries,2201900005,2,22,220,2201,10
+Motor vehicle Insurance,2201900006,2,22,220,2201,10
+Motor vehicle Iicences,2201900007,2,22,220,2201,10
+Stationary Plant and Fixed Equipment,22020,2,22,220,2202,5
+Maintenance of plant and fixed equipment,2202000001,2,22,220,2202,10
+Repairs of plant and fixed equipment,2202000002,2,22,220,2202,10
+Spare parts- mechanical /electrical,2202000003,2,22,220,2202,10
+Fumigation and Cleaning Services,22021,2,22,220,2202,5
+"Fumigation, Chemicals and insecticides",2202100001,2,22,220,2202,10
+"Mops, brooms and brushes",2202100002,2,22,220,2202,10
+Disinfectants and detergents,2202100003,2,22,220,2202,10
+Dry Cleaning and Laundry services,2202100004,2,22,220,2202,10
+"Fuel, oils and lubricants",22022,2,22,220,2202,5
+Diesel,2202200002,2,22,220,2202,10
+Petrol,2202200003,2,22,220,2202,10
+Lubricants,2202200004,2,22,220,2202,10
+Oils,2202200005,2,22,220,2202,10
+Parafin,2202200006,2,22,220,2202,10
+Local subscriptions,22023,2,22,220,2202,5
+Local Subscriptions,2202300001,2,22,220,2202,10
+Foreign Subscriptions,2202300002,2,22,220,2202,10
+Consumption of fixed capital [GFS],23,2,23,23,23,2
+Fixed Assets,2301,2,23,230,2301,4
+Buildings and structures,23011,2,23,230,2301,5
+Dwellings,230111,2,23,230,2301,6
+Depreciation - Residential Buildings,2301110001,2,23,230,2301,10
+Depreciation - Caravans,2301110002,2,23,230,2301,10
+Depreciation - Houseboats,2301110003,2,23,230,2301,10
+Depreciation - Mobile Homes,2301110004,2,23,230,2301,10
+Impairment of fixed assets - Residential Buildings,2301110005,2,23,230,2301,10
+Impairment of fixed assets - Caravans,2301110006,2,23,230,2301,10
+Impairment of fixed assets - Houseboats,2301110007,2,23,230,2301,10
+Impairment of fixed assets - Mobile Homes,2301110008,2,23,230,2301,10
+Buildings other than dwellings,230112,2,23,230,2301,6
+Depreciation - Commercial Buildings,2301120001,2,23,230,2301,10
+Depreciation - Industrial Buildings,2301120002,2,23,230,2301,10
+Depreciation - Institutional Buildings,2301120003,2,23,230,2301,10
+Impairment of fixed assets -  Commercial Buildings,2301120004,2,23,230,2301,10
+Impairment of fixed assets - Industrial Buildings,2301120005,2,23,230,2301,10
+Impairment of fixed assets -  Institutional Buildings,2301120006,2,23,230,2301,10
+Other structures,230113,2,23,230,2301,6
+"Depreciation - Airport, Runways & Helipads",2301130001,2,23,230,2301,10
+Depreciation - Roads,2301130002,2,23,230,2301,10
+Depreciation - Bridges,2301130003,2,23,230,2301,10
+Depreciation - Civil Works,2301130004,2,23,230,2301,10
+Depreciation - Dams,2301130005,2,23,230,2301,10
+Depreciation - Water Works,2301130006,2,23,230,2301,10
+Depreciation - Boreholes,2301130007,2,23,230,2301,10
+Depreciation - Dip Tanks & Live Stock Management Facilities,2301130008,2,23,230,2301,10
+Depreciation - Irrigation Schemes,2301130009,2,23,230,2301,10
+Depreciation - Monuments,2301130010,2,23,230,2301,10
+Depreciation - Railway,2301130011,2,23,230,2301,10
+"Impairment of fixed assets - Airport, Runways & Helipads",2301130012,2,23,230,2301,10
+Impairment of fixed assets - Roads,2301130013,2,23,230,2301,10
+Impairment of fixed assets - Bridges,2301130014,2,23,230,2301,10
+Impairment of fixed assets - Civil Works,2301130015,2,23,230,2301,10
+Impairment of fixed assets - Dams,2301130016,2,23,230,2301,10
+Impairment of fixed assets - Water Works,2301130017,2,23,230,2301,10
+Impairment of fixed assets - Boreholes,2301130018,2,23,230,2301,10
+Impairment of fixed assets - Dip Tanks & Live Stock Management Facilities,2301130019,2,23,230,2301,10
+Impairment of fixed assets - Irrigation Schemes,2301130020,2,23,230,2301,10
+Impairment of fixed assets - Monuments,2301130021,2,23,230,2301,10
+Impairment of fixed assets - Railway,2301130022,2,23,230,2301,10
+Machinery and equipment,23012,2,23,230,2301,5
+Transport equipment,230121,2,23,230,2301,6
+Depreciation - Boats & Water Craft,2301210002,2,23,230,2301,10
+Depreciation - Motor Cycles & Bicycles,2301210003,2,23,230,2301,10
+Depreciation - Motor Vehicles,2301210004,2,23,230,2301,10
+Depreciation -Tractors and Earthmoving Equipment,2301210005,2,23,230,2301,10
+Impairment of fixed assets - Boats & Water Craft,2301210007,2,23,230,2301,10
+Impairment of fixed assets - Motor Cycles & Bicycles,2301210008,2,23,230,2301,10
+Impairment of fixed assets - Motor Vehicles,2301210009,2,23,230,2301,10
+Impairment of fixed assets - Tractors and Earthmoving Equipment,2301210010,2,23,230,2301,10
+Other machinery and equipment,230122,2,23,230,2301,6
+"Information, Computer & Telecommunication (ICT) Equipment",2301221,2,23,230,2301,7
+"Information, Computer & Telecommunication (ICT) Equipment",2301221001,2,23,230,2301,10
+Machinery & Equipment not elsewhere classified,2301222,2,23,230,2301,7
+Generators,2301222001,2,23,230,2301,10
+Machinery & Equipment not elsewhere classified -,2301222002,2,23,230,2301,10
+Survey Equipment,2301222003,2,23,230,2301,10
+Funeral Equipment,2301222004,2,23,230,2301,10
+Photographic/Media Equipment,2301222005,2,23,230,2301,10
+Sports Equipment,2301222006,2,23,230,2301,10
+Teaching and Training Equipment,2301222007,2,23,230,2301,10
+Navigational and Telecommunications Equipment,2301222008,2,23,230,2301,10
+Camping equipment,2301222009,2,23,230,2301,10
+Kitchen and Culinary Equipment,2301222010,2,23,230,2301,10
+Office Equipment,2301222011,2,23,230,2301,10
+Furniture and Fittings,2301222012,2,23,230,2301,10
+Laboratory Equipment,2301222013,2,23,230,2301,10
+Hospital Equipment,2301222014,2,23,230,2301,10
+Scales and Measures,2301222015,2,23,230,2301,10
+Fire Fighting Equipment,2301222016,2,23,230,2301,10
+Other fixed assets,23013,2,23,230,2301,5
+Cultivated biological resources,230131,2,23,230,2301,6
+Impairment of fixed assets - Animal Resources Yielding Repeat Products,2301310001,2,23,230,2301,10
+"Impairment of fixed assets - Tree, Crop & Plant Resources Yielding Repeat Products",2301310002,2,23,230,2301,10
+Intellectual property products,230132,2,23,230,2301,6
+Impairment of fixed assets - Research & Development,2301320001,2,23,230,2301,10
+Impairment of fixed assets - Mineral Exploration & Evaluation,2301320002,2,23,230,2301,10
+computer software,2301320003,2,23,230,2301,10
+Data bases,2301320004,2,23,230,2301,10
+"Entertainment, Literary & Artistic Originals",2301320005,2,23,230,2301,10
+Other Intellectual & Property Products,2301320006,2,23,230,2301,10
+Impairment of fixed assets - Computer Software & Databases,2301320007,2,23,230,2301,10
+"Impairment of fixed assets - Entertainment, Literary & Artistic Originals",2301320008,2,23,230,2301,10
+Impairment of fixed assets - Other Intellectual & Property Products,2301320009,2,23,230,2301,10
+Costs of ownership transfer on Non-Produced Assets other than land,230133,2,23,230,2301,6
+Costs of ownership,2301330001,2,23,230,2301,10
+Impairment of fixed assets - Cost of ownership,2301330002,2,23,230,2301,10
+Weapons systems,23014,2,23,230,2301,5
+Weapons systems,2301400001,2,23,230,2301,10
+Impairment of fixed assets - Weapon systems,2301400002,2,23,230,2301,10
+Interest ,24,2,24,24,24,2
+Interest To nonresidents,241,2,24,241,241,3
+Interest on Currency and deposits,2410000002,2,24,241,2410,10
+Interest on Debt securities,2410000003,2,24,241,2410,10
+Interest on Concessional loans -foreign,2411000001,2,24,241,2411,10
+Interest on  Non-Concessional-loans-foreign,2411000002,2,24,241,2411,10
+Interest on Financial derivatives,2411000003,2,24,241,2411,10
+Interest on Trade credit and advances Foreign,2411000004,2,24,241,2411,10
+Interest on Other accounts payable -Foreign,2411000005,2,24,241,2411,10
+Interest To residents other than general government,242,2,24,242,242,3
+Interest: To Private nonfinancial corporation,2421,2,24,242,2421,4
+Interest on TBs General GVT- BANKS (Treasury Bills),2421000002,2,24,242,2421,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2421000003,2,24,242,2421,10
+Interest on Treasury bonds General GVT- BANKS,2421000004,2,24,242,2421,10
+Interest on Treasury Bonds General GVT- Non-Banks,2421000005,2,24,242,2421,10
+Interest on Financial derivatives (Loans),2421000006,2,24,242,2421,10
+Interest on Trade credit and advances,2421000007,2,24,242,2421,10
+Interest on Other accounts payable,2421000008,2,24,242,2421,10
+Interest: To Private financial corporation,2422,2,24,242,2422,4
+Interest on Currency and deposits,2422000001,2,24,242,2422,10
+Interest on TBs General GVT- BANKS (Treasury Bills),2422000002,2,24,242,2422,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2422000003,2,24,242,2422,10
+Interest on Treasury bonds General GVT- BANKS,2422000004,2,24,242,2422,10
+Interest on Treasury Bonds General GVT- Non-Banks,2422000005,2,24,242,2422,10
+Interest on Financial derivatives (Loans),2422000006,2,24,242,2422,10
+Interest on Trade credit and advances,2422000007,2,24,242,2422,10
+Interest on Other accounts payable,2422000008,2,24,242,2422,10
+Interest: To Public nonfinancial corporation,2423,2,24,242,2423,4
+Interest on Currency and deposits,2423000001,2,24,242,2423,10
+Interest on TBs General GVT- BANKS (Treasury Bills),2423000002,2,24,242,2423,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2423000003,2,24,242,2423,10
+Interest on Treasury bonds General GVT- BANKS,2423000004,2,24,242,2423,10
+Interest on Treasury Bonds General GVT- Non-Banks,2423000005,2,24,242,2423,10
+Interest on Financial derivatives (Loans),2423000006,2,24,242,2423,10
+Interest on Trade credit and advances,2423000007,2,24,242,2423,10
+Interest on Other accounts payable,2423000008,2,24,242,2423,10
+Interest: To Public financial corporation,2424,2,24,242,2424,4
+Interest on Currency and deposits,2424000001,2,24,242,2424,10
+Interest on TBs General GVT- BANKS (Treasury Bills),2424000002,2,24,242,2424,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2424000003,2,24,242,2424,10
+Interest on Treasury bonds General GVT- BANKS,2424000004,2,24,242,2424,10
+Interest on Treasury Bonds General GVT- Non-Banks,2424000005,2,24,242,2424,10
+Interest on Financial derivatives (Loans),2424000006,2,24,242,2424,10
+Interest on Trade credit and advances,2424000007,2,24,242,2424,10
+Interest on Other accounts payable,2424000008,2,24,242,2424,10
+Interest: To Households,2425,2,24,242,2425,4
+Interest: To Nonprofit institutions serving households,2426,2,24,242,2426,4
+Interest on Currency and deposits,2426000001,2,24,242,2426,10
+Interest on TBs General GVT- BANKS (Treasury Bills),2426000002,2,24,242,2426,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2426000003,2,24,242,2426,10
+Interest on Treasury bonds General GVT- BANKS,2426000004,2,24,242,2426,10
+Interest on Treasury Bonds General GVT- Non-Banks,2426000005,2,24,242,2426,10
+Interest on Financial derivatives (Loans),2426000006,2,24,242,2426,10
+Interest on Trade credit and advances,2426000007,2,24,242,2426,10
+Interest on Other accounts payable,2426000008,2,24,242,2426,10
+Interest to other general government units,243,2,24,243,243,3
+Interest: To Budgetary central government,2431,2,24,243,2431,4
+Interest on Currency and deposits,2431000001,2,24,243,2431,10
+Interest on TBs General GVT- BANKS (Treasury Bills),2431000002,2,24,243,2431,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2431000003,2,24,243,2431,10
+Interest on Treasury bonds General GVT- BANKS,2431000004,2,24,243,2431,10
+Interest on Treasury Bonds General GVT- Non-Banks,2431000005,2,24,243,2431,10
+Interest on Financial derivatives (Loans),2431000006,2,24,243,2431,10
+Interest on Trade credit and advances,2431000007,2,24,243,2431,10
+Interest on Other accounts payable,2431000008,2,24,243,2431,10
+Interest: To Extrabudgetary entities,2432,2,24,243,2432,4
+Interest on Currency and deposits,2432000001,2,24,243,2432,10
+Interest on TBs General GVT- BANKS (Treasury Bills),2432000002,2,24,243,2432,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2432000003,2,24,243,2432,10
+Interest on Treasury bonds General GVT- BANKS,2432000004,2,24,243,2432,10
+Interest on Treasury Bonds General GVT- Non-Banks,2432000005,2,24,243,2432,10
+Interest on Financial derivatives (Loans),2432000006,2,24,243,2432,10
+Interest on Trade credit and advances,2432000007,2,24,243,2432,10
+Interest on Other accounts payable,2432000008,2,24,243,2432,10
+Interest: To Local government,2433,2,24,243,2433,4
+Interest: To Regional government,2434,2,24,243,2434,4
+Interest on Trade credit and advances,2434000007,2,24,243,2434,10
+Interest on Other accounts payable,2434000008,2,24,243,2434,10
+Interest: To Social security funds,2435,2,24,243,2435,4
+Interest on Currency and deposits,2435000001,2,24,243,2435,10
+Interest on TBs General GVT- BANKS (Treasury Bills),2435000002,2,24,243,2435,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2435000003,2,24,243,2435,10
+Interest on Treasury bonds General GVT- BANKS,2435000004,2,24,243,2435,10
+Interest on Treasury Bonds General GVT- Non-Banks,2435000005,2,24,243,2435,10
+Interest on Financial derivatives (Loans),2435000006,2,24,243,2435,10
+Interest on Trade credit and advances,2435000007,2,24,243,2435,10
+Interest on Other accounts payable,2435000008,2,24,243,2435,10
+Interest: To other general government units n.e.c,2436,2,24,243,2436,4
+Interest on Currency and deposits,2436000001,2,24,243,2436,10
+Interest on TBs General GVT- BANKS (Treasury Bills),2436000002,2,24,243,2436,10
+Interest on TBs General GVT- Non-Banks (Treasury Bills),2436000003,2,24,243,2436,10
+Interest on Treasury bonds General GVT- BANKS,2436000004,2,24,243,2436,10
+Interest on Treasury Bonds General GVT- Non-Banks,2436000005,2,24,243,2436,10
+Interest on Financial derivatives (Loans),2436000006,2,24,243,2436,10
+Interest on Trade credit and advances,2436000007,2,24,243,2436,10
+Interest on Other accounts payable,2436000008,2,24,243,2436,10
+Subsidies,25,2,25,25,25,2
+To public corporations,251,2,25,251,251,3
+To nonfinancial public corporations (NFPubC),2511,2,25,251,2511,4
+Products,25111,2,25,251,2511,5
+Production,25112,2,25,251,2511,5
+To financial public corporations (FPubC),2512,2,25,251,2512,4
+Products,25121,2,25,251,2512,5
+Production,25122,2,25,251,2512,5
+To private corporation,252,2,25,252,252,3
+To nonfinancial private enterprises (NPvtC),2521,2,25,252,2521,4
+Products,25211,2,25,252,2521,5
+Production,25212,2,25,252,2521,5
+To financial private enterprises (FpvtC),2522,2,25,252,2522,4
+Products,25221,2,25,252,2522,5
+Production,25222,2,25,252,2522,5
+Subsidies unallocable between products and productions,25223,2,25,252,2522,5
+To nonfinancial private enterprises (NPvtC),252231,2,25,252,2522,6
+To financial private enterprises (FpvtC),252232,2,25,252,2522,6
+To other sectors,253,2,25,253,253,3
+Products,2531,2,25,253,2531,4
+Production,2532,2,25,253,2532,4
+Subsidies to other sectors and unallobale to products or production,2533,2,25,253,2533,4
+Grants,26,2,26,26,26,2
+Grants To foreign governments (GrntFGvt),261,2,26,261,261,3
+Current,2611,2,26,261,2611,4
+Compensation of Employees - Grant,2611000001,2,26,261,2611,10
+Use of goods and services - Grant,2611000002,2,26,261,2611,10
+Social Benefits - Grant,2611000003,2,26,261,2611,10
+Other Expenses - Grant,2611000004,2,26,261,2611,10
+Capital,2612,2,26,261,2612,4
+Dwellings - Grant,2612000001,2,26,261,2612,10
+Nonresidential buildings - Grant,2612000002,2,26,261,2612,10
+Other Structures - Grant,2612000003,2,26,261,2612,10
+Transport Equipment - Grant,2612000004,2,26,261,2612,10
+Other Machinery and Equipment - Grant,2612000005,2,26,261,2612,10
+Grants To international organizations,262,2,26,262,262,3
+Current,2621,2,26,262,2621,4
+Compensation of Employees - Foreign Grant,2621000001,2,26,262,2621,10
+Use of goods and services - Foreign Grant,2621000002,2,26,262,2621,10
+Social Benefits - Foreign Grant,2621000003,2,26,262,2621,10
+Other Expenses - Foreign Grant,2621000004,2,26,262,2621,10
+Capital,2622,2,26,262,2622,4
+Dwellings - Foreign Grant,2622000001,2,26,262,2622,10
+Nonresidential buildings - Foreign Grant,2622000002,2,26,262,2622,10
+Other Structures - Foreign Grant,2622000003,2,26,262,2622,10
+Transport Equipment - Foreign Grant,2622000004,2,26,262,2622,10
+Other Machinery and Equipment - Foreign Grant,2622000005,2,26,262,2622,10
+Grants To other general government units,263,2,26,263,263,3
+Current Grants To General government units,2631,2,26,263,2631,4
+Current Grants: To Budgetary central government,26311,2,26,263,2631,5
+Use of goods and services,2631100002,2,26,263,2631,10
+Social Benefits,2631100003,2,26,263,2631,10
+Other Expenses,2631100004,2,26,263,2631,10
+Current Grants: To Extrabudgetary entities,26312,2,26,263,2631,5
+Use of goods and services,2631200002,2,26,263,2631,10
+Social Benefits,2631200003,2,26,263,2631,10
+Other Expenses,2631200004,2,26,263,2631,10
+Current Grants: To Local government,26313,2,26,263,2631,5
+Use of goods and services - Local Grant,2631300002,2,26,263,2631,10
+Social Benefits - Local Grant,2631300003,2,26,263,2631,10
+Other Expenses - Local Grant,2631300004,2,26,263,2631,10
+Current Grants: To Regional government,26314,2,26,263,2631,5
+Use of goods and services,2631400002,2,26,263,2631,10
+Social Benefits,2631400003,2,26,263,2631,10
+Other Expenses,2631400004,2,26,263,2631,10
+Current Grants: To Social security funds,26315,2,26,263,2631,5
+Use of goods and services,2631500002,2,26,263,2631,10
+Social Benefits,2631500003,2,26,263,2631,10
+Other Expenses,2631500004,2,26,263,2631,10
+Current Grants: To General Government units n.e.c,26316,2,26,263,2631,5
+Use of goods and services,2631600002,2,26,263,2631,10
+Social Benefits,2631600003,2,26,263,2631,10
+Other Expenses,2631600004,2,26,263,2631,10
+Capital Grants To General government units,2632,2,26,263,2632,4
+Capital Grants: To Budgetary central government,26321,2,26,263,2632,5
+Dwellings,2632100001,2,26,263,2632,10
+Non-residential buildings,2632100002,2,26,263,2632,10
+Other Structures,2632100003,2,26,263,2632,10
+Transport Equipment,2632100004,2,26,263,2632,10
+Other Machinery and Equipment,2632100005,2,26,263,2632,10
+Capital Grants: To Extrabudgetary entities,26322,2,26,263,2632,5
+Dwellings,2632200001,2,26,263,2632,10
+Non-residential buildings,2632200002,2,26,263,2632,10
+Other Structures,2632200003,2,26,263,2632,10
+Transport Equipment,2632200004,2,26,263,2632,10
+Other Machinery and Equipment,2632200005,2,26,263,2632,10
+Capital Grants: To Local government,26323,2,26,263,2632,5
+Dwellings - Local Grant,2632300001,2,26,263,2632,10
+Non-residential buildings - Local Grant,2632300002,2,26,263,2632,10
+Other Structures - Local Grant,2632300003,2,26,263,2632,10
+Transport Equipment - Local Grant,2632300004,2,26,263,2632,10
+Other Machinery and Equipment - Local Grant,2632300005,2,26,263,2632,10
+Capital Grants: To Regional government,26324,2,26,263,2632,5
+Dwellings,2632400001,2,26,263,2632,10
+Non-residential buildings,2632400002,2,26,263,2632,10
+Other Structures,2632400003,2,26,263,2632,10
+Transport Equipment,2632400004,2,26,263,2632,10
+Other Machinery and Equipment,2632400005,2,26,263,2632,10
+Capital Grants: To Social security funds,26325,2,26,263,2632,5
+Dwellings,2632500001,2,26,263,2632,10
+Non-residential buildings,2632500002,2,26,263,2632,10
+Other Structures,2632500003,2,26,263,2632,10
+Transport Equipment,2632500004,2,26,263,2632,10
+Other Machinery and Equipment,2632500005,2,26,263,2632,10
+Capital Grants: To General government units n.e.c,26326,2,26,263,2632,5
+Dwellings,2632600001,2,26,263,2632,10
+Non-residential buildings,2632600002,2,26,263,2632,10
+Other Structures,2632600003,2,26,263,2632,10
+Transport Equipment,2632600004,2,26,263,2632,10
+Other Machinery and Equipment,2632600005,2,26,263,2632,10
+Social benefits [GFS],27,2,27,27,27,2
+Social security benefits,271,2,27,271,271,3
+Social security benefits in cash,2711,2,27,271,2711,4
+Awards under pensions,2711000001,2,27,271,2711,10
+Commutation of pension,2711000002,2,27,271,2711,10
+Funeral expenses,2711000003,2,27,271,2711,10
+Medical examination and expenses,2711000004,2,27,271,2711,10
+Refunds of contributions,2711000005,2,27,271,2711,10
+State service disability benefits,2711000006,2,27,271,2711,10
+State service -pension and allowances,2711000007,2,27,271,2711,10
+War pensions,2711000008,2,27,271,2711,10
+War veterans pension,2711000009,2,27,271,2711,10
+Old age pension,2711000010,2,27,271,2711,10
+War victims pensions,2711000011,2,27,271,2711,10
+State service-gratuities,2711000014,2,27,271,2711,10
+State services-supplimentary and additional benefits,2711000015,2,27,271,2711,10
+State service disability benefits-appliance,2711000016,2,27,271,2711,10
+Employee Wellness-Sports,2711000017,2,27,271,2711,10
+Social security benefits in kind,2712,2,27,271,2712,4
+Employee Wellness-Sports,2712000001,2,27,271,2712,10
+Social assistance benefits,272,2,27,272,272,3
+Social assistance benefits in cash,2721,2,27,272,2721,4
+Children in difficult circumstances,2721000002,2,27,272,2721,10
+Public assistance - Disabled,2721000003,2,27,272,2721,10
+Health assistance,2721000005,2,27,272,2721,10
+Public assistance - Aged,2721000007,2,27,272,2721,10
+Supplementary feeding,2721000008,2,27,272,2721,10
+Heroes Burial,2721000009,2,27,272,2721,10
+Pauper burial,2721000010,2,27,272,2721,10
+Public assistance - Families,2721000011,2,27,272,2721,10
+Community Recovery Programme,2721000013,2,27,272,2721,10
+Sustainable livelihood,2721000014,2,27,272,2721,10
+Social assistance benefits in kind [GFS],2722,2,27,272,2722,4
+Social assistance benefits in kind,2722000001,2,27,272,2722,10
+Employer social benefits,273,2,27,273,273,3
+Employer social benefits in cash,2731,2,27,273,2731,4
+Family benefits,2731000001,2,27,273,2731,10
+All leave pay,2731000002,2,27,273,2731,10
+Severance payments,2731000003,2,27,273,2731,10
+Pension payments,2731000004,2,27,273,2731,10
+Employer social benefits in kind,2732,2,27,273,2732,4
+Employer social benefits in kind,2732000001,2,27,273,2732,10
+Other expense,28,2,28,28,28,2
+Property expense other than interest,281,2,28,281,281,3
+Dividends,2811,2,28,281,2811,4
+Dividends to nonresidents,28111,2,28,281,2811,5
+Dividends to residents,28112,2,28,281,2811,5
+Withdrawals from income of quasi-corporations (Public Corporations only),2812,2,28,281,2812,4
+Income withdrawal of quasi-corporations,2812000001,2,28,281,2812,10
+Property expense attributed to insurance policyholders [GFS],2813,2,28,281,2813,4
+Government Insurance Scheme,2813000001,2,28,281,2813,10
+Rent,2814,2,28,281,2814,4
+Rent Payable,2814000001,2,28,281,2814,10
+Reinvested earnings on foreign direct investment,2815,2,28,281,2815,4
+Transfers paid not classified elsewhere,282,2,28,282,282,3
+Current Transfers paid n.e.c,2821,2,28,282,2821,4
+Current transfers paid n.e.c: To Public corporations,282101,2,28,282,2821,6
+Debt service,2822010004,2,28,282,2822,10
+Capital transfers paid n.e.c: To Private corporations,282202,2,28,282,2822,6
+NON-FINANCIAL ASSETS, , , , , ,1
+Fixed assets : Stock position,611,6,61,611,611,3
+Buildings and structures,6111,6,61,611,6111,4
+Dwellings,61111,6,61,611,6111,5
+Residential Buildings,6111100001,6,61,611,6111,10
+Caravans,6111100002,6,61,611,6111,10
+Houseboats,6111100003,6,61,611,6111,10
+Mobile Homes,6111100004,6,61,611,6111,10
+Buildings other than dwellings,61112,6,61,611,6111,5
+Commercial Buildings,6111200001,6,61,611,6111,10
+Industrial Buildings,6111200002,6,61,611,6111,10
+Institutional Buildings,6111200003,6,61,611,6111,10
+Buildings,6111200004,6,61,611,6111,10
+Other structures,61113,6,61,611,6111,5
+"Airport, Runways & Helipads",6111300001,6,61,611,6111,10
+Roads,6111300002,6,61,611,6111,10
+Bridges,6111300003,6,61,611,6111,10
+Civil Works,6111300004,6,61,611,6111,10
+Dams,6111300005,6,61,611,6111,10
+Water Works,6111300006,6,61,611,6111,10
+Boreholes,6111300007,6,61,611,6111,10
+Dip Tanks & Live Stock Management Facilities,6111300008,6,61,611,6111,10
+Irrigation Schemes,6111300009,6,61,611,6111,10
+Monuments,6111300010,6,61,611,6111,10
+Buildings,6111300011,6,61,611,6111,10
+Land Improvements,61114,6,61,611,6111,5
+ Land Sites,6111400001,6,61,611,6111,10
+Machinery and equipment,6112,6,61,611,6112,4
+Transport equipment,61121,6,61,611,6112,5
+Aircraft (Non-Military),6112100001,6,61,611,6112,10
+Boats & Water Craft,6112100002,6,61,611,6112,10
+Motor Cycles & Bicycles,6112100003,6,61,611,6112,10
+Motor Vehicles,6112100004,6,61,611,6112,10
+Tractors and Earthmoving Equipment,6112100005,6,61,611,6112,10
+Other Machinery and Equipment,61122,6,61,611,6112,5
+"Information, Computer & Telecommunication (ICT) Equipment",611221,6,61,611,6112,6
+"Information, Computer & Telecommunication (ICT) Equipment",6112210001,6,61,611,6112,10
+Machinery & Equipment not elsewhere classified,611222,6,61,611,6112,6
+Generators,6112220001,6,61,611,6112,10
+Survey Equipment,6112220003,6,61,611,6112,10
+Funeral Equipment,6112220005,6,61,611,6112,10
+Photographic/Media Equipment,6112220007,6,61,611,6112,10
+Sports Equipment,6112220009,6,61,611,6112,10
+Teaching and Training Equipment,6112220011,6,61,611,6112,10
+Navigational and Telecommunications Equipment,6112220013,6,61,611,6112,10
+Camping equipment,6112220015,6,61,611,6112,10
+Kitchen and Culinary Equipment,6112220017,6,61,611,6112,10
+Office Equipment,6112220019,6,61,611,6112,10
+Furniture and Fittings,6112220021,6,61,611,6112,10
+Laboratory Equipment,6112220023,6,61,611,6112,10
+Hospital Equipment,6112220025,6,61,611,6112,10
+Scales and Measures,6112220027,6,61,611,6112,10
+Fire Fighting Equipment,6112220029,6,61,611,6112,10
+Other fixed assets,6113,6,61,611,6113,4
+Cultivated biological resources,61131,6,61,611,6113,5
+Animal Resources Yielding Repeat Products,6113100001,6,61,611,6113,10
+"Tree, Crop & Plant Resources Yielding Repeat Products",6113100002,6,61,611,6113,10
+Intellectual property products,61132,6,61,611,6113,5
+Research & Development,6113200001,6,61,611,6113,10
+Mineral Exploration & Evaluation,6113200002,6,61,611,6113,10
+computer software,6113200003,6,61,611,6113,10
+Data bases,6113200004,6,61,611,6113,10
+"Entertainment, Literary & Artistic Originals",6113200005,6,61,611,6113,10
+Other Intellectual & Property Products,6113200006,6,61,611,6113,10
+Costs of ownership transfer on Non-Produced Assets other than land (No stock position),61133,6,61,611,6113,5
+Weapon systems,6114,6,61,611,6114,4
+Weapons systems,6114000001,6,61,611,6114,10
+Inventories : Stock position,612,6,61,612,612,3
+Materials and supplies,61221,6,61,612,6122,5
+Materials and supplies,6122100001,6,61,612,6122,10
+Work in progress,61222,6,61,612,6122,5
+Work in progress,6122200001,6,61,612,6122,10
+Finished goods,61223,6,61,612,6122,5
+Finished goods,6122300001,6,61,612,6122,10
+goods for resale,61224,6,61,612,6122,5
+goods for resale,6122400001,6,61,612,6122,10
+military inventories,61225,6,61,612,6122,5
+military inventories,6122500001,6,61,612,6122,10
+Asset Under Construction (Dwellings),6123,6,61,612,6123,4
+Subcontracting - Dwellings,6123000001,6,61,612,6123,10
+Casual Labourers-Dwellings,6123000002,6,61,612,6123,10
+Building Materials-Dwellings,6123000003,6,61,612,6123,10
+Electrical Supplies-Dwellings,6123000004,6,61,612,6123,10
+Plumbing Materials-Dwellings,6123000005,6,61,612,6123,10
+Roofing Materials-Dwellings,6123000006,6,61,612,6123,10
+Metal Fence & Posts,6123000007,6,61,612,6123,10
+Road Surfacing Materials-Dwellings,6123000008,6,61,612,6123,10
+Wood & Timber Supplies-Dwellings,6123000009,6,61,612,6123,10
+Borehole Casings & Accessories-Dwellings,6123000010,6,61,612,6123,10
+Protective clothing- Dwellings,6123000011,6,61,612,6123,10
+Fuel-diesel and petrol-Dwellings,6123000012,6,61,612,6123,10
+T and S allowances-Dwellings,6123000013,6,61,612,6123,10
+Food and Refreshments Dwellings,6123000014,6,61,612,6123,10
+Hire of Vehicles-Dwellings,6123000015,6,61,612,6123,10
+Hire of Plant and Eqiupment-Dwellings,6123000016,6,61,612,6123,10
+Vehicle and Mobile Equipment Maintanance-Dwellings,6123000017,6,61,612,6123,10
+Tools and Small Implements-Dwellings,6123000018,6,61,612,6123,10
+Consultancy Services-Dwellings,6123000019,6,61,612,6123,10
+Public Relations and Communication-Dwellings,6123000020,6,61,612,6123,10
+Office Supplies and Stationery -Dwellings,6123000021,6,61,612,6123,10
+Asset Under Construction (Buildings other than dwellings),6124,6,61,612,6124,4
+Subcontracting - Construction works,6124000001,6,61,612,6124,10
+Casual Labourers-Buildings,6124000002,6,61,612,6124,10
+Building Materials-Buildings,6124000003,6,61,612,6124,10
+Electrical Supplies-Buildings,6124000004,6,61,612,6124,10
+Plumbing Materials-Buildings,6124000005,6,61,612,6124,10
+Roofing Materials-Buildings,6124000006,6,61,612,6124,10
+Metal Fence & Posts-Buildings,6124000007,6,61,612,6124,10
+Road Surfacing Materials-Buildings,6124000008,6,61,612,6124,10
+Wood & Timber Supplies-Buildings,6124000009,6,61,612,6124,10
+Borehole Casings & Accessories-Buildings,6124000010,6,61,612,6124,10
+Protective clothing-buildings,6124000011,6,61,612,6124,10
+Fuel-diesel and petrol-buildings,6124000012,6,61,612,6124,10
+T and S allowances-biuldings,6124000013,6,61,612,6124,10
+Food and Refreshmentsbuildings,6124000014,6,61,612,6124,10
+Hire of Vehicles-buildings,6124000015,6,61,612,6124,10
+Hire of Plant and Eqiupment-buildings,6124000016,6,61,612,6124,10
+Vehicle and Mobile Equipment Maintanance-buildings,6124000017,6,61,612,6124,10
+Tools and Small Implements-buildings,6124000018,6,61,612,6124,10
+Consultancy Services-buildings,6124000019,6,61,612,6124,10
+Public Relations and Communication-buildings,6124000020,6,61,612,6124,10
+Office Supplies and Stationery -buildings,6124000021,6,61,612,6124,10
+Asset Under Construction (Other Structures),6125,6,61,612,6125,4
+Subcontracting - Construction works,6125000001,6,61,612,6125,10
+Casual Labourers,6125000002,6,61,612,6125,10
+Building Materials,6125000003,6,61,612,6125,10
+Electrical Supplies,6125000004,6,61,612,6125,10
+Plumbing Materials,6125000005,6,61,612,6125,10
+Roofing Materials,6125000006,6,61,612,6125,10
+Metal Fence & Posts,6125000007,6,61,612,6125,10
+Road Surfacing Materials,6125000008,6,61,612,6125,10
+Wood & Timber Supplies,6125000009,6,61,612,6125,10
+Borehole Casings & Accessories,6125000010,6,61,612,6125,10
+Protective clothing-other structures,6125000011,6,61,612,6125,10
+Fuel-diesel and petrol-other structures,6125000012,6,61,612,6125,10
+T and S allowances-other structures,6125000013,6,61,612,6125,10
+Food and Refreshments-other structures,6125000014,6,61,612,6125,10
+Hire of Vehicles-other structures,6125000015,6,61,612,6125,10
+Hire of Plant and Eqiupment-structures,6125000016,6,61,612,6125,10
+Vehicle and Mobile Equipment Maintanance-other structures,6125000017,6,61,612,6125,10
+Tools and Small Implements-other strucures,6125000018,6,61,612,6125,10
+Consultancy Services-other structures,6125000019,6,61,612,6125,10
+Public Relations and Communication-other structures,6125000020,6,61,612,6125,10
+Office Supplies and Stationery -other structures,6125000021,6,61,612,6125,10
+Valuables ,613,6,61,613,613,3
+Non-monetary gold,6131,6,61,613,6131,4
+Precious stones and metals,6131000001,6,61,613,6131,10
+"Paintings, sculptures, and other art work or antiques",6131000002,6,61,613,6131,10
+Jewellery,6131000003,6,61,613,6131,10
+Other Valuables not elsewhere classified,6131000004,6,61,613,6131,10
+Non-produced assets ,614,6,61,614,614,3
+Land,6141,6,61,614,6141,4
+Agricultural Land,6141000001,6,61,614,6141,10
+Commercial Land,6141000002,6,61,614,6141,10
+Derelict  Land,6141000003,6,61,614,6141,10
+Industrial Land,6141000004,6,61,614,6141,10
+Land for Institutional Buildings,6141000005,6,61,614,6141,10
+Public Open Space,6141000006,6,61,614,6141,10
+Residential Land,6141000007,6,61,614,6141,10
+Mineral and energy resources,6142,6,61,614,6142,4
+Mineral and energy resources,6142000001,6,61,614,6142,10
+Other naturally occurring assets,6143,6,61,614,6143,4
+Non-cultivated Biological Resources,61431,6,61,614,6143,5
+Non-cultivated Biological Resources,6143100001,6,61,614,6143,10
+Water Resources,61432,6,61,614,6143,5
+Water Resources,6143200001,6,61,614,6143,10
+Other Natural Resources,61433,6,61,614,6143,5
+Radio Spectra,6143300001,6,61,614,6143,10
+Natural Resources not elsewhere classified,6143300002,6,61,614,6143,10
+Intangible non-produced assets,6144,6,61,614,6144,4
+"Contracts, leases, and licenses",61441,6,61,614,6144,5
+Marketable operating leases,6144100001,6,61,614,6144,10
+Permits to use natural resources,6144100002,6,61,614,6144,10
+Permits to undertake specific activities,6144100003,6,61,614,6144,10
+Entitlement to future goods and services on an exclusive basis,6144100004,6,61,614,6144,10
+Goodwill and marketing assets,61442,6,61,614,6144,5
+Goodwill and marketing assets,6144200001,6,61,614,6144,10
+Fixed assets : Acquisitions,311,3,31,311,311,3
+Buildings and structures,3111,3,31,311,3111,4
+Dwellings,311111,3,31,311,3111,6
+Residential Buildings,3111110001,3,31,311,3111,10
+Caravans,3111110002,3,31,311,3111,10
+Houseboats,3111110003,3,31,311,3111,10
+Mobile Homes,3111110004,3,31,311,3111,10
+Buildings Improvements/Rehabilitation,3111110005,3,31,311,3111,10
+Buildings,3111110006,3,31,311,3111,10
+Buildings other than dwellings,311112,3,31,311,3111,6
+Commercial Buildings,3111120001,3,31,311,3111,10
+Industrial Buildings,3111120002,3,31,311,3111,10
+Institutional Buildings,3111120003,3,31,311,3111,10
+Buildings Improvements/Rehabilitation,3111120004,3,31,311,3111,10
+Buildings,3111120005,3,31,311,3111,10
+Other structures,311113,3,31,311,3111,6
+"Airport, Runways & Helipads",3111130001,3,31,311,3111,10
+Roads,3111130002,3,31,311,3111,10
+Bridges,3111130003,3,31,311,3111,10
+Civil Works,3111130004,3,31,311,3111,10
+Dams,3111130005,3,31,311,3111,10
+Water infrastructure,3111130006,3,31,311,3111,10
+Boreholes,3111130007,3,31,311,3111,10
+Dip Tanks & Live Stock Management Facilities,3111130008,3,31,311,3111,10
+Irrigation Schemes,3111130009,3,31,311,3111,10
+Monuments,3111130010,3,31,311,3111,10
+Water Reticulation system,3111130011,3,31,311,3111,10
+Sewer Reticulation system,3111130012,3,31,311,3111,10
+Sewer Infrastructure,3111130013,3,31,311,3111,10
+Land Improvements,311114,3,31,311,3111,6
+ Land Sites Improvements,3111140001,3,31,311,3111,10
+ Land Sites Rehabilitat & Upgrading,3111140002,3,31,311,3111,10
+ Land Sites,3111140003,3,31,311,3111,10
+Machinery and equipment,31112,3,31,311,3111,5
+Transport equipment,311121,3,31,311,3111,6
+Aircraft (Non-Military),3111210001,3,31,311,3111,10
+Boats & Water Craft,3111210002,3,31,311,3111,10
+Motor Cycles & Bicycles,3111210003,3,31,311,3111,10
+Motor Vehicles,3111210004,3,31,311,3111,10
+Tractors and Earthmoving Equipment,3111210005,3,31,311,3111,10
+Aircraft (Non-Military)  upgrading are acquisition,3111210006,3,31,311,3111,10
+Boats & Water Craft   upgrading are acquisition,3111210007,3,31,311,3111,10
+Motor Cycles & Bicycles upgrading are acquisition,3111210008,3,31,311,3111,10
+Motor Vehicles   Upgrading,3111210009,3,31,311,3111,10
+Tractors and Earthmoving Equipment upgrading are acquisition,3111210010,3,31,311,3111,10
+Other Machinery and Equipment,311122,3,31,311,3111,6
+"Information, Computer & Telecommunication (ICT) Equipment",3111221,3,31,311,3111,7
+"Information, Computer & Telecommunication (ICT) Equipment -acquisition",3111221001,3,31,311,3111,10
+"Information, Computer & Telecommunication (ICT) Equipment -upgrading",3111221002,3,31,311,3111,10
+Machinery & Equipment not elsewhere classified,3111222,3,31,311,3111,7
+Generators,3111222001,3,31,311,3111,10
+Machinery & Equipment not elsewhere classified -upgrading are acquisition,3111222002,3,31,311,3111,10
+Survey Equipment,3111222003,3,31,311,3111,10
+Funeral Equipment,3111222004,3,31,311,3111,10
+Photographic/Media Equipment,3111222005,3,31,311,3111,10
+Sports Equipment,3111222006,3,31,311,3111,10
+Teaching and Training Equipment,3111222007,3,31,311,3111,10
+Navigational and Telecommunications Equipment,3111222008,3,31,311,3111,10
+Camping equipment,3111222009,3,31,311,3111,10
+Kitchen and Culinary Equipment,3111222010,3,31,311,3111,10
+Office Equipment,3111222011,3,31,311,3111,10
+Furniture and Fittings,3111222012,3,31,311,3111,10
+Laboratory Equipment,3111222013,3,31,311,3111,10
+Hospital Equipment,3111222014,3,31,311,3111,10
+Scales and Measures,3111222015,3,31,311,3111,10
+Fire Fighting Equipment,3111222016,3,31,311,3111,10
+Other fixed assets,31113,3,31,311,3111,5
+Cultivated biological resources,311131,3,31,311,3111,6
+Animal Resources Yielding Repeat Products,3111310001,3,31,311,3111,10
+"Tree, Crop & Plant Resources Yielding Repeat Products",3111310002,3,31,311,3111,10
+Intellectual property products,311132,3,31,311,3111,6
+Research & Development,3111320001,3,31,311,3111,10
+Mineral Exploration & Evaluation,3111320002,3,31,311,3111,10
+computer software,3111320003,3,31,311,3111,10
+Data bases,3111320004,3,31,311,3111,10
+"Entertainment, Literary & Artistic Originals",3111320005,3,31,311,3111,10
+Other Intellectual & Property Products,3111320006,3,31,311,3111,10
+Costs of ownership transfer on Non-Produced Assets other than land,311133,3,31,311,3111,6
+Costs of ownership transfer on Non-Produced Assets other than land,3111330001,3,31,311,3111,10
+Weapons systems,31114,3,31,311,3111,5
+Weapons systems,3111400001,3,31,311,3111,10
+Security Fire arms,3111400002,3,31,311,3111,10
+Inventories : Acquisitions,3112,3,31,311,3112,4
+Materials and supplies,311221,3,31,311,3112,6
+Materials and supplies,3112210001,3,31,311,3112,10
+Work in progress,311222,3,31,311,3112,6
+Work in progress,3112220001,3,31,311,3112,10
+Finished goods,311223,3,31,311,3112,6
+Finished goods,3112230001,3,31,311,3112,10
+goods for resale,311224,3,31,311,3112,6
+goods for resale,3112240001,3,31,311,3112,10
+military inventories,311225,3,31,311,3112,6
+military inventories,3112250001,3,31,311,3112,10
+Asset Under Construction (Dwellings),31123,3,31,311,3112,5
+Subcontracting - Dwellings,3112300001,3,31,311,3112,10
+Casual Labourers-Dwellings,3112300002,3,31,311,3112,10
+Building Materials-Dwellings,3112300003,3,31,311,3112,10
+Electrical Supplies-Dwellings,3112300004,3,31,311,3112,10
+Plumbing Materials-Dwellings,3112300005,3,31,311,3112,10
+Roofing Materials-Dwellings,3112300006,3,31,311,3112,10
+Metal Fence & Posts,3112300007,3,31,311,3112,10
+Road Surfacing Materials-Dwellings,3112300008,3,31,311,3112,10
+Wood & Timber Supplies-Dwellings,3112300009,3,31,311,3112,10
+Borehole Casings & Accessories-Dwellings,3112300010,3,31,311,3112,10
+Protective clothing- Dwellings,3112300011,3,31,311,3112,10
+Fuel-diesel and petrol-Dwellings,3112300012,3,31,311,3112,10
+T and S allowances-Dwellings,3112300013,3,31,311,3112,10
+Food and Refreshments Dwellings,3112300014,3,31,311,3112,10
+Hire of Vehicles-Dwellings,3112300015,3,31,311,3112,10
+Hire of Plant and Eqiupment-Dwellings,3112300016,3,31,311,3112,10
+Vehicle and Mobile Equipment Maintanance-Dwellings,3112300017,3,31,311,3112,10
+Tools and Small Implements-Dwellings,3112300018,3,31,311,3112,10
+Consultancy Services-Dwellings,3112300019,3,31,311,3112,10
+Public Relations and Communication-Dwellings,3112300020,3,31,311,3112,10
+Office Supplies and Stationery -Dwellings,3112300021,3,31,311,3112,10
+Asset Under Construction (Buildings other than dwellings),31124,3,31,311,3112,5
+Subcontracting - Construction works,3112400001,3,31,311,3112,10
+Casual Labourers-Buildings,3112400002,3,31,311,3112,10
+Building Materials-Buildings,3112400003,3,31,311,3112,10
+Electrical Supplies-Buildings,3112400004,3,31,311,3112,10
+Plumbing Materials-Buildings,3112400005,3,31,311,3112,10
+Roofing Materials-Buildings,3112400006,3,31,311,3112,10
+Metal Fence & Posts-Buildings,3112400007,3,31,311,3112,10
+Road Surfacing Materials-Buildings,3112400008,3,31,311,3112,10
+Wood & Timber Supplies-Buildings,3112400009,3,31,311,3112,10
+Borehole Casings & Accessories-Buildings,3112400010,3,31,311,3112,10
+Protective clothing-buildings,3112400011,3,31,311,3112,10
+Fuel-diesel and petrol-buildings,3112400012,3,31,311,3112,10
+T and S allowances-biuldings,3112400013,3,31,311,3112,10
+Food and Refreshmentsbuildings,3112400014,3,31,311,3112,10
+Hire of Vehicles-buildings,3112400015,3,31,311,3112,10
+Hire of Plant and Eqiupment-buildings,3112400016,3,31,311,3112,10
+Vehicle and Mobile Equipment Maintanance-buildings,3112400017,3,31,311,3112,10
+Tools and Small Implements-buildings,3112400018,3,31,311,3112,10
+Consultancy Services-buildings,3112400019,3,31,311,3112,10
+Public Relations and Communication-buildings,3112400020,3,31,311,3112,10
+Office Supplies and Stationery -buildings,3112400021,3,31,311,3112,10
+Asset Under Construction (Other Structures),31125,3,31,311,3112,5
+Subcontracting - Construction works,3112500001,3,31,311,3112,10
+Casual Labourers,3112500002,3,31,311,3112,10
+Building Materials,3112500003,3,31,311,3112,10
+Electrical Supplies,3112500004,3,31,311,3112,10
+Plumbing Materials,3112500005,3,31,311,3112,10
+Roofing Materials,3112500006,3,31,311,3112,10
+Metal Fence & Posts,3112500007,3,31,311,3112,10
+Road Surfacing Materials,3112500008,3,31,311,3112,10
+Wood & Timber Supplies,3112500009,3,31,311,3112,10
+Borehole Casings & Accessories,3112500010,3,31,311,3112,10
+Protective clothing-other structures,3112500011,3,31,311,3112,10
+Fuel-diesel and petrol-other structures,3112500012,3,31,311,3112,10
+T and S allowances-other structures,3112500013,3,31,311,3112,10
+Food and Refreshments-other structures,3112500014,3,31,311,3112,10
+Hire of Vehicles-other structures,3112500015,3,31,311,3112,10
+Hire of Plant and Eqiupment-structures,3112500016,3,31,311,3112,10
+Vehicle and Mobile Equipment Maintanance-other structures,3112500017,3,31,311,3112,10
+Tools and Small Implements-other strucures,3112500018,3,31,311,3112,10
+Consultancy Services-other structures,3112500019,3,31,311,3112,10
+Public Relations and Communication-other structures,3112500020,3,31,311,3112,10
+Office Supplies and Stationery -other structures,3112500021,3,31,311,3112,10
+Valuables : Acquisitions,3113,3,31,311,3113,4
+Non-monetary gold,31131,3,31,311,3113,5
+Precious stones and metals,3113100001,3,31,311,3113,10
+"Paintings, sculptures, and other art work or antiques",3113100002,3,31,311,3113,10
+Jewellery,3113100003,3,31,311,3113,10
+Other Valuables not elsewhere classified,3113100004,3,31,311,3113,10
+Non-produced assets : Acquisitions,3114,3,31,311,3114,4
+Land,31141,3,31,311,3114,5
+Agricultural Land,3114100001,3,31,311,3114,10
+Commercial Land,3114100002,3,31,311,3114,10
+Derelict  Land,3114100003,3,31,311,3114,10
+Industrial Land,3114100004,3,31,311,3114,10
+Land for Institutional Buildings,3114100005,3,31,311,3114,10
+Public Open Space,3114100006,3,31,311,3114,10
+Residential Land,3114100007,3,31,311,3114,10
+Mineral and energy resources,31142,3,31,311,3114,5
+Mineral and energy resources,3114200001,3,31,311,3114,10
+Other naturally occurring assets,31143,3,31,311,3114,5
+Non-cultivated Biological Resources,311431,3,31,311,3114,6
+Non-cultivated Biological Resources,3114310001,3,31,311,3114,10
+Water Resources,311432,3,31,311,3114,6
+Water Resources,3114320001,3,31,311,3114,10
+Other Natural Resources,311433,3,31,311,3114,6
+Radio Spectra,3114330001,3,31,311,3114,10
+Natural Resources not elsewhere classified,3114330002,3,31,311,3114,10
+Intangible non-produced assets,31144,3,31,311,3114,5
+"Contracts, leases, and licenses",311441,3,31,311,3114,6
+Marketable operating leases,3114410001,3,31,311,3114,10
+Permits to use natural resources,3114410002,3,31,311,3114,10
+Permits to undertake specific activities,3114410003,3,31,311,3114,10
+Entitlement to future goods and services on an exclusive basis,3114410004,3,31,311,3114,10
+Goodwill and marketing assets,311442,3,31,311,3114,6
+Goodwill and marketing assets,3114420001,3,31,311,3114,10
+Fixed assets : Disposals,3121,3,31,312,3121,4
+Buildings and structures,31211,3,31,312,3121,5
+Dwellings,312111,3,31,312,3121,6
+Residential Buildings,3121110001,3,31,312,3121,10
+Caravans,3121110002,3,31,312,3121,10
+Houseboats,3121110003,3,31,312,3121,10
+Mobile Homes,3121110004,3,31,312,3121,10
+Buildings,3121110005,3,31,312,3121,10
+Buildings other than dwellings,312112,3,31,312,3121,6
+Commercial Buildings,3121120001,3,31,312,3121,10
+Industrial Buildings,3121120002,3,31,312,3121,10
+Institutional Buildings,3121120003,3,31,312,3121,10
+Buildings,3121120004,3,31,312,3121,10
+Other structures,312113,3,31,312,3121,6
+"Airport, Runways & Helipads",3121130001,3,31,312,3121,10
+Roads,3121130002,3,31,312,3121,10
+Bridges,3121130003,3,31,312,3121,10
+Civil Works,3121130004,3,31,312,3121,10
+Dams,3121130005,3,31,312,3121,10
+Water Works,3121130006,3,31,312,3121,10
+Boreholes,3121130007,3,31,312,3121,10
+Dip Tanks & Live Stock Management Facilities,3121130008,3,31,312,3121,10
+Irrigation Schemes,3121130009,3,31,312,3121,10
+Monuments,3121130010,3,31,312,3121,10
+Land Improvements,312114,3,31,312,3121,6
+ Land Sites,3121140001,3,31,312,3121,10
+Machinery and equipment,31212,3,31,312,3121,5
+Transport equipment,312121,3,31,312,3121,6
+Aircraft (Non-Military),3121210001,3,31,312,3121,10
+Boats & Water Craft,3121210002,3,31,312,3121,10
+Motor Cycles & Bicycles,3121210003,3,31,312,3121,10
+Motor Vehicles,3121210004,3,31,312,3121,10
+Tractors and Earthmoving Equipment,3121210005,3,31,312,3121,10
+Other Machinery and Equipment,312122,3,31,312,3121,6
+"Information, Computer & Telecommunication (ICT) Equipment",3121221,3,31,312,3121,7
+"Information, Computer & Telecommunication (ICT) Equipment",3121221001,3,31,312,3121,10
+Machinery & Equipment not elsewhere classified,3121222,3,31,312,3121,7
+Generators,3121222001,3,31,312,3121,10
+Machinery & Equipment not elsewhere classified -,3121222002,3,31,312,3121,10
+Survey Equipment,3121222003,3,31,312,3121,10
+Funeral Equipment,3121222004,3,31,312,3121,10
+Photographic/Media Equipment,3121222005,3,31,312,3121,10
+Sports Equipment,3121222006,3,31,312,3121,10
+Teaching and Training Equipment,3121222007,3,31,312,3121,10
+Navigational and Telecommunications Equipment,3121222008,3,31,312,3121,10
+Camping equipment,3121222009,3,31,312,3121,10
+Kitchen and Culinary Equipment,3121222010,3,31,312,3121,10
+Office Equipment,3121222011,3,31,312,3121,10
+Furniture and Fittings,3121222012,3,31,312,3121,10
+Laboratory Equipment,3121222013,3,31,312,3121,10
+Hospital Equipment,3121222014,3,31,312,3121,10
+Scales and Measures,3121222015,3,31,312,3121,10
+Fire Fighting Equipment,3121222016,3,31,312,3121,10
+Other fixed assets,31213,3,31,312,3121,5
+Cultivated biological resources,312131,3,31,312,3121,6
+Animal Resources Yielding Repeat Products,3121310001,3,31,312,3121,10
+"Tree, Crop & Plant Resources Yielding Repeat Products",3121310002,3,31,312,3121,10
+Intellectual property products,312132,3,31,312,3121,6
+Research & Development,3121320001,3,31,312,3121,10
+Mineral Exploration & Evaluation,3121320002,3,31,312,3121,10
+computer software,3121320003,3,31,312,3121,10
+Data bases,3121320004,3,31,312,3121,10
+"Entertainment, Literary & Artistic Originals",3121320005,3,31,312,3121,10
+Other Intellectual & Property Products,3121320006,3,31,312,3121,10
+Costs of ownership transfer on Non-Produced Assets other than land,312133,3,31,312,3121,6
+Costs of ownership transfer on Non-Produced Assets other than land,3121330001,3,31,312,3121,10
+Weapons systems,31214,3,31,312,3121,5
+Weapons systems,3121400001,3,31,312,3121,10
+Inventories : Disposals,3122,3,31,312,3122,4
+Materials and supplies,312221,3,31,312,3122,6
+Materials and supplies,3122210001,3,31,312,3122,10
+Work in progress,312222,3,31,312,3122,6
+Work in progress,3122220001,3,31,312,3122,10
+Finished goods,312223,3,31,312,3122,6
+Finished goods,3122230001,3,31,312,3122,10
+goods for resale,312224,3,31,312,3122,6
+goods for resale,3122240001,3,31,312,3122,10
+military inventories,312225,3,31,312,3122,6
+military inventories,3122250001,3,31,312,3122,10
+Asset Under Construction (Dwellings),31223,3,31,312,3122,5
+Subcontracting - Dwellings,3122300001,3,31,312,3122,10
+Casual Labourers-Dwellings,3122300002,3,31,312,3122,10
+Building Materials-Dwellings,3122300003,3,31,312,3122,10
+Electrical Supplies-Dwellings,3122300004,3,31,312,3122,10
+Plumbing Materials-Dwellings,3122300005,3,31,312,3122,10
+Roofing Materials-Dwellings,3122300006,3,31,312,3122,10
+Metal Fence & Posts,3122300007,3,31,312,3122,10
+Road Surfacing Materials-Dwellings,3122300008,3,31,312,3122,10
+Wood & Timber Supplies-Dwellings,3122300009,3,31,312,3122,10
+Borehole Casings & Accessories-Dwellings,3122300010,3,31,312,3122,10
+Protective clothing- Dwellings,3122300011,3,31,312,3122,10
+Fuel-diesel and petrol-Dwellings,3122300012,3,31,312,3122,10
+T and S allowances-Dwellings,3122300013,3,31,312,3122,10
+Food and Refreshments Dwellings,3122300014,3,31,312,3122,10
+Hire of Vehicles-Dwellings,3122300015,3,31,312,3122,10
+Hire of Plant and Eqiupment-Dwellings,3122300016,3,31,312,3122,10
+Vehicle and Mobile Equipment Maintanance-Dwellings,3122300017,3,31,312,3122,10
+Tools and Small Implements-Dwellings,3122300018,3,31,312,3122,10
+Consultancy Services-Dwellings,3122300019,3,31,312,3122,10
+Public Relations and Communication-Dwellings,3122300020,3,31,312,3122,10
+Office Supplies and Stationery -Dwellings,3122300021,3,31,312,3122,10
+Asset Under Construction (Buildings other than dwellings),31224,3,31,312,3122,5
+Subcontracting - Construction works,3122400001,3,31,312,3122,10
+Casual Labourers-Buildings,3122400002,3,31,312,3122,10
+Building Materials-Buildings,3122400003,3,31,312,3122,10
+Electrical Supplies-Buildings,3122400004,3,31,312,3122,10
+Plumbing Materials-Buildings,3122400005,3,31,312,3122,10
+Roofing Materials-Buildings,3122400006,3,31,312,3122,10
+Metal Fence & Posts-Buildings,3122400007,3,31,312,3122,10
+Road Surfacing Materials-Buildings,3122400008,3,31,312,3122,10
+Wood & Timber Supplies-Buildings,3122400009,3,31,312,3122,10
+Borehole Casings & Accessories-Buildings,3122400010,3,31,312,3122,10
+Protective clothing-buildings,3122400011,3,31,312,3122,10
+Fuel-diesel and petrol-buildings,3122400012,3,31,312,3122,10
+T and S allowances-biuldings,3122400013,3,31,312,3122,10
+Food and Refreshmentsbuildings,3122400014,3,31,312,3122,10
+Hire of Vehicles-buildings,3122400015,3,31,312,3122,10
+Hire of Plant and Eqiupment-buildings,3122400016,3,31,312,3122,10
+Vehicle and Mobile Equipment Maintanance-buildings,3122400017,3,31,312,3122,10
+Tools and Small Implements-buildings,3122400018,3,31,312,3122,10
+Consultancy Services-buildings,3122400019,3,31,312,3122,10
+Public Relations and Communication-buildings,3122400020,3,31,312,3122,10
+Office Supplies and Stationery -buildings,3122400021,3,31,312,3122,10
+Asset Under Construction (Other Structures),31225,3,31,312,3122,5
+Subcontracting - Construction works,3122500001,3,31,312,3122,10
+Casual Labourers,3122500002,3,31,312,3122,10
+Building Materials,3122500003,3,31,312,3122,10
+Electrical Supplies,3122500004,3,31,312,3122,10
+Plumbing Materials,3122500005,3,31,312,3122,10
+Roofing Materials,3122500006,3,31,312,3122,10
+Metal Fence & Posts,3122500007,3,31,312,3122,10
+Road Surfacing Materials,3122500008,3,31,312,3122,10
+Wood & Timber Supplies,3122500009,3,31,312,3122,10
+Borehole Casings & Accessories,3122500010,3,31,312,3122,10
+Protective clothing-other structures,3122500011,3,31,312,3122,10
+Fuel-diesel and petrol-other structures,3122500012,3,31,312,3122,10
+T and S allowances-other structures,3122500013,3,31,312,3122,10
+Food and Refreshments-other structures,3122500014,3,31,312,3122,10
+Hire of Vehicles-other structures,3122500015,3,31,312,3122,10
+Hire of Plant and Eqiupment-structures,3122500016,3,31,312,3122,10
+Vehicle and Mobile Equipment Maintanance-other structures,3122500017,3,31,312,3122,10
+Tools and Small Implements-other strucures,3122500018,3,31,312,3122,10
+Consultancy Services-other structures,3122500019,3,31,312,3122,10
+Public Relations and Communication-other structures,3122500020,3,31,312,3122,10
+Office Supplies and Stationery -other structures,3122500021,3,31,312,3122,10
+Valuables : Disposals,3123,3,31,312,3123,4
+Non-monetary gold,31231,3,31,312,3123,5
+Precious stones and metals,3123100001,3,31,312,3123,10
+"Paintings, sculptures, and other art work or antiques",3123100002,3,31,312,3123,10
+Jewellery,3123100003,3,31,312,3123,10
+Other Valuables not elsewhere classified,3123100004,3,31,312,3123,10
+Non-produced assets : Disposals,3124,3,31,312,3124,4
+Land,31241,3,31,312,3124,5
+Agricultural Land,3124100001,3,31,312,3124,10
+Commercial Land,3124100002,3,31,312,3124,10
+Derelict  Land,3124100003,3,31,312,3124,10
+Industrial Land,3124100004,3,31,312,3124,10
+Land for Institutional Buildings,3124100005,3,31,312,3124,10
+Public Open Space,3124100006,3,31,312,3124,10
+Residential Land,3124100007,3,31,312,3124,10
+Mineral and energy resources,31242,3,31,312,3124,5
+Mineral and energy resources,3124200001,3,31,312,3124,10
+Other naturally occurring assets,31243,3,31,312,3124,5
+Non-cultivated Biological Resources,312431,3,31,312,3124,6
+Non-cultivated Biological Resources,3124310001,3,31,312,3124,10
+Water Resources,312432,3,31,312,3124,6
+Water Resources,3124320001,3,31,312,3124,10
+Other Natural Resources,312433,3,31,312,3124,6
+Radio Spectra,3124330001,3,31,312,3124,10
+Natural Resources not elsewhere classified,3124330002,3,31,312,3124,10
+Intangible non-produced assets,31244,3,31,312,3124,5
+"Contracts, leases, and licenses",312441,3,31,312,3124,6
+Marketable operating leases,3124410001,3,31,312,3124,10
+Permits to use natural resources,3124410002,3,31,312,3124,10
+Permits to undertake specific activities,3124410003,3,31,312,3124,10
+Entitlement to future goods and services on an exclusive basis,3124410004,3,31,312,3124,10
+Goodwill and marketing assets,312442,3,31,312,3124,6
+Goodwill and marketing assets,3124420001,3,31,312,3124,10
+Fixed assets : Consumption of fixed capital,3131,3,31,313,3131,4
+Buildings and structures,31311,3,31,313,3131,5
+Dwellings,313111,3,31,313,3131,6
+Residential Buildings,3131110001,3,31,313,3131,10
+Caravans,3131110002,3,31,313,3131,10
+Houseboats,3131110003,3,31,313,3131,10
+Mobile Homes,3131110004,3,31,313,3131,10
+Buildings other than dwellings,313112,3,31,313,3131,6
+Commercial Buildings,3131120001,3,31,313,3131,10
+Industrial Buildings,3131120002,3,31,313,3131,10
+Institutional Buildings,3131120003,3,31,313,3131,10
+Other structures,313113,3,31,313,3131,6
+"Airport, Runways & Helipads",3131130001,3,31,313,3131,10
+Roads,3131130002,3,31,313,3131,10
+Bridges,3131130003,3,31,313,3131,10
+Civil Works,3131130004,3,31,313,3131,10
+Dams,3131130005,3,31,313,3131,10
+Water Works,3131130006,3,31,313,3131,10
+Boreholes,3131130007,3,31,313,3131,10
+Dip Tanks & Live Stock Management Facilities,3131130008,3,31,313,3131,10
+Irrigation Schemes,3131130009,3,31,313,3131,10
+Monuments,3131130010,3,31,313,3131,10
+Railways,3131130011,3,31,313,3131,10
+Land Improvements,313114,3,31,313,3131,6
+ Land Sites,3131140001,3,31,313,3131,10
+Land Sites Rehabilitation & Upgrading,3131140002,3,31,313,3131,10
+Machinery and equipment,31312,3,31,313,3131,5
+Transport equipment,313121,3,31,313,3131,6
+Aircraft (Non-Military),3131210001,3,31,313,3131,10
+Boats & Water Craft,3131210002,3,31,313,3131,10
+Motor Cycles & Bicycles,3131210003,3,31,313,3131,10
+Motor Vehicles,3131210004,3,31,313,3131,10
+Tractors and Earthmoving Equipment,3131210005,3,31,313,3131,10
+Other Machinery and Equipment,313122,3,31,313,3131,6
+"Information, Computer & Telecommunication (ICT) Equipment",3131221,3,31,313,3131,7
+"Information, Computer & Telecommunication (ICT) Equipment",3131221001,3,31,313,3131,10
+Machinery & Equipment not elsewhere classified,3131222,3,31,313,3131,7
+Generators,3131222001,3,31,313,3131,10
+Machinery & Equipment not elsewhere classified -,3131222002,3,31,313,3131,10
+Survey Equipment,3131222003,3,31,313,3131,10
+Funeral Equipment,3131222004,3,31,313,3131,10
+Photographic/Media Equipment,3131222005,3,31,313,3131,10
+Sports Equipment,3131222006,3,31,313,3131,10
+Teaching and Training Equipment,3131222007,3,31,313,3131,10
+Navigational and Telecommunications Equipment,3131222008,3,31,313,3131,10
+Camping equipment,3131222009,3,31,313,3131,10
+Kitchen and Culinary Equipment,3131222010,3,31,313,3131,10
+Office Equipment,3131222011,3,31,313,3131,10
+Furniture and Fittings,3131222012,3,31,313,3131,10
+Laboratory Equipment,3131222013,3,31,313,3131,10
+Hospital Equipment,3131222014,3,31,313,3131,10
+Scales and Measures,3131222015,3,31,313,3131,10
+Fire Fighting Equipment,3131222016,3,31,313,3131,10
+Other fixed assets,31313,3,31,313,3131,5
+Cultivated biological resources,313131,3,31,313,3131,6
+Animal Resources Yielding Repeat Products,3131310001,3,31,313,3131,10
+"Tree, Crop & Plant Resources Yielding Repeat Products",3131310002,3,31,313,3131,10
+Intellectual property products,313132,3,31,313,3131,6
+Research & Development,3131320001,3,31,313,3131,10
+Mineral Exploration & Evaluation,3131320002,3,31,313,3131,10
+computer software,3131320003,3,31,313,3131,10
+Data bases,3131320004,3,31,313,3131,10
+"Entertainment, Literary & Artistic Originals",3131320005,3,31,313,3131,10
+Other Intellectual & Property Products,3131320006,3,31,313,3131,10
+Costs of ownership transfer on Non-Produced Assets other than land,313133,3,31,313,3131,6
+Costs of ownership,3131330001,3,31,313,3131,10
+Weapons systems,31314,3,31,313,3131,5
+Weapons systems,3131400001,3,31,313,3131,10
+Fixed assets : Revaluation (OEF),911,9,91,911,911,3
+Buildings and structures,9111,9,91,911,9111,4
+Dwellings,91111,9,91,911,9111,5
+Residential Buildings,9111100001,9,91,911,9111,10
+Caravans,9111100002,9,91,911,9111,10
+Houseboats,9111100003,9,91,911,9111,10
+Mobile Homes,9111100004,9,91,911,9111,10
+Buildings other than dwellings,91112,9,91,911,9111,5
+Commercial Buildings,9111200001,9,91,911,9111,10
+Industrial Buildings,9111200002,9,91,911,9111,10
+Institutional Buildings,9111200003,9,91,911,9111,10
+Buildings,9111200004,9,91,911,9111,10
+Other structures,91113,9,91,911,9111,5
+"Airport, Runways & Helipads",9111300001,9,91,911,9111,10
+Roads,9111300002,9,91,911,9111,10
+Bridges,9111300003,9,91,911,9111,10
+Civil Works,9111300004,9,91,911,9111,10
+Dams,9111300005,9,91,911,9111,10
+Water Works,9111300006,9,91,911,9111,10
+Boreholes,9111300007,9,91,911,9111,10
+Dip Tanks & Live Stock Management Facilities,9111300008,9,91,911,9111,10
+Irrigation Schemes,9111300009,9,91,911,9111,10
+Monuments,9111300010,9,91,911,9111,10
+Buildings,9111300011,9,91,911,9111,10
+Land Improvements,91114,9,91,911,9111,5
+ Land Sites,9111400001,9,91,911,9111,10
+Machinery and equipment,9112,9,91,911,9112,4
+Transport equipment,91121,9,91,911,9112,5
+Aircraft (Non-Military),9112100001,9,91,911,9112,10
+Boats & Water Craft,9112100002,9,91,911,9112,10
+Motor Cycles & Bicycles,9112100003,9,91,911,9112,10
+Motor Vehicles,9112100004,9,91,911,9112,10
+Tractors and Earthmoving Equipment,9112100005,9,91,911,9112,10
+Other Machinery and Equipment,91122,9,91,911,9112,5
+"Information, Computer & Telecommunication (ICT) Equipment",911221,9,91,911,9112,6
+"Information, Computer & Telecommunication (ICT) Equipment",9112210001,9,91,911,9112,10
+Machinery & Equipment not elsewhere classified,911222,9,91,911,9112,6
+Generators,9112220001,9,91,911,9112,10
+Survey Equipment,9112220002,9,91,911,9112,10
+Funeral Equipment,9112220003,9,91,911,9112,10
+Photographic/Media Equipment,9112220004,9,91,911,9112,10
+Sports Equipment,9112220005,9,91,911,9112,10
+Teaching and Training Equipment,9112220006,9,91,911,9112,10
+Navigational and Telecommunications Equipment,9112220007,9,91,911,9112,10
+Camping equipment,9112220008,9,91,911,9112,10
+Kitchen and Culinary Equipment,9112220009,9,91,911,9112,10
+Office Equipment,9112220010,9,91,911,9112,10
+Furniture and Fittings,9112220011,9,91,911,9112,10
+Laboratory Equipment,9112220012,9,91,911,9112,10
+Hospital Equipment,9112220013,9,91,911,9112,10
+Scales and Measures,9112220014,9,91,911,9112,10
+Fire Fighting Equipment,9112220015,9,91,911,9112,10
+Other fixed assets,9113,9,91,911,9113,4
+Cultivated biological resources,91131,9,91,911,9113,5
+Animal Resources Yielding Repeat Products,9113100001,9,91,911,9113,10
+"Tree, Crop & Plant Resources Yielding Repeat Products",9113100002,9,91,911,9113,10
+Intellectual property products,91132,9,91,911,9113,5
+Research & Development,9113200001,9,91,911,9113,10
+Mineral Exploration & Evaluation,9113200002,9,91,911,9113,10
+computer software,9113200003,9,91,911,9113,10
+Data bases,9113200004,9,91,911,9113,10
+"Entertainment, Literary & Artistic Originals",9113200005,9,91,911,9113,10
+Other Intellectual & Property Products,9113200006,9,91,911,9113,10
+Costs of ownership transfer on Non-Produced Assets other than land,91133,9,91,911,9113,5
+Costs of ownership transfer on Non-Produced Assets other than land,9113300001,9,91,911,9113,10
+Weapons systems,9114,9,91,911,9114,4
+Weapons systems,9114000001,9,91,911,9114,10
+Inventories : Revaluation (OEF),912,9,91,912,912,3
+Materials and supplies,91221,9,91,912,9122,5
+Materials and supplies,9122100001,9,91,912,9122,10
+Work in progress,91222,9,91,912,9122,5
+Work in progress,9122200001,9,91,912,9122,10
+Finished goods,91223,9,91,912,9122,5
+Finished goods,9122300001,9,91,912,9122,10
+goods for resale,91224,9,91,912,9122,5
+goods for resale,9122400001,9,91,912,9122,10
+military inventories,91225,9,91,912,9122,5
+military inventories,9122500001,9,91,912,9122,10
+Asset Under Construction (Dwellings),9123,9,91,912,9123,4
+Subcontracting - Dwellings,9123000001,9,91,912,9123,10
+Casual Labourers-Dwellings,9123000002,9,91,912,9123,10
+Building Materials-Dwellings,9123000003,9,91,912,9123,10
+Electrical Supplies-Dwellings,9123000004,9,91,912,9123,10
+Plumbing Materials-Dwellings,9123000005,9,91,912,9123,10
+Roofing Materials-Dwellings,9123000006,9,91,912,9123,10
+Metal Fence & Posts,9123000007,9,91,912,9123,10
+Road Surfacing Materials-Dwellings,9123000008,9,91,912,9123,10
+Wood & Timber Supplies-Dwellings,9123000009,9,91,912,9123,10
+Borehole Casings & Accessories-Dwellings,9123000010,9,91,912,9123,10
+Protective clothing- Dwellings,9123000011,9,91,912,9123,10
+Fuel-diesel and petrol-Dwellings,9123000012,9,91,912,9123,10
+T and S allowances-Dwellings,9123000013,9,91,912,9123,10
+Food and Refreshments Dwellings,9123000014,9,91,912,9123,10
+Hire of Vehicles-Dwellings,9123000015,9,91,912,9123,10
+Hire of Plant and Eqiupment-Dwellings,9123000016,9,91,912,9123,10
+Vehicle and Mobile Equipment Maintanance-Dwellings,9123000017,9,91,912,9123,10
+Tools and Small Implements-Dwellings,9123000018,9,91,912,9123,10
+Consultancy Services-Dwellings,9123000019,9,91,912,9123,10
+Public Relations and Communication-Dwellings,9123000020,9,91,912,9123,10
+Office Supplies and Stationery -Dwellings,9123000021,9,91,912,9123,10
+Asset Under Construction (Buildings other than dwellings),9124,9,91,912,9124,4
+Subcontracting - Construction works,9124000001,9,91,912,9124,10
+Casual Labourers-Buildings,9124000002,9,91,912,9124,10
+Building Materials-Buildings,9124000003,9,91,912,9124,10
+Electrical Supplies-Buildings,9124000004,9,91,912,9124,10
+Plumbing Materials-Buildings,9124000005,9,91,912,9124,10
+Roofing Materials-Buildings,9124000006,9,91,912,9124,10
+Metal Fence & Posts-Buildings,9124000007,9,91,912,9124,10
+Road Surfacing Materials-Buildings,9124000008,9,91,912,9124,10
+Wood & Timber Supplies-Buildings,9124000009,9,91,912,9124,10
+Borehole Casings & Accessories-Buildings,9124000010,9,91,912,9124,10
+Protective clothing-buildings,9124000011,9,91,912,9124,10
+Fuel-diesel and petrol-buildings,9124000012,9,91,912,9124,10
+T and S allowances-biuldings,9124000013,9,91,912,9124,10
+Food and Refreshmentsbuildings,9124000014,9,91,912,9124,10
+Hire of Vehicles-buildings,9124000015,9,91,912,9124,10
+Hire of Plant and Eqiupment-buildings,9124000016,9,91,912,9124,10
+Vehicle and Mobile Equipment Maintanance-buildings,9124000017,9,91,912,9124,10
+Tools and Small Implements-buildings,9124000018,9,91,912,9124,10
+Consultancy Services-buildings,9124000019,9,91,912,9124,10
+Public Relations and Communication-buildings,9124000020,9,91,912,9124,10
+Office Supplies and Stationery -buildings,9124000021,9,91,912,9124,10
+Asset Under Construction (Other Structures),9125,9,91,912,9125,4
+Subcontracting - Construction works,9125000001,9,91,912,9125,10
+Casual Labourers,9125000002,9,91,912,9125,10
+Building Materials,9125000003,9,91,912,9125,10
+Electrical Supplies,9125000004,9,91,912,9125,10
+Plumbing Materials,9125000005,9,91,912,9125,10
+Roofing Materials,9125000006,9,91,912,9125,10
+Metal Fence & Posts,9125000007,9,91,912,9125,10
+Road Surfacing Materials,9125000008,9,91,912,9125,10
+Wood & Timber Supplies,9125000009,9,91,912,9125,10
+Borehole Casings & Accessories,9125000010,9,91,912,9125,10
+Protective clothing-other structures,9125000011,9,91,912,9125,10
+Fuel-diesel and petrol-other structures,9125000012,9,91,912,9125,10
+T and S allowances-other structures,9125000013,9,91,912,9125,10
+Food and Refreshments-other structures,9125000014,9,91,912,9125,10
+Hire of Vehicles-other structures,9125000015,9,91,912,9125,10
+Hire of Plant and Eqiupment-structures,9125000016,9,91,912,9125,10
+Vehicle and Mobile Equipment Maintanance-other structures,9125000017,9,91,912,9125,10
+Tools and Small Implements-other strucures,9125000018,9,91,912,9125,10
+Consultancy Services-other structures,9125000019,9,91,912,9125,10
+Public Relations and Communication-other structures,9125000020,9,91,912,9125,10
+Office Supplies and Stationery -other structures,9125000021,9,91,912,9125,10
+Valuables : Revaluation (OEF),913,9,91,913,913,3
+Non-monetary gold,9131,9,91,913,9131,4
+Precious stones and metals,9131000001,9,91,913,9131,10
+"Paintings, sculptures, and other art work or antiques",9131000002,9,91,913,9131,10
+Jewellery,9131000003,9,91,913,9131,10
+Other Valuables not elsewhere classified,9131000004,9,91,913,9131,10
+Non-produced assets : Revaluation (OEF),914,9,91,914,914,3
+Land,9141,9,91,914,9141,4
+Agricultural Land,9141000001,9,91,914,9141,10
+Commercial Land,9141000002,9,91,914,9141,10
+Derelict  Land,9141000003,9,91,914,9141,10
+Industrial Land,9141000004,9,91,914,9141,10
+Land for Institutional Buildings,9141000005,9,91,914,9141,10
+Public Open Space,9141000006,9,91,914,9141,10
+Residential Land,9141000007,9,91,914,9141,10
+Mineral and energy resources,9142,9,91,914,9142,4
+Mineral and energy resources,9142000001,9,91,914,9142,10
+Other naturally occurring assets,9143,9,91,914,9143,4
+Non-cultivated Biological Resources,91431,9,91,914,9143,5
+Non-cultivated Biological Resources,9143100001,9,91,914,9143,10
+Water Resources,91432,9,91,914,9143,5
+Water Resources,9143200001,9,91,914,9143,10
+Other Natural Resources,91433,9,91,914,9143,5
+Radio Spectra,9143300001,9,91,914,9143,10
+Natural Resources not elsewhere classified,9143300002,9,91,914,9143,10
+Intangible non-produced assets,9144,9,91,914,9144,4
+"Contracts, leases, and licenses",91441,9,91,914,9144,5
+Marketable operating leases,9144100001,9,91,914,9144,10
+Permits to use natural resources,9144100002,9,91,914,9144,10
+Permits to undertake specific activities,9144100003,9,91,914,9144,10
+Entitlement to future goods and services on an exclusive basis,9144100004,9,91,914,9144,10
+Goodwill and marketing assets,91442,9,91,914,9144,5
+Goodwill and marketing assets,9144200001,9,91,914,9144,10
+Financial Assets ,62,6,62,62,62,2
+Domestic debtors (Financial assets): Stock positions,621,6,62,621,621,3
+Currency and deposits,6212,6,62,621,6212,4
+Main Currency and deposits,62121,6,62,621,6212,5
+Cashbook-Receipts,6212100001,6,62,621,6212,10
+Cashbook-Deposits CBZ,6212100002,6,62,621,6212,10
+Cashbook-Deposits RBZ,6212100003,6,62,621,6212,10
+Bank Account CBZ,6212100004,6,62,621,6212,10
+Bank Account RBZ,6212100005,6,62,621,6212,10
+Bank Account (Reserved for future use),6212100006,6,62,621,6212,10
+Residents- Banks NOSTRO,62122,6,62,621,6212,5
+Cashbook,6212200001,6,62,621,6212,10
+Bank Account?.,6212200002,6,62,621,6212,10
+Residents- Projects Bank Accounts,62123,6,62,621,6212,5
+Cashbook,6212300001,6,62,621,6212,10
+Bank Account ???,6212300002,6,62,621,6212,10
+Residents- NOSTRO Projects Bank Accounts,62124,6,62,621,6212,5
+Cashbook,6212400001,6,62,621,6212,10
+Bank Account ???,6212400002,6,62,621,6212,10
+Debt securities,6213,6,62,621,6213,4
+Short term :Foreign-Debt securities,6213000003,6,62,621,6213,10
+Local-Debt securities,6213000004,6,62,621,6213,10
+Loans,6214,6,62,621,6214,4
+ Local Authorities,62141,6,62,621,6214,5
+Long Term - Local Authorities,6214100001,6,62,621,6214,10
+Short Term- Local Authorities,6214100002,6,62,621,6214,10
+On Lending -Local Authorities,6214100003,6,62,621,6214,10
+Parastatals,62142,6,62,621,6214,5
+Long  Term- Parastatals,6214200001,6,62,621,6214,10
+Short Term - Parastatals,6214200002,6,62,621,6214,10
+On Lending -Local Public Entities,6214200003,6,62,621,6214,10
+Other,62143,6,62,621,6214,5
+Foreign - Long term,6214300001,6,62,621,6214,10
+Foreign - Short Term,6214300002,6,62,621,6214,10
+Security Deposit on Rentals,6214300003,6,62,621,6214,10
+Domestic - Long term,6214300004,6,62,621,6214,10
+Domestic - Short Term,6214300005,6,62,621,6214,10
+Security Deposit on Rentals,6214300006,6,62,621,6214,10
+Welfare and benovelent  - loan fund,6214300007,6,62,621,6214,10
+On Lending -Other Instititions not classfied,6214300008,6,62,621,6214,10
+Vehicle loan scheme,6214300009,6,62,621,6214,10
+Equity and investment fund shares,6215,6,62,621,6215,4
+Equity,62151,6,62,621,6215,5
+Equity: Listed,6215100001,6,62,621,6215,10
+Equity: Unlisted,6215100002,6,62,621,6215,10
+Investment fund shares or units,62152,6,62,621,6215,5
+Investment fund shares,6215200001,6,62,621,6215,10
+Investment fund units and trusts,6215200002,6,62,621,6215,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",6216,6,62,621,6216,4
+Nonlife insurance technical reserves,62161,6,62,621,6216,5
+Nonlife insurance reserves,6216100001,6,62,621,6216,10
+Life insurance and annuities entitlements,62162,6,62,621,6216,5
+Life insurance,6216200001,6,62,621,6216,10
+Annuities entitlements,6216200002,6,62,621,6216,10
+Pension entitlements [GFS],62163,6,62,621,6216,5
+Pension receivable,6216300001,6,62,621,6216,10
+Claims of pension funds on pension manager,62164,6,62,621,6216,5
+Claims of pension funds,6216400001,6,62,621,6216,10
+Provisions for calls under standardized guarantee schemes,62165,6,62,621,6216,5
+Provisions for calls on guarantee,6216500001,6,62,621,6216,10
+Financial derivatives and employee stock options,6217,6,62,621,6217,4
+Financial derivatives,62171,6,62,621,6217,5
+Derivatives,6217100001,6,62,621,6217,10
+Employee stock options,62172,6,62,621,6217,5
+Employee shares,6217200001,6,62,621,6217,10
+Other accounts receivable,6218,6,62,621,6218,4
+Trade credit and advances,62181,6,62,621,6218,5
+                Trade Credit,6218100001,6,62,621,6218,10
+                 Debtor employee control account a/c,6218100002,6,62,621,6218,10
+                 Advances to employees,6218100003,6,62,621,6218,10
+Miscellaneous other accounts receivable,62182,6,62,621,6218,5
+Other accounts receivable,6218200001,6,62,621,6218,10
+External debtors (Financial assets): Stock positions,622,6,62,622,622,3
+Special Drawing Rights (SDRs),6221,6,62,622,6221,4
+Special Drawing Rights (SDRs),6221000001,6,62,622,6221,10
+Currency and deposits,6222,6,62,622,6222,4
+Main Currency and deposits,62221,6,62,622,6222,5
+Cashbook-Receipts,6222100001,6,62,622,6222,10
+Cashbook-Deposits CBZ,6222100002,6,62,622,6222,10
+Cashbook-Deposits RBZ,6222100003,6,62,622,6222,10
+Bank Account CBZ,6222100004,6,62,622,6222,10
+Bank Account RBZ,6222100005,6,62,622,6222,10
+     Bank Account (Reserved for future use),6222100006,6,62,622,6222,10
+Residents- Banks NOSTRO,62222,6,62,622,6222,5
+Cashbook,6222200001,6,62,622,6222,10
+Bank Account?.,6222200002,6,62,622,6222,10
+Residents- Projects Bank Accounts,62223,6,62,622,6222,5
+Cashbook,6222300001,6,62,622,6222,10
+Bank Account ???,6222300002,6,62,622,6222,10
+Residents- NOSTRO Projects Bank Accounts,62224,6,62,622,6222,5
+Cashbook,6222400001,6,62,622,6222,10
+Bank Account ???,6222400002,6,62,622,6222,10
+Reserved for future use,0,0,0,0,0,0
+Debt securities,6223,6,62,622,6223,4
+Short term :Foreign-Debt securities,6223000003,6,62,622,6223,10
+Local-Debt securities,6223000004,6,62,622,6223,10
+Loans,6224,6,62,622,6224,4
+ Local Authorities,62241,6,62,622,6224,5
+Long Term - Local Authorities,6224100001,6,62,622,6224,10
+Short Term- Local Authorities,6224100002,6,62,622,6224,10
+On Lending -Local Authorities,6224100003,6,62,622,6224,10
+Parastatals,62242,6,62,622,6224,5
+Long  Term- Parastatals,6224200001,6,62,622,6224,10
+Short Term - Parastatals,6224200002,6,62,622,6224,10
+On Lending -Local Public Entities,6224200003,6,62,622,6224,10
+Other,62243,6,62,622,6224,5
+Foreign - Long term,6224300001,6,62,622,6224,10
+Foreign - Short Term,6224300002,6,62,622,6224,10
+Security Deposit on Rentals,6224300003,6,62,622,6224,10
+Domestic - Long term,6224300004,6,62,622,6224,10
+Domestic - Short Term,6224300005,6,62,622,6224,10
+Security Deposit on Rentals,6224300006,6,62,622,6224,10
+Welfare and benovelent  - loan fund,6224300007,6,62,622,6224,10
+On Lending -Other Instititions not classfied,6224300008,6,62,622,6224,10
+Vehicle loan scheme,6224300009,6,62,622,6224,10
+Equity and investment fund shares,6225,6,62,622,6225,4
+Equity,62251,6,62,622,6225,5
+Equity: Listed,6225100001,6,62,622,6225,10
+Equity: Unlisted,6225100002,6,62,622,6225,10
+Investment fund shares or units,62252,6,62,622,6225,5
+Investment fund shares,6225200001,6,62,622,6225,10
+Investment fund units and trusts,6225200002,6,62,622,6225,10
+Investments Control Account,6225200003,6,62,622,6225,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",6226,6,62,622,6226,4
+Nonlife insurance technical reserves,62261,6,62,622,6226,5
+Nonlife insurance reserves,6226100001,6,62,622,6226,10
+Life insurance and annuities entitlements,62262,6,62,622,6226,5
+Life insurance,6226200001,6,62,622,6226,10
+Annuities entitlements,6226200002,6,62,622,6226,10
+Pension entitlements [GFS],62263,6,62,622,6226,5
+Pension receivable,6226300001,6,62,622,6226,10
+Claims of pension funds on pension manager,62264,6,62,622,6226,5
+Claims of pension funds,0,0,0,0,0,0
+Provisions for calls under standardized guarantee schemes,62265,6,62,622,6226,5
+Provisions for calls on guarantee,6226500001,6,62,622,6226,10
+Financial derivatives and employee stock options,6227,6,62,622,6227,4
+Financial derivatives,62271,6,62,622,6227,5
+Derivatives,6227100001,6,62,622,6227,10
+Employee stock options,62272,6,62,622,6227,5
+Employee shares,6227200001,6,62,622,6227,10
+Other accounts receivable,6228,6,62,622,6228,4
+Trade credit and advances,62281,6,62,622,6228,5
+                Trade Credit,6228100001,6,62,622,6228,10
+                 Debtor employee control account a/c,6228100002,6,62,622,6228,10
+                 Advances to employees,6228100003,6,62,622,6228,10
+Miscellaneous other accounts receivable,62282,6,62,622,6228,5
+Other accounts receivable,6228200001,6,62,622,6228,10
+Control Accounts ,0,0,0,0,0,0
+Inventory control account ,0,0,0,0,0,0
+Salaries and Wages  control account ,0,0,0,0,0,0
+V.A.T control Account ,0,0,0,0,0,0
+PAYEE control account ,0,0,0,0,0,0
+With holding Tax control account ,0,0,0,0,0,0
+Trade creditors control account ,0,0,0,0,0,0
+Investments Control Account,0,0,0,0,0,0
+Domestic debtors (Financial assets): Revaluations (OEF) ,921,9,92,921,921,3
+Special Drawing Rights (SDRs),9211,9,92,921,9211,4
+Special Drawing Rights (SDRs),9211000001,9,92,921,9211,10
+Currency and deposits,9212,9,92,921,9212,4
+Main Currency and deposits,92121,9,92,921,9212,5
+Residents- Banks NOSTRO,92122,9,92,921,9212,5
+Cashbook,9212200001,9,92,921,9212,10
+Bank Account?.,9212200002,9,92,921,9212,10
+Residents- Projects Bank Accounts,92123,9,92,921,9212,5
+Cashbook,9212300001,9,92,921,9212,10
+Bank Account ???,9212300002,9,92,921,9212,10
+Residents- NESTRO Projects Bank Accounts,92124,9,92,921,9212,5
+Cashbook,9212400001,9,92,921,9212,10
+Bank Account ???,9212400002,9,92,921,9212,10
+Reserved for future use,0,0,0,0,0,0
+Debt securities,9213,9,92,921,9213,4
+Short term :Foreign-Debt securities,9213000001,9,92,921,9213,10
+Local-Debt securities,9213000002,9,92,921,9213,10
+Loans,9214,9,92,921,9214,4
+ Local Authorities,92141,9,92,921,9214,5
+Long Term - Local Authorities,9214100001,9,92,921,9214,10
+Short Term- Local Authorities,9214100002,9,92,921,9214,10
+On Lending -Local Authorities,9214100003,9,92,921,9214,10
+Parastatals,92142,9,92,921,9214,5
+Long  Term- Parastatals,9214200001,9,92,921,9214,10
+Short Term - Parastatals,9214200002,9,92,921,9214,10
+On Lending -Local Public Entities,9214200003,9,92,921,9214,10
+Other,92143,9,92,921,9214,5
+Foreign - Long term,9214300001,9,92,921,9214,10
+Foreign - Short Term,9214300002,9,92,921,9214,10
+Security Deposit on Rentals,9214300003,9,92,921,9214,10
+Domestic - Long term,9214300004,9,92,921,9214,10
+Domestic - Short Term,9214300005,9,92,921,9214,10
+Security Deposit on Rentals,9214300006,9,92,921,9214,10
+Welfare and benovelent  - loan fund,9214300007,9,92,921,9214,10
+On Lending -Other Instititions not classfied,9214300008,9,92,921,9214,10
+Vehicle loan scheme,9214300009,9,92,921,9214,10
+Equity and investment fund shares,9215,9,92,921,9215,4
+Equity,92151,9,92,921,9215,5
+Equity: Listed,9215100001,9,92,921,9215,10
+Equity: Unlisted,9215100002,9,92,921,9215,10
+Investment fund shares or units,92152,9,92,921,9215,5
+Investment fund shares,9215200001,9,92,921,9215,10
+Investment fund units and trusts,9215200002,9,92,921,9215,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",9216,9,92,921,9216,4
+Nonlife insurance technical reserves,92161,9,92,921,9216,5
+Nonlife insurance reserves,9216100001,9,92,921,9216,10
+Life insurance and annuities entitlements,92162,9,92,921,9216,5
+Life insurance,9216200001,9,92,921,9216,10
+Annuities entitlements,9216200002,9,92,921,9216,10
+Pension entitlements [GFS],92163,9,92,921,9216,5
+Pension receivable,9216300001,9,92,921,9216,10
+Claims of pension funds on pension manager,92164,9,92,921,9216,5
+Claims of pension funds,9216400001,9,92,921,9216,10
+Provisions for calls under standardized guarantee schemes,92165,9,92,921,9216,5
+Provisions for calls on guarantee,9216500001,9,92,921,9216,10
+Financial derivatives and employee stock options,9217,9,92,921,9217,4
+Financial derivatives,92171,9,92,921,9217,5
+Derivatives,9217100001,9,92,921,9217,10
+Employee stock options,92172,9,92,921,9217,5
+Employee shares,9217200001,9,92,921,9217,10
+Other accounts receivable,9218,9,92,921,9218,4
+Trade credit and advances,92181,9,92,921,9218,5
+                Trade Credit,9218100001,9,92,921,9218,10
+                 Debtor employee control account a/c,9218100002,9,92,921,9218,10
+                 Advances to employees,9218100003,9,92,921,9218,10
+Miscellaneous other accounts receivable,92182,9,92,921,9218,5
+Other accounts receivable,9218200001,9,92,921,9218,10
+External debtors (Financial assets): Revaluations (OEF) ,922,9,92,922,922,3
+Special Drawing Rights (SDRs),9221,9,92,922,9221,4
+Special Drawing Rights (SDRs),9221000001,9,92,922,9221,10
+Currency and deposits,9222,9,92,922,9222,4
+Main Currency and deposits,92221,9,92,922,9222,5
+Residents- Banks NOSTRO,92222,9,92,922,9222,5
+Residents- Projects Bank Accounts,92223,9,92,922,9222,5
+Residents- NESTRO Projects Bank Accounts,92224,9,92,922,9222,5
+Debt securities,9223,9,92,922,9223,4
+Short term :Foreign-Debt securities,9223000003,9,92,922,9223,10
+Local-Debt securities,9223000004,9,92,922,9223,10
+Loans,9224,9,92,922,9224,4
+ Local Authorities,92241,9,92,922,9224,5
+Long Term - Local Authorities,9224100001,9,92,922,9224,10
+Short Term- Local Authorities,9224100002,9,92,922,9224,10
+On Lending -Local Authorities,9224100003,9,92,922,9224,10
+Parastatals,92242,9,92,922,9224,5
+Long  Term- Parastatals,9224200001,9,92,922,9224,10
+Short Term - Parastatals,9224200002,9,92,922,9224,10
+On Lending -Local Public Entities,9224200003,9,92,922,9224,10
+Other,92243,9,92,922,9224,5
+Foreign - Long term,9224300001,9,92,922,9224,10
+Foreign - Short Term,9224300002,9,92,922,9224,10
+Security Deposit on Rentals,9224300003,9,92,922,9224,10
+Domestic - Long term,9224300004,9,92,922,9224,10
+Domestic - Short Term,9224300005,9,92,922,9224,10
+Security Deposit on Rentals,9224300006,9,92,922,9224,10
+Welfare and benovelent  - loan fund,9224300007,9,92,922,9224,10
+On Lending -Other Instititions not classfied,9224300008,9,92,922,9224,10
+Vehicle loan scheme,9224300009,9,92,922,9224,10
+Equity and investment fund shares,9225,9,92,922,9225,4
+Equity: Revaluations,92251,9,92,922,9225,5
+Equity: Listed,9225100001,9,92,922,9225,10
+Equity: Unlisted,9225100002,9,92,922,9225,10
+Investment fund shares or units,92252,9,92,922,9225,5
+Investment fund shares,9225200001,9,92,922,9225,10
+Investment fund units and trusts,9225200002,9,92,922,9225,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",9226,9,92,922,9226,4
+Nonlife insurance technical reserves,92261,9,92,922,9226,5
+Nonlife insurance reserves,9226100001,9,92,922,9226,10
+Life insurance and annuities entitlements,92262,9,92,922,9226,5
+Life insurance,9226200001,9,92,922,9226,10
+Annuities entitlements,9226200002,9,92,922,9226,10
+Pension entitlements [GFS],92263,9,92,922,9226,5
+Pension receivable,9226300001,9,92,922,9226,10
+Claims of pension funds on pension manager,92264,9,92,922,9226,5
+Claims of pension funds,9226400001,9,92,922,9226,10
+Provisions for calls under standardized guarantee schemes,92265,9,92,922,9226,5
+Provisions for calls on guarantee,9226500001,9,92,922,9226,10
+Financial derivatives and employee stock options,9227,9,92,922,9227,4
+Financial derivatives,92271,9,92,922,9227,5
+Derivatives,9227100001,9,92,922,9227,10
+Employee stock options,92272,9,92,922,9227,5
+Employee shares,9227200001,9,92,922,9227,10
+Other accounts receivable,9228,9,92,922,9228,4
+Trade credit and advances,92281,9,92,922,9228,5
+                Trade Credit,9228100001,9,92,922,9228,10
+                 Debtor employee control account a/c,9228100002,9,92,922,9228,10
+                 Advances to employees,9228100003,9,92,922,9228,10
+Miscellaneous other accounts receivable,92282,9,92,922,9228,5
+Other accounts receivable,9228200001,9,92,922,9228,10
+Domestic debtors (Financial assets): Acquisitions,3211,3,32,321,3211,4
+Special Drawing Rights (SDRs),32111,3,32,321,3211,5
+Special Drawing Rights (SDRs),3211100001,3,32,321,3211,10
+Currency and deposits,32112,3,32,321,3211,5
+Main Currency and deposits,321121,3,32,321,3211,6
+Cashbook-Receipts,3211210001,3,32,321,3211,10
+Cashbook-Deposits CBZ,3211210002,3,32,321,3211,10
+Cashbook-Deposits RBZ,3211210003,3,32,321,3211,10
+Bank Account CBZ,3211210004,3,32,321,3211,10
+Bank Account RBZ,3211210005,3,32,321,3211,10
+Bank Account (Reserved for future use),3211210006,3,32,321,3211,10
+Residents- Banks NOSTRO,321122,3,32,321,3211,6
+Cashbook,3211220001,3,32,321,3211,10
+Bank Account?.,3211220002,3,32,321,3211,10
+Residents- Projects Bank Accounts,321123,3,32,321,3211,6
+Cashbook,3211230001,3,32,321,3211,10
+Bank Account ???,3211230002,3,32,321,3211,10
+Residents- NESTRO Projects Bank Accounts,321124,3,32,321,3211,6
+Cashbook,3211240001,3,32,321,3211,10
+Bank Account ???,3211240002,3,32,321,3211,10
+Debt securities,32113,3,32,321,3211,5
+Short term :Foreign-Debt securities,3211300003,3,32,321,3211,10
+Local-Debt securities,3211300004,3,32,321,3211,10
+Loans,32114,3,32,321,3211,5
+ Local Authorities,321141,3,32,321,3211,6
+Long Term - Local Authorities,3211410001,3,32,321,3211,10
+Short Term- Local Authorities,3211410002,3,32,321,3211,10
+On Lending -Local Authorities,3211410003,3,32,321,3211,10
+Parastatals,321142,3,32,321,3211,6
+Long  Term- Parastatals,3211420001,3,32,321,3211,10
+Short Term - Parastatals,3211420002,3,32,321,3211,10
+On Lending -Local Public Entities,3211420003,3,32,321,3211,10
+Other,321143,3,32,321,3211,6
+Foreign - Long term,3211430001,3,32,321,3211,10
+Foreign - Short Term,3211430002,3,32,321,3211,10
+Security Deposit on Rentals,3211430003,3,32,321,3211,10
+Domestic - Long term,3211430004,3,32,321,3211,10
+Domestic - Short Term,3211430005,3,32,321,3211,10
+Security Deposit on Rentals,3211430006,3,32,321,3211,10
+Welfare and benovelent  - loan fund,3211430007,3,32,321,3211,10
+On Lending -Other Instititions not classfied,3211430008,3,32,321,3211,10
+Vehicle loan scheme,3211430009,3,32,321,3211,10
+Equity and investment fund shares,32115,3,32,321,3211,5
+Equity,321151,3,32,321,3211,6
+Equity: Listed,3211510001,3,32,321,3211,10
+Equity: Unlisted,3211510002,3,32,321,3211,10
+Investment fund shares or units,321152,3,32,321,3211,6
+Investment fund shares,3211520001,3,32,321,3211,10
+Investment fund units and trusts,3211520002,3,32,321,3211,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",32116,3,32,321,3211,5
+Nonlife insurance technical reserves,321161,3,32,321,3211,6
+Nonlife insurance reserves,3211610001,3,32,321,3211,10
+Life insurance and annuities entitlements,321162,3,32,321,3211,6
+Life insurance,3211620001,3,32,321,3211,10
+Annuities entitlements,3211620002,3,32,321,3211,10
+Pension entitlements [GFS],321163,3,32,321,3211,6
+Pension receivable,3211630001,3,32,321,3211,10
+Claims of pension funds on pension manager,321164,3,32,321,3211,6
+Claims of pension funds,3212640001,3,32,321,3212,10
+Provisions for calls under standardized guarantee schemes,321165,3,32,321,3211,6
+Provisions for calls on guarantee,3211650001,3,32,321,3211,10
+Financial derivatives and employee stock options,32117,3,32,321,3211,5
+Financial derivatives,321171,3,32,321,3211,6
+Derivatives,3211710001,3,32,321,3211,10
+Employee stock options,321172,3,32,321,3211,6
+Employee shares,3211720001,3,32,321,3211,10
+Other accounts receivable,32118,3,32,321,3211,5
+Trade credit and advances,321181,3,32,321,3211,6
+                Trade Credit,3211810001,3,32,321,3211,10
+                 Debtor employee control account a/c,3211810002,3,32,321,3211,10
+                 Advances to employees,3211810003,3,32,321,3211,10
+Miscellaneous other accounts receivable,321182,3,32,321,3211,6
+Other accounts receivable,3211820001,3,32,321,3211,10
+External debtors (Financial assets): Acquisitions,3221,3,32,322,3221,4
+Special Drawing Rights (SDRs),32211,3,32,322,3221,5
+Special Drawing Rights (SDRs),3221100001,3,32,322,3221,10
+Currency and deposits,32212,3,32,322,3221,5
+Main Currency and deposits,322121,3,32,322,3221,6
+Cashbook-Receipts,3221210001,3,32,322,3221,10
+Cashbook-Deposits CBZ,3221210002,3,32,322,3221,10
+Cashbook-Deposits RBZ,3221210003,3,32,322,3221,10
+Bank Account CBZ,3221210004,3,32,322,3221,10
+Bank Account RBZ,3221210005,3,32,322,3221,10
+     Bank Account (Reserved for future use),3221210006,3,32,322,3221,10
+Residents- Banks NOSTRO,322122,3,32,322,3221,6
+Cashbook,3221220001,3,32,322,3221,10
+Bank Account?.,3221220002,3,32,322,3221,10
+Residents- Projects Bank Accounts,322123,3,32,322,3221,6
+Cashbook,3221230001,3,32,322,3221,10
+Bank Account ???,3221230002,3,32,322,3221,10
+Residents- NESTRO Projects Bank Accounts,322124,3,32,322,3221,6
+Cashbook,3221240001,3,32,322,3221,10
+Bank Account ???,3221240002,3,32,322,3221,10
+Debt securities,32213,3,32,322,3221,5
+Short term :Foreign-Debt securities,3221300003,3,32,322,3221,10
+Local-Debt securities,3221300004,3,32,322,3221,10
+Loans,32214,3,32,322,3221,5
+ Local Authorities,322141,3,32,322,3221,6
+Long Term - Local Authorities,3221410001,3,32,322,3221,10
+Short Term- Local Authorities,3221410002,3,32,322,3221,10
+On Lending -Local Authorities,3221410003,3,32,322,3221,10
+Parastatals,322142,3,32,322,3221,6
+Long  Term- Parastatals,3221420001,3,32,322,3221,10
+Short Term - Parastatals,3221420002,3,32,322,3221,10
+On Lending -Local Public Entities,3221420003,3,32,322,3221,10
+Other,322143,3,32,322,3221,6
+Foreign - Long term,3221430001,3,32,322,3221,10
+Foreign - Short Term,3221430002,3,32,322,3221,10
+Security Deposit on Rentals,3221430003,3,32,322,3221,10
+Domestic - Long term,3221430004,3,32,322,3221,10
+Domestic - Short Term,3221430005,3,32,322,3221,10
+Security Deposit on Rentals,3221430006,3,32,322,3221,10
+Welfare and benovelent  - loan fund,3221430007,3,32,322,3221,10
+On Lending -Other Instititions not classfied,3221430008,3,32,322,3221,10
+Vehicle loan scheme,3221430009,3,32,322,3221,10
+Equity and investment fund shares,32215,3,32,322,3221,5
+Equity,322151,3,32,322,3221,6
+Equity: Listed,3221510001,3,32,322,3221,10
+Equity: Unlisted,3221510002,3,32,322,3221,10
+Investment fund shares or units,322152,3,32,322,3221,6
+Investment fund shares,3221520001,3,32,322,3221,10
+Investment fund units and trusts,3221520002,3,32,322,3221,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",32216,3,32,322,3221,5
+Nonlife insurance technical reserves,322161,3,32,322,3221,6
+Nonlife insurance reserves,3221610001,3,32,322,3221,10
+Life insurance and annuities entitlements,322162,3,32,322,3221,6
+Life insurance,3221620001,3,32,322,3221,10
+Annuities entitlements,3221620002,3,32,322,3221,10
+Pension entitlements [GFS],322163,3,32,322,3221,6
+Pension receivable,3221630001,3,32,322,3221,10
+Claims of pension funds on pension manager,322164,3,32,322,3221,6
+Claims of pension funds,3221640001,3,32,322,3221,10
+Provisions for calls under standardized guarantee schemes,322165,3,32,322,3221,6
+Provisions for calls on guarantee,3221650001,3,32,322,3221,10
+Financial derivatives and employee stock options,32217,3,32,322,3221,5
+Financial derivatives,322171,3,32,322,3221,6
+Derivatives,3221710001,3,32,322,3221,10
+Employee stock options,322172,3,32,322,3221,6
+Employee shares,3221720001,3,32,322,3221,10
+Other accounts receivable,32218,3,32,322,3221,5
+Trade credit and advances,322181,3,32,322,3221,6
+                Trade Credit,3221810001,3,32,322,3221,10
+                 Debtor employee control account a/c,3221810002,3,32,322,3221,10
+                 Advances to employees,3221810003,3,32,322,3221,10
+Miscellaneous other accounts receivable,322182,3,32,322,3221,6
+Other accounts receivable,3221820001,3,32,322,3221,10
+Domestic debtors (Financial assets): Disposals,3511,3,35,351,3511,4
+Special Drawing Rights (SDRs),35111,3,35,351,3511,5
+Special Drawing Rights (SDRs),3511100001,3,35,351,3511,10
+Currency and deposits,35112,3,35,351,3511,5
+Main Currency and deposits,351121,3,35,351,3511,6
+Cashbook-Receipts,3511210001,3,35,351,3511,10
+Cashbook-Deposits CBZ,3511210002,3,35,351,3511,10
+Cashbook-Deposits RBZ,3511210003,3,35,351,3511,10
+Bank Account CBZ,3511210004,3,35,351,3511,10
+Bank Account RBZ,3511210005,3,35,351,3511,10
+     Bank Account (Reserved for future use),3511210006,3,35,351,3511,10
+Residents- Banks NOSTRO,351122,3,35,351,3511,6
+Cashbook,3511220001,3,35,351,3511,10
+Bank Account?.,3511220002,3,35,351,3511,10
+Residents- Projects Bank Accounts,351123,3,35,351,3511,6
+Cashbook,3511230001,3,35,351,3511,10
+Bank Account ???,3511230002,3,35,351,3511,10
+Residents- NESTRO Projects Bank Accounts,351124,3,35,351,3511,6
+Cashbook,3511240001,3,35,351,3511,10
+Bank Account ???,3511240002,3,35,351,3511,10
+Debt securities,35113,3,35,351,3511,5
+Short term :Foreign-Debt securities,3511300003,3,35,351,3511,10
+Local-Debt securities,3511300004,3,35,351,3511,10
+Loans,35114,3,35,351,3511,5
+ Local Authorities,351141,3,35,351,3511,6
+Long Term - Local Authorities,3511410001,3,35,351,3511,10
+Short Term- Local Authorities,3511410002,3,35,351,3511,10
+On Lending -Local Authorities,3511410003,3,35,351,3511,10
+Parastatals,351142,3,35,351,3511,6
+Long  Term- Parastatals,3511420001,3,35,351,3511,10
+Short Term - Parastatals,3511420002,3,35,351,3511,10
+On Lending -Local Public Entities,3511420003,3,35,351,3511,10
+Other,351143,3,35,351,3511,6
+Foreign - Long term,3511430001,3,35,351,3511,10
+Foreign - Short Term,3511430002,3,35,351,3511,10
+Security Deposit on Rentals,3511430003,3,35,351,3511,10
+Domestic - Long term,3511430004,3,35,351,3511,10
+Domestic - Short Term,3511430005,3,35,351,3511,10
+Security Deposit on Rentals,3511430006,3,35,351,3511,10
+Welfare and benovelent  - loan fund,3511430007,3,35,351,3511,10
+On Lending -Other Instititions not classfied,3511430008,3,35,351,3511,10
+Vehicle loan scheme,3511430009,3,35,351,3511,10
+Equity and investment fund shares,35115,3,35,351,3511,5
+Equity,351151,3,35,351,3511,6
+Equity: Listed,3511510001,3,35,351,3511,10
+Equity: Unlisted,3511510002,3,35,351,3511,10
+Investment fund shares or units,351152,3,35,351,3511,6
+Investment fund shares,3511520001,3,35,351,3511,10
+Investment fund units and trusts,3511520002,3,35,351,3511,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",35116,3,35,351,3511,5
+Nonlife insurance technical reserves,351161,3,35,351,3511,6
+Nonlife insurance reserves,3511610001,3,35,351,3511,10
+Life insurance and annuities entitlements,351162,3,35,351,3511,6
+Life insurance,3511620001,3,35,351,3511,10
+Annuities entitlements,3511620002,3,35,351,3511,10
+Pension entitlements [GFS],351163,3,35,351,3511,6
+Pension receivable,3511630001,3,35,351,3511,10
+Claims of pension funds on pension manager,351164,3,35,351,3511,6
+Claims of pension funds,3511640001,3,35,351,3511,10
+Provisions for calls under standardized guarantee schemes,351165,3,35,351,3511,6
+Provisions for calls on guarantee,3511650001,3,35,351,3511,10
+Financial derivatives and employee stock options,35117,3,35,351,3511,5
+Financial derivatives,351171,3,35,351,3511,6
+Derivatives,3511710001,3,35,351,3511,10
+Employee stock options,351172,3,35,351,3511,6
+Employee shares,3511720001,3,35,351,3511,10
+Other accounts receivable,35118,3,35,351,3511,5
+Trade credit and advances,351181,3,35,351,3511,6
+                Trade Credit,3511810001,3,35,351,3511,10
+                 Debtor employee control account a/c,3511810002,3,35,351,3511,10
+                 Advances to employees,3511810003,3,35,351,3511,10
+Miscellaneous other accounts receivable,351182,3,35,351,3511,6
+Other accounts receivable,3511820001,3,35,351,3511,10
+External debtors (Financial assets): Disposals,3521,3,35,352,3521,4
+Special Drawing Rights (SDRs),35211,3,35,352,3521,5
+Special Drawing Rights (SDRs),3521100001,3,35,352,3521,10
+Currency and deposits,35212,3,35,352,3521,5
+Main Currency and deposits,352121,3,35,352,3521,6
+Cashbook-Receipts,3521210001,3,35,352,3521,10
+Cashbook-Deposits CBZ,3521210002,3,35,352,3521,10
+Cashbook-Deposits RBZ,3521210003,3,35,352,3521,10
+Bank Account CBZ,3521210004,3,35,352,3521,10
+Bank Account RBZ,3521210005,3,35,352,3521,10
+     Bank Account (Reserved for future use),3521210006,3,35,352,3521,10
+Residents- Banks NOSTRO,352122,3,35,352,3521,6
+Cashbook,3521220001,3,35,352,3521,10
+Bank Account?.,3521220002,3,35,352,3521,10
+Residents- Projects Bank Accounts,352123,3,35,352,3521,6
+Cashbook,3521230001,3,35,352,3521,10
+Bank Account ???,3521230002,3,35,352,3521,10
+Residents- NESTRO Projects Bank Accounts,352124,3,35,352,3521,6
+Cashbook,3521240001,3,35,352,3521,10
+Bank Account ???,3521240002,3,35,352,3521,10
+Debt securities,35213,3,35,352,3521,5
+Short term :Foreign-Debt securities,3521300003,3,35,352,3521,10
+Local-Debt securities,3521300004,3,35,352,3521,10
+Loans,35214,3,35,352,3521,5
+ Local Authorities,352141,3,35,352,3521,6
+Long Term - Local Authorities,3521410001,3,35,352,3521,10
+Short Term- Local Authorities,3521410002,3,35,352,3521,10
+On Lending -Local Authorities,3521410003,3,35,352,3521,10
+Parastatals,352142,3,35,352,3521,6
+Long  Term- Parastatals,3521420001,3,35,352,3521,10
+Short Term - Parastatals,3521420002,3,35,352,3521,10
+On Lending -Local Public Entities,3521420003,3,35,352,3521,10
+Other,352143,3,35,352,3521,6
+Foreign - Long term,3521430001,3,35,352,3521,10
+Foreign - Short Term,3521430002,3,35,352,3521,10
+Security Deposit on Rentals,3521430003,3,35,352,3521,10
+Domestic - Long term,3521430004,3,35,352,3521,10
+Domestic - Short Term,3521430005,3,35,352,3521,10
+Security Deposit on Rentals,3521430006,3,35,352,3521,10
+Welfare and benovelent  - loan fund,3521430007,3,35,352,3521,10
+On Lending -Other Instititions not classfied,3521430008,3,35,352,3521,10
+Vehicle loan scheme,3521430009,3,35,352,3521,10
+Equity and investment fund shares,35215,3,35,352,3521,5
+Equity,352151,3,35,352,3521,6
+Equity: Listed,3521510001,3,35,352,3521,10
+Equity: Unlisted,3521510002,3,35,352,3521,10
+Investment fund shares or units,352152,3,35,352,3521,6
+Investment fund shares,3521520001,3,35,352,3521,10
+Investment fund units and trusts,3521520002,3,35,352,3521,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",35216,3,35,352,3521,5
+Nonlife insurance technical reserves,352161,3,35,352,3521,6
+Nonlife insurance reserves,3521610001,3,35,352,3521,10
+Life insurance and annuities entitlements,352162,3,35,352,3521,6
+Life insurance,3521620001,3,35,352,3521,10
+Annuities entitlements,3521620002,3,35,352,3521,10
+Pension entitlements [GFS],352163,3,35,352,3521,6
+Pension receivable,3521630001,3,35,352,3521,10
+Claims of pension funds on pension manager,352164,3,35,352,3521,6
+Claims of pension funds,3521640001,3,35,352,3521,10
+Provisions for calls under standardized guarantee schemes,352165,3,35,352,3521,6
+Provisions for calls on guarantee,3521650001,3,35,352,3521,10
+Financial derivatives and employee stock options,35217,3,35,352,3521,5
+Financial derivatives,352171,3,35,352,3521,6
+Derivatives,3521710001,3,35,352,3521,10
+Employee stock options,352172,3,35,352,3521,6
+Employee shares,3521720001,3,35,352,3521,10
+Other accounts receivable,35218,3,35,352,3521,5
+Trade credit and advances,352181,3,35,352,3521,6
+                Trade Credit,3521810001,3,35,352,3521,10
+                 Debtor employee control account a/c,3521810002,3,35,352,3521,10
+                 Advances to employees,3521810003,3,35,352,3521,10
+Miscellaneous other accounts receivable,352182,3,35,352,3521,6
+Other accounts receivable,3521820001,3,35,352,3521,10
+Domestic creditors (Liabilities): Stock positions,631,6,63,631,631,3
+Currency and deposits,6312,6,63,631,6312,4
+Currency and deposits,6312000001,6,63,631,6312,10
+Debt securities,6313,6,63,631,6313,4
+Banks,63131,6,63,631,6313,5
+Treasury Bills Banks,6313100001,6,63,631,6313,10
+Bonds banks,6313100002,6,63,631,6313,10
+Debendures Banks,6313100003,6,63,631,6313,10
+NON Banks,63132,6,63,631,6313,5
+Treasury Bills Banks,6313200001,6,63,631,6313,10
+Bonds banks,6313200002,6,63,631,6313,10
+Debendures Banks,6313200003,6,63,631,6313,10
+Loans,6314,6,63,631,6314,4
+consesional loans,6314000001,6,63,631,6314,10
+non-concesional loans,6314000002,6,63,631,6314,10
+Equity and investment fund shares,6315,6,63,631,6315,4
+Equity,63151,6,63,631,6315,5
+Equity,6315100001,6,63,631,6315,10
+Investment fund shares or units,63152,6,63,631,6315,5
+Investment fund shares or units,6315200001,6,63,631,6315,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",6316,6,63,631,6316,4
+Nonlife insurance technical reserves,63161,6,63,631,6316,5
+Non Life Insurance,6316100001,6,63,631,6316,10
+Life insurance and annuities entitlements,63162,6,63,631,6316,5
+Life Insurance,6316200001,6,63,631,6316,10
+Annuities,6316200002,6,63,631,6316,10
+Pension entitlements [GFS],63163,6,63,631,6316,5
+Pension payable,6316300001,6,63,631,6316,10
+Claims of pension funds on pension manager,63164,6,63,631,6316,5
+Claims of pension,6316400001,6,63,631,6316,10
+Provisions for calls under standardized guarantee schemes,63165,6,63,631,6316,5
+Provisions for calls under standardized guarantee schemes,6316500001,6,63,631,6316,10
+Financial derivatives and employee stock options,6317,6,63,631,6317,4
+Financial derivatives,63171,6,63,631,6317,5
+Derivatives,6317100001,6,63,631,6317,10
+Employee stock options,63172,6,63,631,6317,5
+Employee shares,6317200001,6,63,631,6317,10
+Other accounts receivable,6318,6,63,631,6318,4
+Trade credit and advances,63181,6,63,631,6318,5
+Institutional creditors,6318100001,6,63,631,6318,10
+Advances,6318100002,6,63,631,6318,10
+Miscellaneous other accounts receivable,63182,6,63,631,6318,5
+Miscellaneous other accounts payable,6318200001,6,63,631,6318,10
+Employees creditors,6318200002,6,63,631,6318,10
+Temporary Deposits,6318200003,6,63,631,6318,10
+Foreign Services-Float,6318200004,6,63,631,6318,10
+Accrued Interest,6318200005,6,63,631,6318,10
+Accrued Penalties,6318200006,6,63,631,6318,10
+External creditors (Liabilities): Stock positions,632,6,63,632,632,3
+Special Drawing Rights (SDRs),6321,6,63,632,6321,4
+Special Drawing Rights (SDRs),6321000001,6,63,632,6321,10
+Currency and deposits,6322,6,63,632,6322,4
+Currency and deposits,6322000001,6,63,632,6322,10
+Debt securities,6323,6,63,632,6323,4
+Banks,63231,6,63,632,6323,5
+Treasury Bills Banks,6323100001,6,63,632,6323,10
+Bonds banks,6323100002,6,63,632,6323,10
+Debendures Banks,6323100003,6,63,632,6323,10
+NON Banks,63232,6,63,632,6323,5
+Treasury Bills Banks,6323200001,6,63,632,6323,10
+Bonds banks,6323200002,6,63,632,6323,10
+Debendures Banks,6323200003,6,63,632,6323,10
+Loans,6324,6,63,632,6324,4
+consesional loans,6324000001,6,63,632,6324,10
+non-concesional loans,6324000002,6,63,632,6324,10
+Equity and investment fund shares,6325,6,63,632,6325,4
+Equity,63251,6,63,632,6325,5
+Equity,6325100001,6,63,632,6325,10
+Investment fund shares or units,63252,6,63,632,6325,5
+Investment fund shares or units,6325200001,6,63,632,6325,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",6326,6,63,632,6326,4
+Nonlife insurance technical reserves,63261,6,63,632,6326,5
+Non Life Insurance,6326100001,6,63,632,6326,10
+Life insurance and annuities entitlements,63262,6,63,632,6326,5
+Life Insurance,6326200001,6,63,632,6326,10
+Annuities,6326200002,6,63,632,6326,10
+Pension entitlements [GFS],63263,6,63,632,6326,5
+Pension payable,6326300001,6,63,632,6326,10
+Claims of pension funds on pension manager,63264,6,63,632,6326,5
+Claims of pension,6326400001,6,63,632,6326,10
+Provisions for calls under standardized guarantee schemes,63265,6,63,632,6326,5
+Provisions for calls under standardized guarantee schemes,6326500001,6,63,632,6326,10
+Financial derivatives and employee stock options,6327,6,63,632,6327,4
+Financial derivatives,63271,6,63,632,6327,5
+Derivatives,6327100001,6,63,632,6327,10
+Employee stock options,63272,6,63,632,6327,5
+Employee shares,6327200001,6,63,632,6327,10
+Other accounts receivable,6328,6,63,632,6328,4
+Trade credit and advances,63281,6,63,632,6328,5
+Institutional creditors,6328100001,6,63,632,6328,10
+Advances,6328100002,6,63,632,6328,10
+Miscellaneous other accounts receivable,63282,6,63,632,6328,5
+Miscellaneous other accounts payable,6328200001,6,63,632,6328,10
+Employees creditors,6328200002,6,63,632,6328,10
+Temporary Deposits,6328200003,6,63,632,6328,10
+Foreign Services-Float,6328200004,6,63,632,6328,10
+Accrued Interest,6328200005,6,63,632,6328,10
+Accrued Penalties,6328200006,6,63,632,6328,10
+Domestic creditors (Liabilities): Revaluations (OEF) ,931,9,93,931,931,3
+Currency and deposits,9312,9,93,931,9312,4
+Currency and deposits,9312000001,9,93,931,9312,10
+Debt securities,9313,9,93,931,9313,4
+Banks,93131,9,93,931,9313,5
+Treasury Bills Banks,9313100001,9,93,931,9313,10
+Bonds banks,9313100002,9,93,931,9313,10
+Debendures Banks,9313100003,9,93,931,9313,10
+NON Banks,93132,9,93,931,9313,5
+Treasury Bills Banks,9313200001,9,93,931,9313,10
+Bonds banks,9313200002,9,93,931,9313,10
+Debendures Banks,9313200003,9,93,931,9313,10
+Loans,9314,9,93,931,9314,4
+consesional loans,9314000001,9,93,931,9314,10
+non-concesional loans,9314000002,9,93,931,9314,10
+Equity and investment fund shares,9315,9,93,931,9315,4
+Equity,93151,9,93,931,9315,5
+Equity,9315100001,9,93,931,9315,10
+Investment fund shares or units,93152,9,93,931,9315,5
+Investment fund shares or units,9315200001,9,93,931,9315,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",9316,9,93,931,9316,4
+Nonlife insurance technical reserves,93161,9,93,931,9316,5
+Non Life Insurance,9316100001,9,93,931,9316,10
+Life insurance and annuities entitlements,93162,9,93,931,9316,5
+Life Insurance,9316200001,9,93,931,9316,10
+Annuities,9316200002,9,93,931,9316,10
+Pension entitlements [GFS],93163,9,93,931,9316,5
+Pension payable,9319300001,9,93,931,9319,10
+Claims of pension funds on pension manager,93164,9,93,931,9316,5
+Claims of pension,9316400001,9,93,931,9316,10
+Provisions for calls under standardized guarantee schemes,93165,9,93,931,9316,5
+Provisions for calls under standardized guarantee schemes,9316500001,9,93,931,9316,10
+Financial derivatives and employee stock options,9317,9,93,931,9317,4
+Financial derivatives,93171,9,93,931,9317,5
+Derivatives,9317100001,9,93,931,9317,10
+Employee stock options,93172,9,93,931,9317,5
+Employee shares,9317200001,9,93,931,9317,10
+Other accounts receivable,9318,9,93,931,9318,4
+Trade credit and advances,93181,9,93,931,9318,5
+Institutional creditors,9318100001,9,93,931,9318,10
+Advances,9318100002,9,93,931,9318,10
+Miscellaneous other accounts receivable,93182,9,93,931,9318,5
+Miscellaneous other accounts payable,9318200001,9,93,931,9318,10
+Employees creditors,9318200002,9,93,931,9318,10
+Temporary Deposits,9318200003,9,93,931,9318,10
+Foreign Services-Float,9318200004,9,93,931,9318,10
+Accrued Interest,9318200005,9,93,931,9318,10
+Accrued Penalties,9318200006,9,93,931,9318,10
+External creditors (Liabilities): Revaluations (OEF) ,932,9,93,932,932,3
+Special Drawing Rights (SDRs),9321,9,93,932,9321,4
+Special Drawing Rights (SDRs),9321000001,9,93,932,9321,10
+Currency and deposits,9322,9,93,932,9322,4
+Currency and deposits,9322000001,9,93,932,9322,10
+Debt securities,9323,9,93,932,9323,4
+Banks,93231,9,93,932,9323,5
+Treasury Bills Banks,9323100001,9,93,932,9323,10
+Bonds banks,9323100002,9,93,932,9323,10
+Debendures Banks,9323100003,9,93,932,9323,10
+NON Banks,93232,9,93,932,9323,5
+Treasury Bills Banks,9323200001,9,93,932,9323,10
+Bonds banks,9323200002,9,93,932,9323,10
+Debendures Banks,9323200003,9,93,932,9323,10
+Loans,9324,9,93,932,9324,4
+consesional loans,9324000001,9,93,932,9324,10
+non-concesional loans,9324000002,9,93,932,9324,10
+Equity and investment fund shares,9325,9,93,932,9325,4
+Equity,93251,9,93,932,9325,5
+Equity,9325100001,9,93,932,9325,10
+Investment fund shares or units,93252,9,93,932,9325,5
+Investment fund shares or units,9325200001,9,93,932,9325,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",9326,9,93,932,9326,4
+Nonlife insurance technical reserves,93261,9,93,932,9326,5
+Non Life Insurance,9326100001,9,93,932,9326,10
+Life insurance and annuities entitlements,93262,9,93,932,9326,5
+Life Insurance,9326200001,9,93,932,9326,10
+Annuities,9326200002,9,93,932,9326,10
+Pension entitlements [GFS],93263,9,93,932,9326,5
+Pension payable,9326300002,9,93,932,9326,10
+Claims of pension funds on pension manager,93264,9,93,932,9326,5
+Claims of pension,9326400001,9,93,932,9326,10
+Provisions for calls under standardized guarantee schemes,93265,9,93,932,9326,5
+Provisions for calls under standardized guarantee schemes,9326500001,9,93,932,9326,10
+Financial derivatives and employee stock options,9327,9,93,932,9327,4
+Financial derivatives,93271,9,93,932,9327,5
+Derivatives,9327100001,9,93,932,9327,10
+Employee stock options,93272,9,93,932,9327,5
+Employee shares,9327200001,9,93,932,9327,10
+Other accounts receivable,9328,9,93,932,9328,4
+Trade credit and advances,93281,9,93,932,9328,5
+Institutional creditors,9328100001,9,93,932,9328,10
+Advances,9328100002,9,93,932,9328,10
+Miscellaneous other accounts receivable,93282,9,93,932,9328,5
+Miscellaneous other accounts payable,9328200001,9,93,932,9328,10
+Employees creditors,9328200002,9,93,932,9328,10
+Temporary Deposits,9328200003,9,93,932,9328,10
+Foreign Services-Float,9328200004,9,93,932,9328,10
+Accrued Interest,9328200005,9,93,932,9328,10
+Accrued Penalties,9328200006,9,93,932,9328,10
+Domestic creditors (Liabilities): Incurrence,3311,3,33,331,3311,4
+Currency and deposits,33112,3,33,331,3311,5
+Currency and deposits,3311200001,3,33,331,3311,10
+Debt securities,33113,3,33,331,3311,5
+Banks,331131,3,33,331,3311,6
+Treasury Bills Banks,3311310001,3,33,331,3311,10
+Bonds banks,3311310002,3,33,331,3311,10
+Debendures Banks,3311310003,3,33,331,3311,10
+NON Banks,331132,3,33,331,3311,6
+Treasury Bills Banks,3311320001,3,33,331,3311,10
+Bonds banks,3311320002,3,33,331,3311,10
+Debendures Banks,3311320003,3,33,331,3311,10
+Loans,33114,3,33,331,3311,5
+consesional loans,3311400001,3,33,331,3311,10
+non-concesional loans,3311400002,3,33,331,3311,10
+Equity and investment fund shares,33115,3,33,331,3311,5
+Equity,331151,3,33,331,3311,6
+Equity,3311510001,3,33,331,3311,10
+Investment fund shares or units,331152,3,33,331,3311,6
+Investment fund shares or units,3311520001,3,33,331,3311,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",33116,3,33,331,3311,5
+Nonlife insurance technical reserves,331161,3,33,331,3311,6
+Non Life Insurance,3311610001,3,33,331,3311,10
+Life insurance and annuities entitlements,331162,3,33,331,3311,6
+Life Insurance,3311620001,3,33,331,3311,10
+Annuities,3311620002,3,33,331,3311,10
+Pension entitlements [GFS],331163,3,33,331,3311,6
+Pension payable,3311630001,3,33,331,3311,10
+Claims of pension funds on pension manager,331164,3,33,331,3311,6
+Claims of pension,3311640001,3,33,331,3311,10
+Provisions for calls under standardized guarantee schemes,331165,3,33,331,3311,6
+Provisions for calls under standardized guarantee schemes,3311650001,3,33,331,3311,10
+Financial derivatives and employee stock options,33117,3,33,331,3311,5
+Financial derivatives,331171,3,33,331,3311,6
+Derivatives,3311710001,3,33,331,3311,10
+Employee stock options,331172,3,33,331,3311,6
+Employee shares,3311720001,3,33,331,3311,10
+Other accounts receivable,33118,3,33,331,3311,5
+Trade credit and advances,331181,3,33,331,3311,6
+Institutional creditors,3311810001,3,33,331,3311,10
+Advances,3311810002,3,33,331,3311,10
+Miscellaneous other accounts receivable,331182,3,33,331,3311,6
+Miscellaneous other accounts payable,3311820001,3,33,331,3311,10
+Employees creditors,3311820002,3,33,331,3311,10
+Temporary Deposits,3311820003,3,33,331,3311,10
+Foreign Services-Float,3311820004,3,33,331,3311,10
+Accrued Interest,3311820005,3,33,331,3311,10
+Accrued Penalties,3311820006,3,33,331,3311,10
+External creditors (Liabilities): Incurrence,3321,3,33,332,3321,4
+Special Drawing Rights (SDRs),33211,3,33,332,3321,5
+Special Drawing Rights (SDRs),3321100001,3,33,332,3321,10
+Currency and deposits,33212,3,33,332,3321,5
+Currency and deposits,3321200001,3,33,332,3321,10
+Debt securities,33213,3,33,332,3321,5
+Banks,332131,3,33,332,3321,6
+Treasury Bills Banks,3321310001,3,33,332,3321,10
+Bonds banks,3321310002,3,33,332,3321,10
+Debendures Banks,3321310003,3,33,332,3321,10
+NON Banks,332132,3,33,332,3321,6
+Treasury Bills Banks,3321320001,3,33,332,3321,10
+Bonds banks,3321320002,3,33,332,3321,10
+Debendures Banks,3321320003,3,33,332,3321,10
+Loans,33214,3,33,332,3321,5
+consesional loans,3321400001,3,33,332,3321,10
+non-concesional loans,3321400002,3,33,332,3321,10
+Equity and investment fund shares,33215,3,33,332,3321,5
+Equity,332151,3,33,332,3321,6
+Equity,3321510001,3,33,332,3321,10
+Investment fund shares or units,332152,3,33,332,3321,6
+Investment fund shares or units,3321520001,3,33,332,3321,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",33216,3,33,332,3321,5
+Nonlife insurance technical reserves,332161,3,33,332,3321,6
+Non Life Insurance,3321610001,3,33,332,3321,10
+Life insurance and annuities entitlements,332162,3,33,332,3321,6
+Life Insurance,3321620001,3,33,332,3321,10
+Annuities,3321620002,3,33,332,3321,10
+Pension entitlements [GFS],332163,3,33,332,3321,6
+Pension payable,3321630001,3,33,332,3321,10
+Claims of pension funds on pension manager,332164,3,33,332,3321,6
+Claims of pension,3321640001,3,33,332,3321,10
+Provisions for calls under standardized guarantee schemes,332165,3,33,332,3321,6
+Provisions for calls under standardized guarantee schemes,3321650001,3,33,332,3321,10
+Financial derivatives and employee stock options,33217,3,33,332,3321,5
+Financial derivatives,332171,3,33,332,3321,6
+Derivatives,3321710001,3,33,332,3321,10
+Employee stock options,332172,3,33,332,3321,6
+Employee shares,3321720001,3,33,332,3321,10
+Other accounts receivable,33218,3,33,332,3321,5
+Trade credit and advances,332181,3,33,332,3321,6
+Institutional creditors,3321810001,3,33,332,3321,10
+Advances,3321810002,3,33,332,3321,10
+Miscellaneous other accounts receivable,332182,3,33,332,3321,6
+Miscellaneous other accounts payable,3321820001,3,33,332,3321,10
+Employees creditors,3321820002,3,33,332,3321,10
+Temporary Deposits,3321820003,3,33,332,3321,10
+Foreign Services-Float,3321820004,3,33,332,3321,10
+Accrued Interest,3321820005,3,33,332,3321,10
+Accrued Penalties,3321820006,3,33,332,3321,10
+Domestic creditors (Liabilities): Repayment,3611,3,36,361,3611,4
+Currency and deposits,36112,3,36,361,3611,5
+Currency and deposits,3611200001,3,36,361,3611,10
+Debt securities,36113,3,36,361,3611,5
+Banks,361131,3,36,361,3611,6
+Treasury Bills Banks,3611310001,3,36,361,3611,10
+Bonds banks,3611310002,3,36,361,3611,10
+Debendures Banks,3611310003,3,36,361,3611,10
+NON Banks,361132,3,36,361,3611,6
+Treasury Bills Banks,3611320001,3,36,361,3611,10
+Bonds banks,3611320002,3,36,361,3611,10
+Debendures Banks,3611320003,3,36,361,3611,10
+Loans,36114,3,36,361,3611,5
+consesional loans,3611400001,3,36,361,3611,10
+non-concesional loans,3611400002,3,36,361,3611,10
+Equity and investment fund shares,36115,3,36,361,3611,5
+Equity,361151,3,36,361,3611,6
+Equity,3611510001,3,36,361,3611,10
+Investment fund shares or units,361152,3,36,361,3611,6
+Investment fund shares or units,3611520001,3,36,361,3611,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",36116,3,36,361,3611,5
+Nonlife insurance technical reserves,361161,3,36,361,3611,6
+Non Life Insurance,3611610001,3,36,361,3611,10
+Life insurance and annuities entitlements,361162,3,36,361,3611,6
+Life Insurance,3611620001,3,36,361,3611,10
+Annuities,3611620002,3,36,361,3611,10
+Pension entitlements [GFS],361163,3,36,361,3611,6
+Pension payable,3611630001,3,36,361,3611,10
+Claims of pension funds on pension manager,361164,3,36,361,3611,6
+Claims of pension,3611640001,3,36,361,3611,10
+Provisions for calls under standardized guarantee schemes,361165,3,36,361,3611,6
+Provisions for calls under standardized guarantee schemes,3611650001,3,36,361,3611,10
+Financial derivatives and employee stock options,36117,3,36,361,3611,5
+Financial derivatives,361171,3,36,361,3611,6
+Derivatives,3611710001,3,36,361,3611,10
+Employee stock options,361172,3,36,361,3611,6
+Employee shares,3611720001,3,36,361,3611,10
+Other accounts receivable,36118,3,36,361,3611,5
+Trade credit and advances,361181,3,36,361,3611,6
+Institutional creditors,3611810001,3,36,361,3611,10
+Advances,3611810002,3,36,361,3611,10
+Miscellaneous other accounts receivable,361182,3,36,361,3611,6
+Miscellaneous other accounts payable,3611820001,3,36,361,3611,10
+Employees creditors,3611820002,3,36,361,3611,10
+Temporary Deposits,3611820003,3,36,361,3611,10
+Foreign Services-Float,3611820004,3,36,361,3611,10
+Accrued Interest,3611820005,3,36,361,3611,10
+Accrued Penalties,3611820006,3,36,361,3611,10
+External creditors (Liabilities): Repayment,3621,3,36,362,3621,4
+Special Drawing Rights (SDRs),36211,3,36,362,3621,5
+Special Drawing Rights (SDRs),3621100001,3,36,362,3621,10
+Currency and deposits,36212,3,36,362,3621,5
+Currency and deposits,3621200001,3,36,362,3621,10
+Debt securities,36213,3,36,362,3621,5
+Banks,362131,3,36,362,3621,6
+Treasury Bills Banks,3621310001,3,36,362,3621,10
+Bonds banks,3621310002,3,36,362,3621,10
+Debendures Banks,3621310003,3,36,362,3621,10
+NON Banks,362132,3,36,362,3621,6
+Treasury Bills Banks,3621320001,3,36,362,3621,10
+Bonds banks,3621320002,3,36,362,3621,10
+Debendures Banks,3621320003,3,36,362,3621,10
+Loans,36214,3,36,362,3621,5
+consesional loans,3621400001,3,36,362,3621,10
+non-concesional loans,3621400002,3,36,362,3621,10
+Equity and investment fund shares,36215,3,36,362,3621,5
+Equity,362151,3,36,362,3621,6
+Equity,3621510001,3,36,362,3621,10
+Investment fund shares or units,362152,3,36,362,3621,6
+Investment fund shares or units,3621520001,3,36,362,3621,10
+"Insurance, pension, and standardized guarantee schemes [GFS]",36216,3,36,362,3621,5
+Nonlife insurance technical reserves,362161,3,36,362,3621,6
+Non Life Insurance,3621610001,3,36,362,3621,10
+Life insurance and annuities entitlements,362162,3,36,362,3621,6
+Life Insurance,3621620001,3,36,362,3621,10
+Annuities,3621620002,3,36,362,3621,10
+Pension entitlements [GFS],362163,3,36,362,3621,6
+Pension payable,3621630001,3,36,362,3621,10
+Claims of pension funds on pension manager,362164,3,36,362,3621,6
+Claims of pension,3621640001,3,36,362,3621,10
+Provisions for calls under standardized guarantee schemes,362165,3,36,362,3621,6
+Provisions for calls under standardized guarantee schemes,3621650001,3,36,362,3621,10
+Financial derivatives and employee stock options,36217,3,36,362,3621,5
+Financial derivatives,362171,3,36,362,3621,6
+Derivatives,3621710001,3,36,362,3621,10
+Employee stock options,362172,3,36,362,3621,6
+Employee shares,3621720001,3,36,362,3621,10
+Other accounts receivable,36218,3,36,362,3621,5
+Trade credit and advances,362181,3,36,362,3621,6
+Institutional creditors,3621810001,3,36,362,3621,10
+Advances,3621810002,3,36,362,3621,10
+Miscellaneous other accounts receivable,362182,3,36,362,3621,6
+Miscellaneous other accounts payable,3621820001,3,36,362,3621,10
+Employees creditors,3621820002,3,36,362,3621,10
+Temporary Deposits,3621820003,3,36,362,3621,10
+Foreign Services-Float,3621820004,3,36,362,3621,10
+Accrued Interest,3621820005,3,36,362,3621,10
+Accrued Penalties,3621820006,3,36,362,3621,10

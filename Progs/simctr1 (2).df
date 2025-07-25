@@ -1,0 +1,50 @@
+ADD TABLE "simctr1"
+  AREA "Schema Area"
+  DESCRIPTION "email server details"
+  DUMP-NAME "simctr1"
+
+ADD FIELD "serveradd" OF "simctr1" AS character 
+  DESCRIPTION "smtp server address"
+  FORMAT "x(40)"
+  INITIAL ""
+  POSITION 2
+  MAX-WIDTH 80
+  ORDER 10
+
+ADD FIELD "serverport" OF "simctr1" AS integer 
+  DESCRIPTION "server port number"
+  FORMAT ">,>>>,>>9"
+  INITIAL "0"
+  POSITION 3
+  MAX-WIDTH 4
+  ORDER 20
+
+ADD FIELD "serverpass" OF "simctr1" AS character 
+  DESCRIPTION "sending email password"
+  FORMAT "x(40)"
+  INITIAL ""
+  POSITION 4
+  MAX-WIDTH 80
+  ORDER 30
+
+ADD FIELD "serveremail" OF "simctr1" AS character 
+  DESCRIPTION "Sending mail address"
+  FORMAT "x(40)"
+  INITIAL ""
+  POSITION 5
+  MAX-WIDTH 80
+  ORDER 40
+
+ADD FIELD "email" OF "simctr1" AS character 
+  DESCRIPTION "Council email address"
+  FORMAT "x(40)"
+  INITIAL ""
+  POSITION 6
+  MAX-WIDTH 80
+  ORDER 50
+
+.
+PSC
+cpstream=ISO8859-1
+.
+0000000931

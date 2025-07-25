@@ -1,0 +1,20 @@
+CREATE DBRECOP.
+ASSIGN
+    USERCODE = "999"
+    RecNo = 0.
+
+CREATE DBRECOPON.
+ASSIGN
+    txtCur = "USD"
+    Paytype  = 15
+    txtName = "CABS"
+    txtKey = '7HP4nKiogjahV10FuKEznv6VHzzvOJnF'
+    ucode  = "999".
+
+CREATE DBRECOPON.
+ASSIGN
+    txtCur = "ZWL"
+    Paytype  = 5
+    txtName = "CABS"
+    txtKey = 'wuIaUzA5tQjRfniBFt7a1ycakKlS2VyZ'
+    ucode  = "999".

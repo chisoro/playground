@@ -1,0 +1,1240 @@
+ADD TABLE "dbblf"
+  AREA "Schema Area"
+  DESCRIPTION "Services Balances"
+  DUMP-NAME "dbblf"
+
+ADD FIELD "Sgrp" OF "dbblf" AS integer 
+  FORMAT "z9"
+  INITIAL "0"
+  LABEL "Services"
+  POSITION 3
+  MAX-WIDTH 4
+  COLUMN-LABEL "Services"
+  ORDER 20
+
+ADD FIELD "Int" OF "dbblf" AS decimal 
+  FORMAT "zzzzz9.99-"
+  INITIAL "0"
+  LABEL "Interest"
+  POSITION 4
+  MAX-WIDTH 17
+  COLUMN-LABEL "Interest"
+  DECIMALS 2
+  ORDER 40
+
+ADD FIELD "Amt" OF "dbblf" AS decimal 
+  FORMAT "zzzzzzz9.99-"
+  INITIAL "0"
+  LABEL "Amount"
+  POSITION 5
+  MAX-WIDTH 330
+  COLUMN-LABEL "Amount"
+  EXTENT 15
+  DECIMALS 2
+  ORDER 50
+
+ADD FIELD "dbAcc" OF "dbblf" AS decimal 
+  FORMAT "zzzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Account"
+  POSITION 6
+  MAX-WIDTH 15
+  COLUMN-LABEL "Account"
+  DECIMALS 0
+  ORDER 60
+  MANDATORY
+
+ADD FIELD "dbAmt" OF "dbblf" AS decimal 
+  FORMAT "->>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Amount Due"
+  POSITION 7
+  MAX-WIDTH 64
+  COLUMN-LABEL "Amount Due"
+  EXTENT 2
+  DECIMALS 2
+  ORDER 70
+
+ADD FIELD "vat" OF "dbblf" AS decimal 
+  FORMAT "->>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "VAT"
+  POSITION 8
+  MAX-WIDTH 17
+  COLUMN-LABEL "VAT"
+  DECIMALS 2
+  ORDER 80
+
+ADD FIELD "LRate" OF "dbblf" AS decimal 
+  DESCRIPTION "Last applied rate"
+  FORMAT "->>>,>>>,>>9.9999"
+  INITIAL "0"
+  LABEL "Rate"
+  POSITION 9
+  MAX-WIDTH 17
+  COLUMN-LABEL "Rate"
+  DECIMALS 2
+  ORDER 100
+
+ADD FIELD "lDate" OF "dbblf" AS date 
+  DESCRIPTION "Last exchange date"
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Exchange Date"
+  POSITION 10
+  MAX-WIDTH 4
+  COLUMN-LABEL "Exchange Date"
+  ORDER 90
+
+ADD FIELD "Stat" OF "dbblf" AS integer 
+  DESCRIPTION "0 = active, 1 Inactive"
+  FORMAT "9"
+  INITIAL "0"
+  LABEL "Status"
+  POSITION 11
+  MAX-WIDTH 4
+  COLUMN-LABEL "Status"
+  ORDER 110
+
+ADD INDEX "dbAcc" ON "dbblf" 
+  AREA "Schema Area"
+  PRIMARY
+  INDEX-FIELD "dbAcc" ASCENDING 
+  INDEX-FIELD "Sgrp" ASCENDING 
+
+ADD TABLE "dbcmf"
+  AREA "Schema Area"
+  DESCRIPTION "Debtors Masterfile"
+  DUMP-NAME "dbcmf"
+
+ADD FIELD "Name" OF "dbcmf" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  LABEL "Name"
+  POSITION 3
+  MAX-WIDTH 60
+  COLUMN-LABEL "Name"
+  ORDER 20
+
+ADD FIELD "SortName" OF "dbcmf" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "Sortname"
+  POSITION 4
+  MAX-WIDTH 40
+  COLUMN-LABEL "Sortname"
+  ORDER 30
+
+ADD FIELD "RegID" OF "dbcmf" AS character 
+  FORMAT "x(15)"
+  INITIAL ""
+  LABEL "RegNo"
+  POSITION 5
+  MAX-WIDTH 30
+  COLUMN-LABEL "RegNo"
+  ORDER 40
+
+ADD FIELD "VatNo" OF "dbcmf" AS integer 
+  FORMAT "zzzzzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "VatNo"
+  POSITION 6
+  MAX-WIDTH 4
+  COLUMN-LABEL "VatNo"
+  ORDER 50
+
+ADD FIELD "POwner" OF "dbcmf" AS logical 
+  FORMAT "yes/no"
+  INITIAL "no"
+  LABEL "Owner"
+  POSITION 7
+  MAX-WIDTH 1
+  COLUMN-LABEL "Owner"
+  ORDER 60
+
+ADD FIELD "AccStat" OF "dbcmf" AS integer 
+  DESCRIPTION "0 - Active Account,,  1 - Awaiting Authorization, 3 - Rejected, 95-  Finalised, 99 - Closed"
+  FORMAT "z99"
+  INITIAL "0"
+  LABEL "Status"
+  POSITION 8
+  MAX-WIDTH 4
+  COLUMN-LABEL "Status"
+  ORDER 70
+
+ADD FIELD "Add1" OF "dbcmf" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  POSITION 10
+  MAX-WIDTH 60
+  ORDER 90
+
+ADD FIELD "add2" OF "dbcmf" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  POSITION 11
+  MAX-WIDTH 60
+  ORDER 100
+
+ADD FIELD "Add3" OF "dbcmf" AS character 
+  FORMAT "x(30)"
+  INITIAL ""
+  POSITION 12
+  MAX-WIDTH 60
+  ORDER 110
+
+ADD FIELD "Suburb" OF "dbcmf" AS integer 
+  FORMAT "zzz9"
+  INITIAL "0"
+  LABEL "Suburb"
+  POSITION 13
+  MAX-WIDTH 4
+  COLUMN-LABEL "Suburb"
+  ORDER 120
+
+ADD FIELD "Ward" OF "dbcmf" AS integer 
+  FORMAT "zz9"
+  INITIAL "0"
+  LABEL "Ward"
+  POSITION 14
+  MAX-WIDTH 4
+  COLUMN-LABEL "Ward"
+  ORDER 130
+
+ADD FIELD "Cons" OF "dbcmf" AS integer 
+  FORMAT "z9"
+  INITIAL "0"
+  LABEL "Consumer"
+  POSITION 15
+  MAX-WIDTH 4
+  COLUMN-LABEL "Consumer"
+  ORDER 140
+
+ADD FIELD "Size" OF "dbcmf" AS decimal 
+  FORMAT "zzzzzzz9.99"
+  INITIAL "0"
+  LABEL "Size"
+  POSITION 16
+  MAX-WIDTH 17
+  COLUMN-LABEL "Size"
+  DECIMALS 2
+  ORDER 150
+
+ADD FIELD "SiteValue" OF "dbcmf" AS decimal 
+  FORMAT "->>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Site"
+  POSITION 17
+  MAX-WIDTH 17
+  COLUMN-LABEL "Site"
+  DECIMALS 2
+  ORDER 160
+
+ADD FIELD "BldValue" OF "dbcmf" AS decimal 
+  FORMAT "->>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Build"
+  POSITION 18
+  MAX-WIDTH 17
+  COLUMN-LABEL "Build"
+  DECIMALS 2
+  ORDER 170
+
+ADD FIELD "DeedNo" OF "dbcmf" AS character 
+  FORMAT "x(15)"
+  INITIAL ""
+  LABEL "Deed"
+  POSITION 19
+  MAX-WIDTH 30
+  COLUMN-LABEL "Deed Number"
+  ORDER 180
+
+ADD FIELD "AccBal" OF "dbcmf" AS decimal 
+  FORMAT "->>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Balance"
+  POSITION 20
+  MAX-WIDTH 17
+  COLUMN-LABEL "Balance"
+  DECIMALS 2
+  ORDER 190
+
+ADD FIELD "BalBf" OF "dbcmf" AS decimal 
+  FORMAT "->>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "B/F"
+  POSITION 21
+  MAX-WIDTH 17
+  COLUMN-LABEL "B/F"
+  DECIMALS 2
+  ORDER 200
+
+ADD FIELD "email" OF "dbcmf" AS logical 
+  FORMAT "yes/no"
+  INITIAL "no"
+  POSITION 22
+  MAX-WIDTH 1
+  ORDER 210
+
+ADD FIELD "emailAdd" OF "dbcmf" AS character 
+  FORMAT "x(40)"
+  INITIAL ""
+  LABEL "Email"
+  POSITION 23
+  MAX-WIDTH 80
+  COLUMN-LABEL "Email"
+  ORDER 220
+
+ADD FIELD "Sms" OF "dbcmf" AS logical 
+  FORMAT "yes/no"
+  INITIAL "no"
+  POSITION 24
+  MAX-WIDTH 1
+  ORDER 230
+
+ADD FIELD "Cell" OF "dbcmf" AS int64 
+  FORMAT "zzzzzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Cell"
+  POSITION 25
+  MAX-WIDTH 4
+  COLUMN-LABEL "Cell"
+  ORDER 240
+
+ADD FIELD "Credate" OF "dbcmf" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Created"
+  POSITION 27
+  MAX-WIDTH 4
+  COLUMN-LABEL "Created"
+  ORDER 260
+
+ADD FIELD "dbAcc" OF "dbcmf" AS decimal 
+  FORMAT "zzzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Account"
+  POSITION 28
+  MAX-WIDTH 17
+  COLUMN-LABEL "Account"
+  DECIMALS 0
+  ORDER 5
+  MANDATORY
+
+ADD FIELD "Rate-tarif" OF "dbcmf" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Rates Tarif"
+  POSITION 32
+  MAX-WIDTH 4
+  COLUMN-LABEL "Rates Tarif"
+  ORDER 270
+
+ADD FIELD "RNextP" OF "dbcmf" AS integer 
+  FORMAT "999999"
+  INITIAL "0"
+  LABEL "Next Period"
+  POSITION 33
+  MAX-WIDTH 4
+  COLUMN-LABEL "Next Period"
+  ORDER 280
+
+ADD FIELD "tarif" OF "dbcmf" AS integer 
+  FORMAT "zzz9"
+  INITIAL "0"
+  LABEL "Tarif"
+  POSITION 34
+  MAX-WIDTH 140
+  COLUMN-LABEL "Tarif"
+  EXTENT 14
+  ORDER 290
+
+ADD FIELD "lpDate" OF "dbcmf" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Last Paid"
+  POSITION 35
+  MAX-WIDTH 4
+  ORDER 360
+
+ADD FIELD "NextP" OF "dbcmf" AS integer 
+  FORMAT "999999"
+  INITIAL "0"
+  LABEL "NextBill"
+  POSITION 36
+  MAX-WIDTH 196
+  COLUMN-LABEL "NextBill"
+  EXTENT 14
+  ORDER 310
+
+ADD FIELD "Units" OF "dbcmf" AS decimal 
+  FORMAT ">>9.99"
+  INITIAL "0"
+  LABEL "Units"
+  POSITION 37
+  MAX-WIDTH 196
+  COLUMN-LABEL "Units"
+  EXTENT 14
+  DECIMALS 2
+  ORDER 320
+
+ADD FIELD "StandNo" OF "dbcmf" AS character 
+  FORMAT "x(8)"
+  INITIAL ""
+  LABEL "StandNo"
+  POSITION 38
+  MAX-WIDTH 16
+  COLUMN-LABEL "StandNo"
+  ORDER 89
+
+ADD FIELD "UID" OF "dbcmf" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  POSITION 39
+  MAX-WIDTH 6
+  ORDER 330
+
+ADD FIELD "stno" OF "dbcmf" AS character 
+  FORMAT "x(8)"
+  INITIAL ""
+  LABEL "Street"
+  POSITION 40
+  MAX-WIDTH 16
+  ORDER 340
+
+ADD FIELD "street" OF "dbcmf" AS character 
+  FORMAT "x(25)"
+  INITIAL ""
+  LABEL "Street Name"
+  POSITION 41
+  MAX-WIDTH 50
+  ORDER 350
+
+ADD FIELD "intgrp" OF "dbcmf" AS integer 
+  FORMAT ">>>>>9"
+  INITIAL "0"
+  LABEL "Group"
+  POSITION 42
+  MAX-WIDTH 4
+  COLUMN-LABEL "Group"
+  ORDER 370
+
+ADD FIELD "DepAmt" OF "dbcmf" AS decimal 
+  FORMAT "->>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Deposit"
+  POSITION 43
+  MAX-WIDTH 17
+  COLUMN-LABEL "Deposit"
+  DECIMALS 2
+  ORDER 380
+
+ADD FIELD "Auth" OF "dbcmf" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "Authoriser"
+  POSITION 44
+  MAX-WIDTH 6
+  COLUMN-LABEL "Authoriser"
+  ORDER 390
+
+ADD FIELD "Authdate" OF "dbcmf" AS date 
+  DESCRIPTION "Date Authorized"
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Created"
+  POSITION 45
+  MAX-WIDTH 4
+  COLUMN-LABEL "Created"
+  ORDER 400
+
+ADD FIELD "LDepAmt" OF "dbcmf" AS decimal 
+  DESCRIPTION "Ledger Deposit value"
+  FORMAT "->>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Ledger Deposit"
+  POSITION 46
+  MAX-WIDTH 17
+  COLUMN-LABEL "Ledger Deposit"
+  DECIMALS 2
+  ORDER 410
+
+ADD FIELD "printstat" OF "dbcmf" AS integer 
+  DESCRIPTION "0 = print,, 1 = do not print"
+  FORMAT "9"
+  INITIAL "0"
+  LABEL "Print"
+  POSITION 47
+  MAX-WIDTH 4
+  COLUMN-LABEL "Print"
+  ORDER 420
+
+ADD FIELD "TIN" OF "dbcmf" AS decimal 
+  FORMAT "9999999999999"
+  INITIAL "0"
+  LABEL "TIN"
+  POSITION 48
+  MAX-WIDTH 17
+  COLUMN-LABEL "TIN"
+  DECIMALS 2
+  ORDER 430
+
+ADD FIELD "DeviceName" OF "dbcmf" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "DeviceName"
+  POSITION 49
+  MAX-WIDTH 40
+  COLUMN-LABEL "DeviceName"
+  ORDER 440
+
+ADD INDEX "dbacc" ON "dbcmf" 
+  AREA "Schema Area"
+  UNIQUE
+  PRIMARY
+  INDEX-FIELD "dbAcc" ASCENDING 
+  INDEX-FIELD "SortName" ASCENDING 
+
+ADD INDEX "acc" ON "dbcmf" 
+  AREA "Schema Area"
+  UNIQUE
+  INDEX-FIELD "dbAcc" ASCENDING 
+
+ADD INDEX "Name" ON "dbcmf" 
+  AREA "Schema Area"
+  INDEX-FIELD "SortName" ASCENDING 
+  INDEX-FIELD "Name" ASCENDING 
+
+ADD INDEX "Stand" ON "dbcmf" 
+  AREA "Schema Area"
+  INDEX-FIELD "StandNo" ASCENDING 
+  INDEX-FIELD "Suburb" ASCENDING 
+
+ADD INDEX "Street" ON "dbcmf" 
+  AREA "Schema Area"
+  INDEX-FIELD "stno" ASCENDING 
+  INDEX-FIELD "street" ASCENDING 
+
+ADD TABLE "dbRCod"
+  AREA "Schema Area"
+  DESCRIPTION "Receipting codes table"
+  DUMP-NAME "dbrcod"
+
+ADD FIELD "rCode" OF "dbRCod" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "Receipt Code"
+  POSITION 2
+  MAX-WIDTH 6
+  COLUMN-LABEL "Receipt Code"
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "Descrip" OF "dbRCod" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "Decsription"
+  POSITION 3
+  MAX-WIDTH 40
+  ORDER 20
+
+ADD FIELD "Sgrp" OF "dbRCod" AS integer 
+  FORMAT "z9"
+  INITIAL "0"
+  LABEL "Services"
+  POSITION 4
+  MAX-WIDTH 4
+  COLUMN-LABEL "Services"
+  ORDER 30
+
+ADD FIELD "Ledger" OF "dbRCod" AS decimal 
+  FORMAT "zzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Ledger"
+  POSITION 5
+  MAX-WIDTH 17
+  COLUMN-LABEL "Control Ledger"
+  DECIMALS 2
+  ORDER 40
+
+ADD FIELD "Acb" OF "dbRCod" AS integer 
+  FORMAT "999"
+  INITIAL "0"
+  LABEL "Cashbook"
+  POSITION 6
+  MAX-WIDTH 4
+  COLUMN-LABEL "Cashbook"
+  ORDER 50
+
+ADD FIELD "target" OF "dbRCod" AS character 
+  FORMAT "x(1)"
+  INITIAL ""
+  LABEL "Target"
+  POSITION 8
+  MAX-WIDTH 2
+  COLUMN-LABEL "Target"
+  ORDER 70
+
+ADD FIELD "Proj" OF "dbRCod" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Project"
+  POSITION 9
+  MAX-WIDTH 4
+  COLUMN-LABEL "Project"
+  ORDER 80
+
+ADD FIELD "Dept" OF "dbRCod" AS integer 
+  FORMAT "9999"
+  INITIAL "0"
+  LABEL "Department"
+  POSITION 10
+  MAX-WIDTH 4
+  COLUMN-LABEL "Department"
+  ORDER 90
+
+ADD FIELD "track" OF "dbRCod" AS logical 
+  DESCRIPTION "Receipt code generates a tracking event or not."
+  FORMAT "yes/no"
+  INITIAL "no"
+  LABEL "Tracking"
+  POSITION 11
+  MAX-WIDTH 1
+  COLUMN-LABEL "Tracking"
+  ORDER 100
+
+ADD FIELD "vat%" OF "dbRCod" AS decimal 
+  FORMAT "999.99"
+  INITIAL "0"
+  POSITION 12
+  MAX-WIDTH 17
+  DECIMALS 2
+  ORDER 110
+
+ADD FIELD "UID" OF "dbRCod" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  POSITION 13
+  MAX-WIDTH 6
+  ORDER 120
+
+ADD FIELD "DeviceName" OF "dbRCod" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "DeviceName"
+  POSITION 14
+  MAX-WIDTH 40
+  COLUMN-LABEL "DeviceName"
+  ORDER 130
+
+ADD FIELD "Credate" OF "dbRCod" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Created"
+  POSITION 15
+  MAX-WIDTH 4
+  COLUMN-LABEL "Created"
+  ORDER 140
+
+ADD INDEX "Code" ON "dbRCod" 
+  AREA "Schema Area"
+  PRIMARY
+  INDEX-FIELD "rCode" ASCENDING 
+
+ADD TABLE "dbRec"
+  AREA "Schema Area"
+  DESCRIPTION "Receipting file"
+  DUMP-NAME "dbrec"
+
+ADD FIELD "OpCode" OF "dbRec" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "Operator"
+  POSITION 2
+  MAX-WIDTH 6
+  COLUMN-LABEL "Operator"
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "RecDate" OF "dbRec" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "RecDate"
+  POSITION 3
+  MAX-WIDTH 4
+  COLUMN-LABEL "RecDate"
+  ORDER 20
+
+ADD FIELD "Paytype" OF "dbRec" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Paytype"
+  POSITION 4
+  MAX-WIDTH 4
+  COLUMN-LABEL "Paytype"
+  ORDER 30
+
+ADD FIELD "Ref" OF "dbRec" AS character 
+  FORMAT "x(15)"
+  INITIAL ""
+  LABEL "Reference"
+  POSITION 5
+  MAX-WIDTH 30
+  COLUMN-LABEL "Reference"
+  ORDER 40
+
+ADD FIELD "RecNo" OF "dbRec" AS integer 
+  FORMAT "99999999"
+  INITIAL "0"
+  LABEL "Receipt"
+  POSITION 6
+  MAX-WIDTH 4
+  COLUMN-LABEL "Receipt"
+  ORDER 50
+
+ADD FIELD "SeqNo" OF "dbRec" AS integer 
+  FORMAT "999"
+  INITIAL "0"
+  LABEL "Sequence"
+  POSITION 7
+  MAX-WIDTH 4
+  COLUMN-LABEL "Sequence"
+  ORDER 60
+
+ADD FIELD "rCode" OF "dbRec" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "Receipt Code"
+  POSITION 8
+  MAX-WIDTH 6
+  COLUMN-LABEL "Receipt Code"
+  ORDER 70
+
+ADD FIELD "Amount" OF "dbRec" AS decimal 
+  FORMAT "->>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Amount"
+  POSITION 9
+  MAX-WIDTH 17
+  COLUMN-LABEL "Amount"
+  DECIMALS 2
+  ORDER 80
+
+ADD FIELD "Account" OF "dbRec" AS decimal 
+  FORMAT "zzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Account"
+  POSITION 10
+  MAX-WIDTH 17
+  COLUMN-LABEL "Account"
+  DECIMALS 2
+  ORDER 90
+
+ADD FIELD "contype" OF "dbRec" AS character 
+  DESCRIPTION "C-Consumer or V-vote"
+  FORMAT "x(1)"
+  INITIAL ""
+  LABEL "Receipt Type"
+  POSITION 11
+  MAX-WIDTH 2
+  ORDER 100
+
+ADD FIELD "RecStat" OF "dbRec" AS character 
+  DESCRIPTION "Cancelled or valid receipt"
+  FORMAT "x(1)"
+  INITIAL ""
+  LABEL "Status"
+  POSITION 12
+  MAX-WIDTH 2
+  COLUMN-LABEL "Status"
+  ORDER 110
+
+ADD FIELD "Descrip" OF "dbRec" AS character 
+  FORMAT "x(40)"
+  INITIAL ""
+  LABEL "Description"
+  POSITION 13
+  MAX-WIDTH 80
+  COLUMN-LABEL "Description"
+  ORDER 120
+
+ADD FIELD "txtCur" OF "dbRec" AS character 
+  FORMAT "x(4)"
+  INITIAL ""
+  LABEL "Currency"
+  POSITION 14
+  MAX-WIDTH 8
+  COLUMN-LABEL "Currency"
+  ORDER 130
+
+ADD FIELD "decRate" OF "dbRec" AS decimal 
+  FORMAT ">>,>>9.99999"
+  INITIAL "0"
+  LABEL "Rate"
+  POSITION 15
+  MAX-WIDTH 17
+  COLUMN-LABEL "Rate"
+  DECIMALS 5
+  ORDER 140
+
+ADD TABLE "dbRecCtr"
+  AREA "Schema Area"
+  DESCRIPTION "Receipt Control Table"
+  DUMP-NAME "dbrecctr"
+
+ADD FIELD "usercode" OF "dbRecCtr" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "UserCode"
+  POSITION 2
+  MAX-WIDTH 6
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "RecDate" OF "dbRecCtr" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "RecDate"
+  POSITION 3
+  MAX-WIDTH 4
+  COLUMN-LABEL "RecDate"
+  ORDER 20
+
+ADD FIELD "Validate" OF "dbRecCtr" AS logical 
+  FORMAT "yes/no"
+  INITIAL "no"
+  LABEL "Valid"
+  POSITION 4
+  MAX-WIDTH 1
+  COLUMN-LABEL "Valid"
+  ORDER 30
+
+ADD FIELD "RecTotal" OF "dbRecCtr" AS decimal 
+  FORMAT ">,>>>,>>9.99-"
+  INITIAL "0"
+  LABEL "Total"
+  POSITION 6
+  MAX-WIDTH 17
+  COLUMN-LABEL "Total"
+  DECIMALS 2
+  ORDER 50
+
+ADD FIELD "EOD" OF "dbRecCtr" AS logical 
+  FORMAT "yes/no"
+  INITIAL "no"
+  LABEL "EOD"
+  POSITION 7
+  MAX-WIDTH 1
+  COLUMN-LABEL "EOD"
+  ORDER 60
+
+ADD INDEX "receipt" ON "dbRecCtr" 
+  AREA "Schema Area"
+  UNIQUE
+  PRIMARY
+  INDEX-FIELD "RecDate" ASCENDING 
+  INDEX-FIELD "usercode" ASCENDING 
+
+ADD TABLE "dbRecH"
+  AREA "Schema Area"
+  DESCRIPTION "Updated receipts store for future reference."
+  DUMP-NAME "dbrech"
+
+ADD FIELD "OpCode" OF "dbRecH" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "Operator"
+  POSITION 2
+  MAX-WIDTH 6
+  COLUMN-LABEL "Operator"
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "RecDate" OF "dbRecH" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "RecDate"
+  POSITION 3
+  MAX-WIDTH 4
+  COLUMN-LABEL "RecDate"
+  ORDER 20
+
+ADD FIELD "Paytype" OF "dbRecH" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Paytype"
+  POSITION 4
+  MAX-WIDTH 4
+  COLUMN-LABEL "Paytype"
+  ORDER 30
+
+ADD FIELD "Ref" OF "dbRecH" AS character 
+  FORMAT "x(15)"
+  INITIAL ""
+  LABEL "Reference"
+  POSITION 5
+  MAX-WIDTH 30
+  COLUMN-LABEL "Reference"
+  ORDER 40
+
+ADD FIELD "RecNo" OF "dbRecH" AS integer 
+  FORMAT "99999999"
+  INITIAL "0"
+  LABEL "Receipt"
+  POSITION 6
+  MAX-WIDTH 4
+  COLUMN-LABEL "Receipt"
+  ORDER 50
+
+ADD FIELD "SeqNo" OF "dbRecH" AS integer 
+  FORMAT "999"
+  INITIAL "0"
+  LABEL "Sequence"
+  POSITION 7
+  MAX-WIDTH 4
+  COLUMN-LABEL "Sequence"
+  ORDER 60
+
+ADD FIELD "rCode" OF "dbRecH" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "Receipt Code"
+  POSITION 8
+  MAX-WIDTH 6
+  COLUMN-LABEL "Receipt Code"
+  ORDER 70
+
+ADD FIELD "Amount" OF "dbRecH" AS decimal 
+  FORMAT "->>>,>>>,>>>,>>9.99"
+  INITIAL "0"
+  LABEL "Amount"
+  POSITION 9
+  MAX-WIDTH 17
+  COLUMN-LABEL "Amount"
+  DECIMALS 2
+  ORDER 80
+
+ADD FIELD "Account" OF "dbRecH" AS decimal 
+  FORMAT "zzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Account"
+  POSITION 10
+  MAX-WIDTH 17
+  COLUMN-LABEL "Account"
+  DECIMALS 2
+  ORDER 90
+
+ADD FIELD "contype" OF "dbRecH" AS character 
+  DESCRIPTION "C-Consumer or V-vote"
+  FORMAT "x(1)"
+  INITIAL ""
+  LABEL "Receipt Type"
+  POSITION 11
+  MAX-WIDTH 2
+  ORDER 100
+
+ADD FIELD "RecStat" OF "dbRecH" AS character 
+  DESCRIPTION "Cancelled or valid receipt"
+  FORMAT "x(1)"
+  INITIAL ""
+  LABEL "Status"
+  POSITION 12
+  MAX-WIDTH 2
+  COLUMN-LABEL "Status"
+  ORDER 110
+
+ADD FIELD "Descrip" OF "dbRecH" AS character 
+  FORMAT "x(40)"
+  INITIAL ""
+  LABEL "Description"
+  POSITION 13
+  MAX-WIDTH 80
+  COLUMN-LABEL "Description"
+  ORDER 120
+
+ADD FIELD "decRate" OF "dbRecH" AS decimal 
+  FORMAT ">>,>>9.99999"
+  INITIAL "0"
+  LABEL "Rate"
+  POSITION 14
+  MAX-WIDTH 17
+  COLUMN-LABEL "Rate"
+  DECIMALS 5
+  ORDER 140
+
+ADD FIELD "txtCur" OF "dbRecH" AS character 
+  FORMAT "x(4)"
+  INITIAL ""
+  LABEL "Currency"
+  POSITION 15
+  MAX-WIDTH 8
+  COLUMN-LABEL "Currency"
+  ORDER 130
+
+ADD TABLE "dbRecop"
+  AREA "Schema Area"
+  DESCRIPTION "Receipting Operator"
+  DUMP-NAME "dbrecop"
+
+ADD FIELD "usercode" OF "dbRecop" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "UserCode"
+  POSITION 2
+  MAX-WIDTH 6
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "txtPass" OF "dbRecop" AS character 
+  FORMAT "x(15)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 30
+  COLUMN-LABEL "Password"
+  ORDER 20
+
+ADD FIELD "RecDate" OF "dbRecop" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "RecDate"
+  POSITION 4
+  MAX-WIDTH 4
+  COLUMN-LABEL "RecDate"
+  ORDER 40
+
+ADD FIELD "RecNo" OF "dbRecop" AS integer 
+  FORMAT "99999999"
+  INITIAL "0"
+  LABEL "Receipt"
+  POSITION 6
+  MAX-WIDTH 4
+  COLUMN-LABEL "Receipt"
+  ORDER 70
+
+ADD FIELD "EOD" OF "dbRecop" AS logical 
+  FORMAT "yes/no"
+  INITIAL "no"
+  LABEL "EOD"
+  POSITION 7
+  MAX-WIDTH 1
+  COLUMN-LABEL "EOD"
+  ORDER 80
+
+ADD FIELD "prn" OF "dbRecop" AS character 
+  FORMAT "x(40)"
+  INITIAL ""
+  LABEL "Printer"
+  POSITION 8
+  MAX-WIDTH 80
+  COLUMN-LABEL "Printer"
+  ORDER 90
+
+ADD FIELD "Credate" OF "dbRecop" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Created"
+  POSITION 9
+  MAX-WIDTH 4
+  COLUMN-LABEL "Created"
+  ORDER 110
+
+ADD FIELD "UID" OF "dbRecop" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  POSITION 10
+  MAX-WIDTH 6
+  ORDER 120
+
+ADD FIELD "password" OF "dbRecop" AS raw 
+  DESCRIPTION "Cashier password"
+  FORMAT "x(16)"
+  INITIAL ""
+  LABEL "Password"
+  POSITION 11
+  MAX-WIDTH 32
+  COLUMN-LABEL "Password"
+  ORDER 130
+  MANDATORY
+
+ADD FIELD "DeviceName" OF "dbRecop" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "DeviceName"
+  POSITION 12
+  MAX-WIDTH 40
+  COLUMN-LABEL "DeviceName"
+  ORDER 100
+
+ADD TABLE "dbRecopOn"
+  AREA "Schema Area"
+  LABEL "Online Receipt"
+  DESCRIPTION "Online Receipt Operator"
+  DUMP-NAME "dbrecopon"
+
+ADD FIELD "ucode" OF "dbRecopOn" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  LABEL "UserCode"
+  POSITION 2
+  MAX-WIDTH 6
+  ORDER 10
+  MANDATORY
+
+ADD FIELD "txtKey" OF "dbRecopOn" AS character 
+  FORMAT "x(48)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 512
+  COLUMN-LABEL "Key"
+  ORDER 20
+  MANDATORY
+
+ADD FIELD "txtName" OF "dbRecopOn" AS character 
+  DESCRIPTION "Bank Name"
+  FORMAT "x(15)"
+  INITIAL ""
+  POSITION 4
+  MAX-WIDTH 30
+  COLUMN-LABEL "Name"
+  ORDER 30
+
+ADD FIELD "txtCur" OF "dbRecopOn" AS character 
+  FORMAT "x(4)"
+  INITIAL ""
+  LABEL "Currency"
+  POSITION 5
+  MAX-WIDTH 8
+  COLUMN-LABEL "Currency"
+  ORDER 40
+
+ADD FIELD "Paytype" OF "dbRecopOn" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Paytype"
+  POSITION 6
+  MAX-WIDTH 4
+  COLUMN-LABEL "Paytype"
+  ORDER 50
+
+ADD FIELD "DeviceName" OF "dbRecopOn" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "DeviceName"
+  POSITION 7
+  MAX-WIDTH 40
+  COLUMN-LABEL "DeviceName"
+  ORDER 60
+
+ADD FIELD "Credate" OF "dbRecopOn" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Created"
+  POSITION 8
+  MAX-WIDTH 4
+  COLUMN-LABEL "Created"
+  ORDER 70
+
+ADD FIELD "UID" OF "dbRecopOn" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  POSITION 9
+  MAX-WIDTH 6
+  ORDER 80
+
+ADD TABLE "dbsgr"
+  AREA "Schema Area"
+  DESCRIPTION "Services Grouping"
+  DUMP-NAME "dbsgr"
+
+ADD FIELD "Descrip" OF "dbsgr" AS character 
+  FORMAT "X(40)"
+  INITIAL ""
+  LABEL "Description"
+  POSITION 3
+  MAX-WIDTH 80
+  COLUMN-LABEL "Description"
+  ORDER 20
+
+ADD FIELD "IntLedger" OF "dbsgr" AS decimal 
+  FORMAT "zzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Ledger"
+  POSITION 5
+  MAX-WIDTH 17
+  COLUMN-LABEL "InterestLedger"
+  DECIMALS 2
+  ORDER 50
+
+ADD FIELD "ctrLedger" OF "dbsgr" AS decimal 
+  FORMAT "zzzzzzzzzzz9"
+  INITIAL "0"
+  LABEL "Ledger"
+  POSITION 6
+  MAX-WIDTH 17
+  COLUMN-LABEL "Control Ledger"
+  DECIMALS 2
+  ORDER 30
+
+ADD FIELD "Sgrp" OF "dbsgr" AS integer 
+  FORMAT "z9"
+  INITIAL "0"
+  LABEL "Services"
+  POSITION 7
+  MAX-WIDTH 4
+  COLUMN-LABEL "Services"
+  ORDER 40
+  MANDATORY
+
+ADD FIELD "Proj" OF "dbsgr" AS integer 
+  FORMAT "99"
+  INITIAL "0"
+  LABEL "Project"
+  POSITION 8
+  MAX-WIDTH 4
+  COLUMN-LABEL "Project"
+  ORDER 60
+
+ADD FIELD "Dept" OF "dbsgr" AS integer 
+  FORMAT "9999"
+  INITIAL "0"
+  LABEL "Department"
+  POSITION 9
+  MAX-WIDTH 4
+  COLUMN-LABEL "Department"
+  ORDER 70
+
+ADD FIELD "UID" OF "dbsgr" AS character 
+  FORMAT "x(3)"
+  INITIAL ""
+  POSITION 10
+  MAX-WIDTH 6
+  ORDER 100
+
+ADD FIELD "DeviceName" OF "dbsgr" AS character 
+  FORMAT "x(20)"
+  INITIAL ""
+  LABEL "DeviceName"
+  POSITION 11
+  MAX-WIDTH 40
+  COLUMN-LABEL "DeviceName"
+  ORDER 80
+
+ADD FIELD "Credate" OF "dbsgr" AS date 
+  FORMAT "99/99/99"
+  INITIAL ?
+  LABEL "Created"
+  POSITION 12
+  MAX-WIDTH 4
+  COLUMN-LABEL "Created"
+  ORDER 90
+
+ADD INDEX "sgrp" ON "dbsgr" 
+  AREA "Schema Area"
+  PRIMARY
+  INDEX-FIELD "Sgrp" ASCENDING 
+
+.
+PSC
+cpstream=ISO8859-1
+.
+0000023405

@@ -1,0 +1,2376 @@
+          TRIAL BALANCE REPORT FOR THE PERIOD:202112,,,,,,,
+,, --------CURRENT PERIOD--------,, --------TOTAL TO DATE--------,,,
+ACCOUNT,DESCRIPTION,DEBITS,CREDITS,DEBITS,CREDITS,,
+HUMAN RESOURCES,,,,,,,
+1411100004,INTEREST - CURRENCY AND DEPOSITS,0,-54.73,0,-988.95,,
+,27/02/2021,being interest charges,BS27/02,,,230.97,230.97
+,1/4/2021,being interest received,bs31/03,,,74.56,305.53
+,29/03/2021,being interest received,bs29/03,,,74.56,380.09
+,30/04/2021,being interest received,bs30/04,,,102.58,482.67
+,31/05/2021,being interest received,bs31/05,,,51.91,534.58
+,1/7/2021,being interest received,bs01/07,,,34.12,568.7
+,30/06/2021,being interest accrued,bs3006,,,34.12,602.82
+,30/06/2021,being interest accrued,bs30/06,,,10.08,612.9
+,31/07/2021,being being interest received,bs31/07,,,35.96,648.86
+,31/07/2021,interest received,bs31/07,,,35.96,684.82
+,31/08/2021,being interest received,bs31/08,,,19.82,704.64
+,30/09/2021,being interest accrued,bs30/09,,,-761.87,-57.23
+,31/10/2021,being interest received,bs31/10,,,956.8,899.57
+,30/11/2021,being interest received,bs30/11,,,34.65,934.22
+,31/12/2021,being interest received,bs31/12,,,60000,60934.22
+,31/12/2021,being interest overstated,bs31/12,,,-60000,934.22
+,31/12/2021,being interest received,bs31/12,,,54.73,988.95
+1411100005,LOANS,0,0,147975.88,0,,
+,4/2/2021,being loan repayment,BS04/21,,,-147975.88,-147975.88
+1422000017,OTHER FEES,0,0,0,-7149.18,,
+,15/03/2021,being deposit,bs15/03,,,7149.18,7149.18
+2111000001,BASIC SALARY,0,0,16383862.93,0,,
+,4/1/2021,Dec 2020 salary,9999,,,-4115.02,-4115.02
+,4/2/2021,school fees for thelate T Mushango's chi,10088,,,-5500,-9615.02
+,8/2/2021,Purchase of food hamper(Dec2020&Jan2021),10092,,,-483682.39,-493297.41
+,8/2/2021,Jan 2021 salary,10094,,,-46299.88,-539597.29
+,16/02/2021,Jan 2021 salary,10164,,,-19203.53,-558800.82
+,12/2/2021,NSSA subscriptions,10156,,,-37362.45,-596163.27
+,24/02/2021,being pay leave days,10194,,,-20000,-616163.27
+,12/2/2021,ZIMRA Subscription,10158,,,-142231.39,-758394.66
+,8/2/2021,Jan 2021 management salaries,10093,,,-290707.91,-1049102.57
+,16/02/2021,Jan 2021 salaries,10165,,,-992121.12,-2041223.69
+,12/2/2021,subscriptions,10157,,,-111017.17,-2152240.86
+,19/02/2021,Back pay & Student's allowances,10182,,,-687448.96,-2839689.82
+,16/02/2021,Salaray Reversal,srev,,,46299.88,-2793389.94
+,11/2/2021,Salary,el0780210211002,,,-46299.88,-2839689.82
+,4/3/2021,Feb 2021 management salaries,10205,,,-238299.86,-3077989.68
+,4/3/2021,"Feb 2021J/staff,security,contract,casual",10204,,,-783701.44,-3861691.12
+,4/3/2021,Feb 2021 salary,10206,,,-38611.88,-3900303
+,5/3/2021,salary arrears for late T Mushango,10224,,,-11820,-3912123
+,8/3/2021,school fees for Chipo Sigauke,10216,,,-46680,-3958803
+,12/3/2021,Feb 2021 salary,10223,,,-18168.64,-3976971.64
+,16/03/2021,students' allowances,10227,,,-45000,-4021971.64
+,17/03/2021,school fees for Mr P Sigauke's child,10233,,,-23905.8,-4045877.44
+,18/03/2021,food hamper,10234,,,-152700.24,-4198577.68
+,18/03/2021,food hamper,10234,,,-207080.56,-4405658.24
+,22/03/2021,March 2021 salary,10243,,,-16143.72,-4421801.96
+,22/03/2021,March 2021 salary,10238,,,-18168.64,-4439970.6
+,29/03/2021,March 2021 salary,10305,,,-38611.88,-4478582.48
+,31/03/2021,March 2021 management salaries,10311,,,-238299.86,-4716882.34
+,6/4/2021,PAYE subscription,10312,,,-400000,-5116882.34
+,16/04/2021,April 2021 wages,10335,,,-12044.25,-5128926.59
+,16/04/2021,March 2021 salary,10339,,,-12044.25,-5140970.84
+,20/04/2021,March 2021 salaries&students' allowances,10341,,,-491050.87,-5632021.71
+,27/04/2021,subscriptions,10344,,,-300000,-5932021.71
+,27/04/2021,subscriptions,10344,,,-30000,-5962021.71
+,27/04/2021,subscriptions,10344,,,-100000,-6062021.71
+,27/04/2021,subscriptions,10344,,,-50000,-6112021.71
+,27/04/2021,subscriptions,10344,,,-200000,-6312021.71
+,27/04/2021,subscriptions,10344,,,-50000,-6362021.71
+,7/4/2021,being payment of salaries and wages,bs07/04,,,-411850.97,-6773872.68
+,6/5/2021,subscription to NSSA,10357,,,-150000,-6923872.68
+,11/5/2021,contributions to NSSA,10362,,,-41543.29,-6965415.97
+,14/05/2021,April 2021 salaries all council staff,10372,,,-1153785.45,-8119201.42
+,28/05/2021,ZIMRA Contribution,10381,,,-600000,-8719201.42
+,5/5/2021,Food hamper for council staff,10353,,,-130569.56,-8849770.98
+,5/5/2021,Food hamper for council staff,10353,,,-190062.34,-9039833.32
+,6/5/2021,being payment of salaries,bs06/05,,,-190062.34,-9229895.66
+,11/6/2021,subscriptions,10398,,,-15750,-9245645.66
+,11/6/2021,subscriptions,10398,,,-16983.2,-9262628.86
+,11/6/2021,subscription to NEC,10400,,,-12792.62,-9275421.48
+,11/6/2021,subscription to ZIMRA,10397,,,-183152.56,-9458574.04
+,11/6/2021,subscription to Old Mutual,10251,,,-57796.88,-9516370.92
+,15/06/2021,subscription to LAPF,10399,,,-8419.74,-9524790.66
+,17/06/2021,loan repayment April 2021,10256,,,-28985.21,-9553775.87
+,21/06/2021,subscription to ZIMRA,10259,,,-300000,-9853775.87
+,21/06/2021,subscription to Old Mutual,10260,,,-358000,-10211775.87
+,22/06/2021,June&July salaries,10265,,,-36337.28,-10248113.15
+,25/06/2021,food hamper for council employees,10257,,,-412841.84,-10660954.99
+,25/06/2021,April/May2021 salary,10271,,,-67330.91,-10728285.9
+,28/06/2021,May 2021 loan repayment,10275,,,-38565.28,-10766851.18
+,10/6/2021,being salaries paid,bs10/21,,,-1047426.84,-11814278.02
+,25/06/2021,being salary payment(staff groceries),bs25/06,,,-116261.74,-11930539.76
+,28/06/2021,being salaries posted in wrong period,10275,,,79051.55,-11851488.21
+,1/7/2021,salaries & wages June 2021 all employees,10278,,,-959945.81,-12811434.02
+,2/7/2021,June 2021 salary for acting CEO,10279,,,-71831.2,-12883265.22
+,30/07/2021,salaries&wages July 2021 all staff,10300,,,-909831.73,-13793096.95
+,30/07/2021,July 2021 CEOsalary(Ndarukwa),10451,,,-50410.2,-13843507.15
+,1/7/2021,being payment of salaries,10275,,,-79051.55,-13922558.7
+,12/8/2021,July 2021 students' allowances,10465,,,-45000,-13967558.7
+,3/9/2021,August 2021 salaries,10483,,,-50410.2,-14017968.9
+,3/9/2021,August 2021 salaries all staff,10482,,,-2174128.67,-16192097.57
+,20/09/2021,PAYE,10497,,,-200000,-16392097.57
+,20/09/2021,pension,10497,,,-116000,-16508097.57
+,22/09/2021,students' allowances,12041,,,-35000,-16543097.57
+,22/09/2021,pension,10498,,,-50000,-16593097.57
+,21/09/2021,being staff salaries paid,10496,,,-135000,-16728097.57
+,30/09/2021,being student allowances paid,12041,,,-35000,-16763097.57
+,22/11/2021,being staff groceries paid,bs22/11,,,-433952.7,-17197050.27
+2111000003,CASUAL LABOURERS,0,0,4902.6,0,,
+2111000059,CASH IN LIEU OF LEAVE (C.I.L)/ ENCASHMENT,0,0,183434.95,0,,
+2111000077,HOUSING ALLOWANCE,0,0,14000,0,,
+,6/9/2021,management airtime,10485,,,-14000,-14000
+2111000113,STUDENT ALLOWANCES,25000,0,212500,0,,
+,27/10/2021,Oct 2021 students allowances,10625,,,-62500,-62500
+,21/12/2021,Dec 2021 student allowances,10871,,,-12500,-75000
+,21/12/2021,Dec 2021 student allowances,10871,,,-12500,-87500
+2111000116,COUNCILLORS ALLOWANCES,2610000,0,8803187.69,0,,
+,7/1/2021,sitting allowances,10059,,,-12000,-12000
+,15/01/2021,allowances,10073,,,-60000,-72000
+,4/1/2021,Being payment of councillors T&S,V9997,,,-24500,-96500
+,17/02/2021,loan repayment,10079,,,-295951.76,-392451.76
+,15/02/2021,sitting allowances,10163,,,-5000,-397451.76
+,10/2/2021,sitting allowances,10155,,,-84000,-481451.76
+,19/02/2021,sitting allowances,10184,,,-4800,-486251.76
+,19/02/2021,councillors refreshments,10183,,,-7484,-493735.76
+,17/02/2021,final payment 2020 sitting allowances,10174,,,-231050,-724785.76
+,23/02/2021,perfomance evaluation workshop,10185,,,-27637.5,-752423.26
+,23/02/2021,advance monthly allowances,10187,,,-11000,-763423.26
+,24/02/2021,being councilors alloawance,BS24/02,,,-5487.5,-768910.76
+,24/02/2021,being reversal of councilors T&S,BS24/02,,,5487.5,-763423.26
+,24/02/2021,being councilors T&S,BS24/02,,,-5487.5,-768910.76
+,3/2/2021,being councilors allowance,BS03/21,,,-2544,-771454.76
+,3/2/2021,being councilors T&s,BS03/21,,,-127200,-898654.76
+,16/02/2021,being reversal of councilors T7S,BS16/02,,,9600,-889054.76
+,1/3/2021,councillors allowances,10196,,,-178212,-1067266.76
+,1/3/2021,fuel for councillors,10196,,,-41760,-1109026.76
+,5/3/2021,advance monthly allowances,10212,,,-18000,-1127026.76
+,17/03/2021,fuel for councillors,10229,,,-46284,-1173310.76
+,2/3/2021,being payment of councilors allowance,bs02/03,,,-95300.81,-1268611.57
+,1/4/2021,allowances,10310,,,-29640,-1298251.57
+,1/4/2021,sitting allowances,10303,,,-4800,-1303051.57
+,14/04/2021,allowances,10321,,,-9275.1,-1312326.67
+,14/04/2021,allowances,10323,,,-7200,-1319526.67
+,14/04/2021,allowances,10324,,,-9292.8,-1328819.47
+,14/04/2021,allowances,10326,,,-12480,-1341299.47
+,27/04/2021,councillors' sitting allowances,10343,,,-286200,-1627499.47
+,5/5/2021,allowances for Emma committee meeting,10356,,,-15120,-1642619.47
+,12/5/2021,Full council meeting allowances,10369,,,-90720,-1733339.47
+,26/05/2021,sitting allowances,10384,,,-68040,-1801379.47
+,27/05/2021,loan refund(payment for motor bikes),10388,,,-69647.57,-1871027.04
+,5/5/2021,sitting allowances,10354,,,-25200,-1896227.04
+,4/5/2021,refreshments during meeting,10352,,,-14495,-1910722.04
+,21/05/2021,sitting allowances,10373,,,-5040,-1915762.04
+,17/06/2021,loan repayment April 2021,10256,,,-40662.72,-1956424.76
+,22/06/2021,trip to Bulawayo 12-14/05/2021,10269,,,-928,-1957352.76
+,22/06/2021,strategic plan workshop Marondera,10266,,,-23100,-1980452.76
+,22/06/2021,March-May 2021 monthly allowances,10267,,,-140606.49,-2121059.25
+,22/06/2021,sitting allowances,10264,,,-73080,-2194139.25
+,28/06/2021,May 2021 loan repayment,10275,,,-40486.27,-2234625.52
+,28/06/2021,sitting allowances,10272,,,-66495,-2301120.52
+,6/7/2021,investigation team allowances,10282,,,-64700,-2365820.52
+,22/07/2021,sitting allowance,10295,,,-2557.5,-2368378.02
+,13/08/2021,sitting allowances,10461,,,-123327.15,-2491705.17
+,14/09/2021,refreshments full council meeting,10493,,,-10854,-2502559.17
+,23/09/2021,sitting allowances,10500,,,-12930,-2515489.17
+,21/12/2021,councillor monthly allowance arrears,10865,,,-1740000,-4255489.17
+2111000138,SITTING ALLOWANCE,57591.2,0,259043.2,0,,
+,23/09/2021,being omission of councilors T&S,bs23/09,,,-2586,-2586
+,15/10/2021,being summation error on councilors T&s,10614,,,45,-2541
+,9/11/2021,being reversal of councilors Allowance,bs09/11,,,60000,57459
+2111000151,CAMPING ALLOWANCE,0,0,40000,0,,
+2111001006,TELEPHONE,0,0,2000,0,,
+2111003010,CHIEFS AND HEADMAN ALLOWANCE,0,0,11979,0,,
+,15/03/2021,5% Commission,10342,,,-94,-94
+,15/06/2021,Village Head's Commission,10254,,,-384,-478
+,16/06/2021,Village Head's Commission,10254,,,-50,-528
+,22/06/2021,Village Head's Commission,10254,,,-600,-1128
+,21/06/2021,Village Head's Commission,10254,,,-800,-1928
+2121000003,CONTRIBUTIONS TO PENSION FUNDS,0,0,526040.83,0,,
+,12/10/2021,subscriptions to LAPF,10608,,,-21040.83,-21040.83
+,15/10/2021,Old Mutual subscriptions,10613,,,-100000,-121040.83
+2122000006,FUNERAL ASSISTANCE,0,0,190500,0,,
+2200100001,PUBLIC RELATIONS & ADVERTISING,64000,0,239460,0,,
+,12/11/2021,2022 budget advertisement,10635,,,-57000,-57000
+,7/12/2021,Advertisement for CEO's Post,10852,,,-64000,-121000
+2200100003,INTERNET,0,0,1046639.07,0,,
+,7/1/2021,payroll services,10057,,,-35000,-35000
+,4/2/2021,internet services,10080,,,-145651.26,-180651.26
+,8/2/2021,internet services,10090,,,-51579.48,-232230.74
+,8/2/2021,Accounting software licence renewal,10100,,,-286250,-518480.74
+,2/3/2021,internet services,10199,,,-121848.04,-640328.78
+,2/3/2021,internet services,10199,,,-3139,-643467.78
+,8/3/2021,internet services,10215,,,-36674.17,-680141.95
+,18/03/2021,Simacc upgrading,10236,,,-110400,-790541.95
+,7/4/2021,internet services,10317,,,-37489.97,-828031.92
+,6/5/2021,internet services,10358,,,-51568.19,-879600.11
+,28/06/2021,internet services,10273,,,-109886.96,-989487.07
+,10/9/2021,correction of journals,10486,,,-57152,-1046639.07
+2200100008,PRINTING SERVICES,5400,0,402661.75,0,,
+,7/1/2021,Photocopying&cartridge refilling,9889,,,-4740,-4740
+,17/02/2021,purchase of tonners,10172,,,-108900,-113640
+,8/2/2021,supply of stationery,10098,,,-30829.13,-144469.13
+,8/2/2021,supply of toners,10151,,,-114300,-258769.13
+,8/2/2021,supply of bond papers,10099,,,-8875,-267644.13
+,25/03/2021,purchase of power pack,10301,,,-2100,-269744.13
+,7/4/2021,purchase of bond paper,10316,,,-21998.5,-291742.63
+,29/04/2021,purchase of analysis books,10348,,,-28800,-320542.63
+,11/5/2021,purchase of requisition order books,10366,,,-30829.12,-351371.75
+,21/05/2021,purchase of receipt books,10376,,,-10200,-361571.75
+,28/05/2021,stationery,10387,,,-7340,-368911.75
+,16/08/2021,bond papers,10464,,,-28350,-397261.75
+,22/12/2021, binding for CEO's perfomance contract,10869,,,-5400,-402661.75
+2200100011,TELEPHONE-MOBILE,39200,0,90800,0,,
+,15/03/2021,Airtime for office use,10219,,,-500,-500
+,22/03/2021,Airtime for office use,10219,,,-300,-800
+,9/4/2021,being payment of management airtime,bs09/04,,,-10000,-10800
+,9/6/2021,Airtime,10395,,,-800,-11600
+,15/07/2021,being management airtime paid,10290,,,-14000,-25600
+,4/10/2021,airtime for management,10602,,,-12000,-37600
+,9/11/2021,management staff airtime,10632,,,-14000,-51600
+,7/12/2021,airtime,10855,,,-2000,-53600
+,7/12/2021,airtime,10855,,,-2000,-55600
+,7/12/2021,airtime,10855,,,-2000,-57600
+,7/12/2021,airtime,10855,,,-2000,-59600
+,7/12/2021,airtime,10855,,,-2000,-61600
+,7/12/2021,airtime,10855,,,-2000,-63600
+,7/12/2021,airtime,10855,,,-2000,-65600
+,21/12/2021,data for management,10866,,,-25200,-90800
+2200300001,ACCOMODATION,102133,0,144130.55,0,,
+,13/10/2021,accommodation for Simacc upgrading team,10610,,,-20480,-20480
+,11/10/2021,accommodation during summer school,10606,,,-21517.55,-41997.55
+,16/12/2021,accommodation for C/Chair (Victoria Fall,10860,,,-35640,-77637.55
+,22/12/2021,accommodation for drilling trainers,10868,,,-32500,-110137.55
+,22/12/2021,Accommodation for SimAcc trainers,10867,,,-33993,-144130.55
+2200300003,ENTERTAINMENT,0,0,468830,0,,
+,17/02/2021,lunch for interviewers,10170,,,-6300,-6300
+,17/03/2021,lunch for disciplinary team,10232,,,-5400,-11700
+,21/04/2021,accommodation,10340,,,-45400,-57100
+,21/05/2021,allowances special full council attendan,10374,,,-13440,-70540
+,18/06/2021,accommodation for staff,10258,,,-50000,-120540
+,8/7/2021,accommodation for investigation team,9638,,,-251777,-372317
+,16/08/2021,local authority facilitators allowances,10467,,,-4113,-376430
+,20/08/2021,lunch for devolution projects comm staff,10478,,,-50000,-426430
+,7/9/2021,devolution project commissioning,12057,,,-42400,-468830
+2200300004,GIFTS AND DONATIONS,0,0,4017.4,0,,
+2200600002,"COMPUTER CONSUMABLES, ACCESSORIES & SUPPLIES",0,0,540364,0,,
+,7/1/2021,supply of toiletries,10056,,,-26840,-26840
+,4/2/2021,Hydro peroxide for fumigation,10076,,,-7200,-34040
+,17/02/2021,supply of farm bricks,10169,,,-76000,-110040
+,9/3/2021,medical materials for Bepeta RHC,10220,,,-229720,-339760
+,9/3/2021,medical materials for Bepeta RHC,10220,,,-25932,-365692
+,9/3/2021,medical materials for Bepeta RHC,10220,,,-17400,-383092
+,17/03/2021,supply of quarry stones,10230,,,-18000,-401092
+,22/03/2021,Bill boards & vehicle stickers,10240,,,-46540,-447632
+,25/03/2021,supply of airvents,10302,,,-660,-448292
+,12/5/2021,plumbing material for Save the Children,10368,,,-31752,-480044
+,6/7/2021,"floor polish,brooms,mops for BepetaRHC",10280,,,-22880,-502924
+,8/7/2021,floor polish &sanitizers for office use,10286,,,-25840,-528764
+,15/07/2021,black plastic for council use,10291,,,-11600,-540364
+2200600004,STATIONERY SUPPLIES,0,0,178712,0,,
+,11/3/2021,Envelopes,10219,,,-200,-200
+,4/5/2021,being payment of stationery,bs04/05,,,-28800,-29000
+,5/8/2021,Bond Paper,10456,,,-1700,-30700
+,5/8/2021,Rubber bands,10456,,,-200,-30900
+,27/10/2021,stationery,10621,,,-147812,-178712
+2200700006,CONFERENCES,0,0,414606,0,,
+,4/3/2021,conference fees(perfo.evaluation worksho,10201,,,-112606,-112606
+,11/5/2021,ARDCZ annual conference Bulawayo,10363,,,-22000,-134606
+,7/10/2021,conference fees,10559,,,-60000,-194606
+,23/11/2021,Fees for treasurers&auditors' conference,10643,,,-220000,-414606
+2200800002,TRAINING - TRAVEL EXPENSES,0,0,1185318.79,0,,
+,6/1/2021,allowances to Marondera,10052,,,-9594,-9594
+,7/1/2021,allowances,10055,,,-7350,-16944
+,4/2/2021,allowances,10088,,,-8325,-25269
+,2/2/2021,allowances,10084,,,-12239,-37508
+,15/02/2021,interviewers allowances,10154,,,-62320,-99828
+,15/02/2021,allowances,10162,,,-2460,-102288
+,19/02/2021,interviewers allowances,10177,,,-25125,-127413
+,15/02/2021,trip to Marondera,10160,,,-8500,-135913
+,17/02/2021,allowances,10166,,,-820,-136733
+,23/02/2021,perfomance evaluation workshop,10185,,,-110550,-247283
+,8/2/2021,allowances,10096,,,-15929.5,-263212.5
+,23/02/2021,perfomance evaluation workshop allowance,10086,,,-20100,-283312.5
+,24/02/2021,allowances,10192,,,-42225,-325537.5
+,24/02/2021,allowances,10188,,,-32574.5,-358112
+,24/02/2021,allowances,10190,,,-20773.4,-378885.4
+,24/02/2021,allowances,10189,,,-40575,-419460.4
+,24/02/2021,allowances,10191,,,-12470,-431930.4
+,24/02/2021,auction fees,10193,,,-7350,-439280.4
+,5/3/2021,state visit,10211,,,-34122.38,-473402.78
+,12/3/2021,NJCA board meeting attendance,10222,,,-11925,-485327.78
+,17/03/2021,allowances,10231,,,-6247,-491574.78
+,18/03/2021,audit forum UMP,10235,,,-13264.05,-504838.83
+,18/03/2021,allowances,10078,,,-4908,-509746.83
+,19/03/2021,allowances,10010,,,-2516.4,-512263.23
+,25/03/2021,allowances,10246,,,-4613.4,-516876.63
+,25/03/2021,treasurers workshop Chikomba RDC,10247,,,-14970,-531846.63
+,25/03/2021,allowances,10248,,,-13840.2,-545686.83
+,25/03/2021,collection of health staff paysheet Maro,10245,,,-11097.71,-556784.54
+,6/4/2021,allowances,10313,,,-27678,-584462.54
+,8/4/2021,allowances,10320,,,-18840,-603302.54
+,8/4/2021,allowances,10319,,,-22840,-626142.54
+,14/04/2021,allowances,10321,,,-15515.1,-641657.64
+,14/04/2021,allowances,10322,,,-9240,-650897.64
+,14/04/2021,allowances,10324,,,-4646.4,-655544.04
+,15/04/2021,allowances,10330,,,-12552,-668096.04
+,16/04/2021,allowances,10336,,,-9284,-677380.04
+,16/04/2021,allowances,10338,,,-13860,-691240.04
+,27/04/2021,allowances for investigation committee,10345,,,-68141.57,-759381.61
+,27/04/2021,allowances to Mutare for devolution work,10346,,,-16051.21,-775432.82
+,21/05/2021,allowances,10371,,,-5180,-780612.82
+,27/05/2021,allowances to Marondera,10389,,,-15634,-796246.82
+,28/05/2021,Allowances audit workshop Bulawayo,10378,,,-57620.42,-853867.24
+,1/6/2021,WILGF meeting in Chikomba,10391,,,-23276,-877143.24
+,22/06/2021,trip to Bulawayo 12-14/05/2021,10268,,,-928,-878071.24
+,28/06/2021,trip to Marondera,10274,,,-4648.6,-882719.84
+,6/7/2021,attending shortlisting of EO finance,10281,,,-28614.3,-911334.14
+,22/07/2021,trips to marondera & Harare,10359,,,-13004.6,-924338.74
+,23/07/2021,allowances,10296,,,-7138.3,-931477.04
+,29/07/2021,allowances investigation team,10297,,,-5878,-937355.04
+,2/8/2021,allowances,10452,,,-3424,-940779.04
+,4/8/2021,attending accounting systems training,10460,,,-26051.69,-966830.73
+,11/8/2021,banking trips to Harare,10462,,,-14001.4,-980832.13
+,16/08/2021,allowances (commiss of devolution projec,10470,,,-18840.8,-999672.93
+,16/08/2021,Payroll & Admin courses,10469,,,-37035.2,-1036708.13
+,18/08/2021,trip to CBZ bank Murewa(POS machine ),10475,,,-4710,-1041418.13
+,18/08/2021,trip to CBZ bank Murewa(POS machine ),10475,,,-4710,-1046128.13
+,3/8/2021,meeting in Marondera PDC's office,10292,,,-10687.5,-1056815.63
+,20/08/2021,collection of audited financial statemen,10479,,,-4730,-1061545.63
+,25/08/2021,Simac training Harare,10511,,,-32325,-1093870.63
+,8/9/2021,shortlisting of HRA candidates,10523,,,-19155.86,-1113026.49
+,13/09/2021,visit to Save the children offices,10489,,,-27104.65,-1140131.14
+,13/09/2021,attending NJCA meeting In Harare,10490,,,-18024,-1158155.14
+,13/09/2021,visiting MGI office to return audit docu,10491,,,-6473.25,-1164628.39
+,15/09/2021,provincial indaba meeting in Marondera,10494,,,-20690.4,-1185318.79
+2200800003,TRAINING - TUITION AND EXAM FEES,0,0,108538,0,,
+,4/8/2021,SIMACC training for 3 council staff,10459,,,-70038,-70038
+2200900001,"DOMESTIC ALLOWANCES FOR ACCOMODATION, MEALS ETC",0,0,193385.3,0,,
+,28/05/2021,being payment staff T&S,bs28/05,,,-39821.3,-39821.3
+,31/05/2021,being payment of staff T&S,bs31/05,,,36680,-3141.3
+,31/05/2021,being reversal of wrong post,bs31/05,,,-36680,-39821.3
+,31/05/2021,being payment of staff T&S,bs31/05,,,-36680,-76501.3
+,15/07/2021,being accomodation paid,bs15/07,,,-35650,-112151.3
+,24/06/2021,Councillors' refreshments,10270,,,-2000,-114151.3
+,2/7/2021,being VIP entertainment paid,10277,,,-35650,-149801.3
+,7/7/2021,being reversal VIP entertainment,bs07/07,,,35118,-114683.3
+,11/10/2021,attending HR summer school-Hwange,10605,,,-57200,-171883.3
+,14/10/2021,being staff T&S paid,bs14/10,,,-21502,-193385.3
+2200900002,DOMESTIC TRAVEL FARES,0,0,24500,0,,
+,4/1/2021,Being payment of Travelling &Subsistence,V9997,,,-24500,-24500
+2200900006,DOMESTIC ALLOWANCES -OTHERS,3170.4,0,571357.79,0,,
+,17/02/2021,being reversal staffT&S,BS17/02,,,9840,9840
+,19/02/2021,being reversal staffT&S,BS19/02,,,2460,12300
+,11/2/2021,being bank reversal of staff T&S,BS11/02,,,12239,24539
+,29/04/2021,being payment of councilors allowance,10347,,,-294280,-269741
+,13/05/2021,being payment councilors T&S,bs13/05,,,2520,-267221
+,13/05/2021,being councilors t&s,bs13/05,,,-2520,-269741
+,24/05/2021,being concilors T&S paid,bs05/05,,,-5040,-274781
+,22/06/2021,being councilors allowance paid,bs22/06,,,-120806.01,-395587.01
+,22/06/2021,being councilors allowance paid,bs22/06,,,120806.01,-274781
+,22/06/2021,being councilors allowances paid,10267,,,-118713.39,-393494.39
+,3/6/2021,being councilors T&S paid,10394,,,-5040,-398534.39
+,12/7/2021,being staff T&S paid,10288,,,-18429.4,-416963.79
+,15/10/2021,councillors'sitting allowances(ZACC),10614,,,-20586,-437549.79
+,21/10/2021,trip to Murewa to attend court case,10616,,,-5584.8,-443134.59
+,10/11/2021,attending official opening Causeway dam,10634,,,-4653.55,-447788.14
+,10/11/2021,attending official opening Causeway dam,10634,,,-4653.55,-452441.69
+,10/11/2021,attending court cases Harare/Murewa,10633,,,-11808,-464249.69
+,18/11/2021,attending NJCZ board meeting in Norton,10637,,,-21653,-485902.69
+,23/11/2021,councillors' sitting allowance,10645,,,-37405.5,-523308.19
+,24/11/2021,refreshments for councillors,10646,,,-14879.2,-538187.39
+,16/11/2021,being councilors allowance paid,bs16/11,,,-30000,-568187.39
+,7/12/2021,staff t&s (driver),10854,,,-3170.4,-571357.79
+2201100002,ELECTRICITY,0,0,10000,0,,
+,27/10/2021,electricity for Chikondoma RHC,10619,,,-10000,-10000
+2201100005,WATER,0,0,19600,0,,
+,5/11/2021,fix & supply of water connection SOS she,10629,,,-19600,-19600
+2201100008,HIRE OF SERVICES,0,0,193680,0,,
+2201200001,STOCK FEED,0,0,77800,0,,
+,27/10/2021,purchase of feeds for IGP-Piggerry,10620,,,-77800,-77800
+2201400001,AUDIT FEES,0,0,1032239,0,,
+,15/02/2021,allowances,10161,,,-12239,-12239
+,10/5/2021,auditing of 2020 council accounts,10364,,,-250000,-262239
+,28/05/2021,Council accounts auditing 2020,10382,,,-250000,-512239
+,21/06/2021,auditing of council accounts,10261,,,-250000,-762239
+,2/8/2021,auditing of council accounts,10453,,,-270000,-1032239
+2201400003,BANK TRANSACTION FEES,143562.5,0,776706.57,0,,
+,31/01/2021,Service Charges,sg,,,-250,-250
+,31/01/2021,Mantainance Fee,sg,,,-140.15,-390.15
+,31/01/2021,Service Charges,sg,,,-250,-640.15
+,31/01/2021,being bank charges,BS01/21,,,-38267.13,-38907.28
+,31/01/2021,being bank charges,BS01/21,,,-2000,-40907.28
+,5/2/2021,Service Charge Reversal,sfrev,,,253.05,-40654.23
+,8/2/2021,Goverment Tax,gt,,,-1380.89,-42035.12
+,28/02/2021,Inter account fee,iatfee,,,-2630.47,-44665.59
+,28/02/2021,Government Tax,tax,,,-18373.29,-63038.88
+,28/02/2021,rtgs fee,rtgf,,,-463,-63501.88
+,28/02/2021,service fee,sfee,,,-50,-63551.88
+,28/02/2021,Maintanance Fee,mf,,,-2859.85,-66411.73
+,9/2/2021,Bill,24157524,,,-1167.25,-67578.98
+,28/02/2021,transfereb charges,iatfee,,,-0.46,-67579.44
+,28/02/2021,tax adjustment,gvt,,,7200,-60379.44
+,27/02/2021,being bank charges,BS27/02,,,-101395.2,-161774.64
+,27/02/2021,being bank charges,BS27/02,,,-5004.93,-166779.57
+,31/03/2021,inter account transfer fees,iatfee,,,-4706.2,-171485.77
+,31/03/2021,Government Tax,gtax,,,-18705.09,-190190.86
+,31/03/2021,Bill,bill,,,-1511.4,-191702.26
+,31/03/2021,Other charges,opfee,,,-772.24,-192474.5
+,31/03/2021,service charges,scfee,,,-100,-192574.5
+,31/03/2021,Maintanance fee,mfee,,,-1500,-194074.5
+,31/03/2021,being bank charges paid,bs31/03,,,-68593.46,-262667.96
+,31/03/2021,being reversal of bank charges overpaid,bs310321,,,322.04,-262345.92
+,30/04/2021,Government Tax,gtax,,,-4766,-267111.92
+,30/04/2021,Bill,bill24777563,,,-1012.8,-268124.72
+,30/04/2021,maintanance fee,mfee,,,-2000,-270124.72
+,30/04/2021,service fee,sfee,,,-100,-270224.72
+,30/04/2021,being bank charges paid,bs30/04,,,48605.54,-221619.18
+,30/04/2021,correction of bank charge wrongly posted,bs30/04,,,-97211.08,-318830.26
+,30/04/2021,correction of bank charges,bs30/04,,,5150,-313680.26
+,31/05/2021,being bank charges paid,bs310521,,,-52550.05,-366230.31
+,31/05/2021,being bank charges paid,bs31/05,,,-72.27,-366302.58
+,30/06/2021,being bank charges paid,bs30/06,,,-28950.94,-395253.52
+,30/06/2021,being bank charges paid,bs30/06,,,-15542.79,-410796.31
+,30/06/2021,being bank charges omitted,bs30/21,,,-3152.04,-413948.35
+,30/06/2021,being bank charges understated,bs30/21,,,-244.5,-414192.85
+,30/06/2021,being bank charges paid,bs30/06,,,-7661.65,-421854.5
+,31/07/2021,being bank charges paid3,bs31/07,,,-43452.77,-465307.27
+,14/07/2021,being reversal on bank charges fees,bs14/07,,,500,-464807.27
+,31/07/2021,being bank charges paid,31-Jul,,,-8200,-473007.27
+,31/08/2021,being bank charges paid,bs310821,,,-50859.84,-523867.11
+,31/08/2021,being bank charges paid,bs31/08,,,-1357.5,-525224.61
+,30/09/2021,being bank charges paid,bs30/09,,,-27524.68,-552749.29
+,30/09/2021,being correction of bank charges oversta,bs30/21,,,0.67,-552748.62
+,30/10/2021,being bank charges paid,bs30/10,,,-51176.57,-603925.19
+,31/10/2021,being bank charges paid,bs31/10,,,-428.86,-604354.05
+,30/11/2021,being bank charges paid,bs30/11,,,-28683,-633037.05
+,30/11/2021,being bank charges paid,bs30/11,,,-107.02,-633144.07
+,30/12/2021,being bank charges paid,bs30/12,,,-143562.5,-776706.57
+,31/12/2021,being bank charges overstated,bs31/12,,,2964.02,-773742.55
+2201400006,CONSULTANCY FEES/EXTRANOEUS PROFESSIONAL SERVICES,329784,0,460584,0,,
+,8/1/2021,technical support on budget reporting,10062,,,-130800,-130800
+,7/12/2021,Legal advice on outstanding issues,10853,,,-20100,-150900
+,7/12/2021,Legal advice on outstanding issues,10853,,,-20100,-171000
+,7/12/2021,Legal advice on outstanding issues,10853,,,-20100,-191100
+,24/12/2021,allowances town board investigation team,10872,,,-67371,-258471
+,24/12/2021,allowances town board investigation team,10872,,,-67371,-325842
+,24/12/2021,allowances town board investigation team,10872,,,-67371,-393213
+,24/12/2021,allowances town board investigation team,10872,,,-67371,-460584
+2201400009,LEGAL FEES,0,0,902650,0,,
+,11/1/2021,case no.HC2235/20,10066,,,-85100,-85100
+,9/1/2021,Kadiki Chibanda vs M Jena,10063,,,-63000,-148100
+,3/2/2021,Mutoko RDC Labour issues,10086,,,-35000,-183100
+,8/2/2021,Chibanda vs Mutoko RDC,10095,,,-65000,-248100
+,8/2/2021,"disciplinary matters(Makore,Sigauke,Mukw",10097,,,-146500,-394600
+,2/2/2021,fuel to attend court session,10083,,,-12800,-407400
+,5/3/2021,G Chengo vs Mutoko RDC case,10207,,,-45000,-452400
+,19/03/2021,T Ganyiwa vs Mutoko RDC,10237,,,-75000,-527400
+,22/03/2021,Disciplinary hearing for R Makore,10239,,,-60500,-587900
+,26/04/2021,disciplinary hearing for Mr Makore,10019,,,-104750,-692650
+,25/06/2021,Kadiki vs Cllr Jena&Mutoko RDC,10255,,,-50000,-742650
+,20/08/2021,P sigauke & R Makore cases,10477,,,-60000,-802650
+,7/9/2021,legal service,12059,,,-70000,-872650
+,19/11/2021,Mutoko RDC vs P Sigauke case,10638,,,-30000,-902650
+2201500003,PROTECTIVE CLOTHING,0,0,42138.73,0,,
+,4/8/2021,protective clothing for road maint.staff,10458,,,-39963.73,-39963.73
+,4/8/2021,protective clothing for road maint.staff,10458,,,-2175,-42138.73
+2201800004,OFFICE EQUIPMENT,0,0,247070,0,,
+,5/1/2021,purchase of water tank,10051,,,-238570,-238570
+,8/1/2021,payment for water tank balance,10060,,,-259013,-497583
+,11/1/2021,office electrical&generator repairs,10068,,,-5500,-503083
+,18/02/2021,computer repairs,10176,,,-3000,-506083
+2201900002,MAINTENANCE OF VEHICLES,0,0,985094.15,0,,
+,8/2/2021,servicing of Toyota Landcruiser TCE 202,10087,,,-69940,-69940
+,19/02/2021,grader repairs,10180,,,-48000,-117940
+,17/02/2021,purchase of vehicle brake pads,10173,,,-41800,-159740
+,17/02/2021,purchase of vehicle tyre,10171,,,-91555.37,-251295.37
+,25/02/2021,purchase of vehicle service kit,10195,,,-14040,-265335.37
+,8/2/2021,purchase of vehicle tyre,10074,,,-17825,-283160.37
+,9/3/2021,Isuzu AAE9013 seat upholstering,10218,,,-7200,-290360.37
+,5/3/2021,fix &supply of Isuzu AAE9013 brakes,10210,,,-58500,-348860.37
+,15/04/2021,purchase of hydraulic&engine oil,10328,,,-161230,-510090.37
+,12/5/2021,ambulance maitenance,10367,,,-5400,-515490.37
+,21/05/2021,vehicle maintenance Isuzu AAE9013,10375,,,-42913.78,-558404.15
+,21/05/2021,vehicle battery,10377,,,-33850,-592254.15
+,4/5/2021,vehicle tyre mending,10351,,,-10140,-602394.15
+,7/7/2021,purchase of drill rig truck,10283,,,-360000,-962394.15
+,30/07/2021,Repair of tyres,10299,,,-200,-962594.15
+,18/08/2021,Landcruiser pump service,10473,,,-22500,-985094.15
+2202000002,REPAIRS OF PLANT AND FIXED EQUIPMENT,0,0,484000,0,,
+,1/3/2021,Repair of radiator for Motorised Grader,10198,,,-2000,-2000
+,1/3/2021,Repairs of radiator for Motorised Grader,10113,,,-2000,-4000
+,18/08/2021,purchase of Drill rig bit &Hammer,10471,,,-480000,-484000
+2202100002,"MOPS, BROOMS AND BRUSHES",0,0,15092,0,,
+,5/11/2021,purchase of a horsepipe,10630,,,-15092,-15092
+2202200002,DIESEL,0,0,5900,0,,
+,30/07/2021,Fuel for revenue collection,10299,,,-1800,-1800
+,29/07/2021,Fuel for road maintenance,10287,,,-2000,-3800
+,11/8/2021,Fuel,12014,,,-2000,-5800
+,27/07/2021,Fuel for Land Cruiser,12007,,,-100,-5900
+2202200003,PETROL,0,0,791862.51,0,,
+,5/1/2021,bulk fuel purchase for council use,9886,,,-720,-720
+,2/2/2021,bulk fuel purchase for council use,10077,,,-81632,-82352
+,17/02/2021,bulk fuel purchase for council use,10168,,,-265000,-347352
+,1/3/2021,fuel to Harare on legal business,10197,,,-6400,-353752
+,10/3/2021,assistance to Mrs Mushango,10221,,,-9100,-362852
+,12/3/2021,fuel to deliver devolution report(PDC),10226,,,-7750.51,-370602.51
+,16/03/2021,fuel to attend court session,10228,,,-7000,-377602.51
+,23/03/2021,bulk fuel purchase for council use,10244,,,-23400,-401002.51
+,14/04/2021,fuel for DDC&PDC full council attendance,10325,,,-18620,-419622.51
+,15/04/2021,fuel for council use,10331,,,-3510,-423132.51
+,15/04/2021,bulk fuel purchase for council use,10329,,,-59500,-482632.51
+,16/04/2021,fuel reinbursement,10337,,,-5950,-488582.51
+,5/5/2021,bulk fuel purchase for council use,10349,,,-119000,-607582.51
+,27/05/2021,bulk fuel purchase for council use,10386,,,-120000,-727582.51
+,16/08/2021,bulk fuel purchase for council use,10468,,,-65000,-792582.51
+2631100004,OTHER EXPENSES,0,0,1135194.72,0,,
+,7/1/2021,repairs of water system,10058,,,-18000,-18000
+,7/1/2021,reinbursement of funds(T Mushango funera,10053,,,-6060,-24060
+,8/1/2021,advertisement,10061,,,-27433,-51493
+,11/1/2021,airtime,10067,,,-6000,-57493
+,15/02/2021,water bill payment,10159,,,-95466.43,-152959.43
+,17/02/2021,advert for commercial land,10167,,,-33800,-186759.43
+,8/2/2021,purchase of pig feed for IGP-Piggery,10152,,,-8000,-194759.43
+,17/02/2021,septic tank maitenance,10175,,,-8000,-202759.43
+,19/02/2021,Road repairs & maintenance O.Newton road,10181,,,-140000,-342759.43
+,3/3/2021,refreshments,10200,,,-17997,-360756.43
+,3/3/2021,refreshments,10200,,,-9083.36,-369839.79
+,4/3/2021,pig feed for IGP-Piggery,10203,,,-14950,-384789.79
+,5/3/2021,refreshments,10209,,,-25350,-410139.79
+,5/3/2021,transpot hire for road maintenance,10208,,,-67200,-477339.79
+,8/3/2021,management staff airtime,10214,,,-60000,-537339.79
+,8/3/2021,tender advert for drilling rig,10213,,,-17810,-555149.79
+,9/3/2021,tender advert for drilling rig,10217,,,-41200,-596349.79
+,22/03/2021,transpotation of cement to Kowo RHC,10242,,,-4500,-600849.79
+,25/03/2021,supply of maize brans for IGP-Piggery,10243,,,-8000,-608849.79
+,15/03/2021,being reversal of payment,bs15/03,,,7149.18,-601700.61
+,15/03/2021,being correction of wrong posting,bs15/03,,,-7149.18,-608849.79
+,4/3/2021,being refund on shop licence,10202,,,-14900,-623749.79
+,1/4/2021,water connection,10307,,,-4220,-627969.79
+,8/4/2021,management airtime,10318,,,-12000,-639969.79
+,15/04/2021,pig concentrate for IGP-Piggery,10333,,,-14950,-654919.79
+,15/04/2021,maize brans for IGP-Piggery,10332,,,-8000,-662919.79
+,26/04/2021,CEO's residence maitenance,10146,,,-10460,-673379.79
+,26/04/2021,Purchase of 3-lever lockset,10342,,,-1800,-675179.79
+,28/04/2021,Purchase of wood glue,10342,,,-200,-675379.79
+,7/5/2021,Management airtime allowances,10360,,,-14000,-689379.79
+,28/05/2021,water purchase,10379,,,-64211.79,-753591.58
+,2/6/2021,purchase of window panes & handles,10250,,,-1200,-754791.58
+,2/6/2021,vacancy advertisement,10393,,,-48000,-802791.58
+,15/06/2021,purchase of pig feeds,10253,,,-25990,-828781.58
+,22/06/2021,water bill payment,10263,,,-3003.09,-831784.67
+,11/6/2021,Toiletries and Floor Polish,10395,,,-880,-832664.67
+,2/8/2021,advertising of HRA post,10454,,,-19000,-851664.67
+,3/8/2021,purchase of pig feeds for IGP-Piggerry,10455,,,-16000,-867664.67
+,3/8/2021,purchase of pig feeds for IGP-Piggerry,10455,,,-36450,-904114.67
+,11/8/2021,electricity bills payment,10463,,,-27827.29,-931941.96
+,12/8/2021,water bill payment,10466,,,-129192.76,-1061134.72
+,18/08/2021,management airtime,10472,,,-14000,-1075134.72
+,14/09/2021,President's congratulatory message,10492,,,-57000,-1132134.72
+,13/10/2021,Bin liners for clean up campaign,10609,,,-3060,-1135194.72
+3112500002,CASUAL LABOURERS,0,0,0,-5384.59,,
+,19/03/2021,being payment of salaries,10204,,,-7149.18,-7149.18
+,20/04/2021,being reversal of salaries&wages,bs20/04,,,12533.77,5384.59
+3112500003,BUILDING MATERIALS,0,0,2000,0,,
+,28/04/2021,Purchase of Building Materials,10308,,,-2000,-2000
+3122210001,MATERIALS AND SUPPLIES,0,0,164839,0,,
+,18/02/2021,being purchase of building maerials,10179,,,-164839,-164839
+,18/02/2021,being correction of wrong period,10179,,,164839,0
+,5/3/2021,being purchase of materials,10179,,,-164839,-164839
+3122400012,FUEL-DIESEL AND PETROL-BUILDINGS,0,0,0,-23400,,
+,23/03/2021,correction of payment wrongly captured,10244,,,23400,23400
+3122400017,VEHICLE AND MOBILE EQUIPMENT MAINTANANCE-BUILDINGS,0,0,69659.99,0,,
+,3/11/2021,batteries for motor vehicle & grader,10628,,,-69659.99,-69659.99
+6111200004,BUILDINGS,0,0,279999572,0,,
+6112100005,TRACTORS AND EARTHMOVING EQUIPMENT,0,0,867902,0,,
+6112210001,"INFORMATION, COMPUTER & TELECOMMUNICATION (ICT) EQUIPMENT",0,0,541929,0,,
+6112220019,OFFICE EQUIPMENT,0,0,1027717,0,,
+6122100001,MATERIALS AND SUPPLIES,0,0,0,-1060,,
+6212100002,HR CASHBOOK ACCOUNT,0,-313354.92,0,-14989957.84,,
+6218100006,LEASE DEBTORS,0,0,0,-2044665,,
+,7/1/2021,being deposit for lease fees(nyangani),BS01/21,,,2044665,2044665
+6318200001,PURCHASE CREDITORS,0,-231790.52,0,-40000,,
+6318200002,SALARIES CONTROL ACCOUNT,10487588.45,0,39397256.07,-2759939,,
+,18/02/2021,being repayment of loan,BS18/21,,,-147975.88,-147975.88
+,4/2/2021,being salaries paid,B/S04/02,,,-361891.14,-509867.02
+,8/2/2021,being salaries paid,BS08/21,,,-698416.63,-1208283.65
+,4/2/2021,being reversal of salaries,BS04/21,,,361891.14,-846392.51
+,19/02/2021,being bank reversal of salaries,Bs19/02,,,28271.41,-818121.1
+,8/10/2021,Acting CEO'sSept 2021 salary,10604,,,-108076.15,-926197.25
+,8/10/2021,Sept 2021 salaries for all council staff,10603,,,-2423722.96,-3349920.21
+,27/10/2021,Oct 2021 salaries all staff,10622,,,-2331080.71,-5681000.92
+,27/10/2021,Oct 2021 salary for acting CEO,10623,,,-106930.78,-5787931.7
+,27/10/2021,Sept 2021 outstanding salary,10624,,,-22466.34,-5810398.04
+,28/10/2021,Employees food hamper,10626,,,-416830.09,-6227228.13
+,15/10/2021,NEC subscriptions,10612,,,-30000,-6257228.13
+,19/10/2021,ZIMRA-PAYE,10611,,,-250000,-6507228.13
+,19/11/2021,Food hamper for council employees Sept,10641,,,-106679.17,-6613907.3
+,19/11/2021,Food hamper for council employees Sept,10640,,,-241597.29,-6855504.59
+,19/11/2021,Food hamper for council employees Sept,10639,,,-85676.2,-6941180.79
+,25/11/2021,November 2021 salaries council employees,10647,,,-2368567.73,-9309748.52
+,25/11/2021,November 2021 salary for Acting CEO,10648,,,-106930.78,-9416679.3
+,25/11/2021,November 2021 salary for E.O finance,10649,,,-52513.83,-9469193.13
+,16/12/2021,Being 2021 bonus,10857,,,-8774.5,-9477967.63
+,16/12/2021,Being 2021 bonus,10856,,,-60347.17,-9538314.8
+,16/12/2021,Being 2021 bonuses for council staff,10858,,,-2759561.07,-12297875.87
+,22/12/2021,Dec 2021 Salary,10862,,,-106930.78,-12404806.65
+,22/12/2021,Dec 2021 Salary,10863,,,-87083.56,-12491890.21
+,21/12/2021,Dec 2021 Salaries for council staff,10864,,,-2363679.59,-14855569.8
+,21/12/2021,Oct- Nov 2021 food hamper(council staff),10870,,,-313598.12,-15169167.92
+,21/12/2021,Oct- Nov 2021 food hamper(council staff),10870,,,-416938.4,-15586106.32
+,21/12/2021,Oct- Nov 2021 food hamper(council staff),10870,,,-217210.58,-15803316.9
+,24/12/2021,Zimra - PAYE,10873,,,-180000,-15983316.9
+,24/12/2021,Subscriptions to ZRDCWU,10690,,,-100000,-16083316.9
+6325100001,SURPLUS/DEFICIT,0,0,5002351,0,,
+6325100002,RESERVES,0,0,0,-282416579,,
+6325100005,LEAVE PROVISIONS,0,0,0,-584303,,
+SEGMENT TOTALS,,13867429.55,-4186874.33,372884166.8,-325508951.4,,
+FINANCE,,,,,,,
+1131000001,TAX ON IMMOVABLE PROPERTY,0,0,0,-73819.3,,
+,6/3/2021,rates,bs06/03,,,15340,15340
+,16/03/2021,unit tax on stand,bs16/03,,,4479.3,19819.3
+1145210004,GENERAL DEALERS LICENCE,0,0,0,-113091431,,
+,25/03/2021,deposit of trading license,bs25/03,,,48850,48850
+1145210006,OTHER TRADING LICENCES,0,-736460,0,-44823450.06,,
+,12/2/2021,being trading licence renewal,BS12/02,,,147700,147700
+,1/4/2021,being deposit of operatinmg license,bs01/04,,,42150,189850
+,6/4/2021,being deposit of operatinmg license,bs06/04,,,15560,205410
+,6/4/2021,being license paid,bs06/04,,,46297,251707
+,7/4/2021,being hardware license,bs07/04,,,14050,265757
+,7/4/2021,being deposit received,bs07/04,,,22680,288437
+,21/04/2021,being license deposited,bs15/04,,,15740,304177
+,30/04/2021,being payment of license,bs30/04,,,64666,368843
+,13/05/2021,being license paid,bs13/05,,,40000,408843
+,14/06/2021,being receipt of licence,bs14/06,,,31300,440143
+,15/06/2021,being lince receipted,bs15/06,,,20872,461015
+,16/06/2021,being licenses receipted,bs16/06,,,10375,471390
+,15/06/2021,being reversal of licence,bs15/06,,,-20872,450518
+,15/07/2021,being licence fees deposited,bs15/07,,,24425,474943
+,5/7/2021,being licence fees received,bs05/07,,,14050,488993
+,27/08/2021,being licence received,bs27/08,,,26850,515843
+,1/9/2021,being licence fees received,bs01/09,,,58877.66,574720.66
+,1/9/2021,being licence fees received,bs01/09,,,180000,754720.66
+,23/09/2021,being licence fees,bs23/09,,,49050,803770.66
+,15/09/2021,being licence fees,bs15/09,,,20000,823770.66
+,9/9/2021,being licence fees,bs09/09,,,20750,844520.66
+,8/9/2021,being licence fees,bs08/09,,,28395,872915.66
+,24/09/2021,being licence fees,bs29/09,,,180000,1052915.66
+,7/10/2021,being licence fees received,bs07/09,,,55680.01,1108595.67
+,13/10/2021,being licence fees received,bs13/10,,,179075,1287670.67
+,13/10/2021,being being licence fees received,bs13/10,,,73475,1361145.67
+,24/11/2021,being licenes fees received,bs24/11,,,9367,1370512.67
+,26/11/2021,being licenes fees received,bs26/11,,,13597.39,1384110.06
+,16/12/2021,being correction of wrong capture,..73474751,,,-90,1384020.06
+,31/12/2021,being licence fees received,bs31/12,,,1106050,2490070.06
+,31/12/2021,being licence fees paid,bs31/12,,,155500,2645570.06
+,31/12/2021,being licences overstated,bs31/12,,,-525000,2120570.06
+1145210007,RENTALS,0,-500000,0,-881000,,
+,5/5/2021,being office rentals received,bs05/05,,,25000,25000
+,16/06/2021,being council office rentals received,bs16/06,,,30000,55000
+,16/06/2021,being council office rentals received,bs16/06,,,30000,85000
+,28/07/2021,being rent arreas received,bs28/07,,,236000,321000
+,6/11/2021,being rentals received,bs06/11,,,60000,381000
+,23/12/2021,being rental fees received,bs23/21,,,500000,881000
+1145210008,UNCATEGORISED INCOME,0,-3323312.14,0,-10416178.48,,
+,31/01/2021,being income received but not categorise,bs31/01,,,1581110.89,1581110.89
+,31/05/2021,being income received but not categorise,bs31/05,,,86267,1667377.89
+,30/06/2021,being income received but not categorise,bs30/06,,,540802,2208179.89
+,30/06/2021,being correction on uncategorised income,bs30/06,,,-65017,2143162.89
+,30/06/2021,being income received but not categorise,bs30/06,,,1401.76,2144564.65
+,30/06/2021,being reversal of uncategorised income,bs30/06,,,-564950,1579614.65
+,30/06/2021,being income received but not categorise,bs30/06,,,564950,2144564.65
+,31/07/2021,being uncategorised income,bs31/07,,,564950,2709514.65
+,31/07/2021,being income received but not categorise,bs31/07,,,749.57,2710264.22
+,31/08/2021,being income deposited,bs08/21,,,472962,3183226.22
+,12/8/2021,being pos income not captured,bs12/08,,,5.01,3183231.23
+,31/08/2021,being reversal of wrong entry,bs31/08,,,-472962,2710269.23
+,31/08/2021,being uncategorised income deposited,bs08/21,,,352002,3062271.23
+,31/08/2021,being reversal of wrong capture,bs08/21,,,-352002,2710269.23
+,31/08/2021,being income deposited and not categoris,bs08/21,,,291182,3001451.23
+,19/08/2021,being income received and not categorise,bs08/21,,,20900,3022351.23
+,18/08/2021,being income received but not categorise,bs18/08,,,16500,3038851.23
+,31/08/2021,being income received but nor categorise,bs08/21,,,17005.01,3055856.24
+,31/08/2021,being income received but nor categorise,bs31/08,,,5700,3061556.24
+,31/08/2021,being income received but not categorise,bs31/08,,,693724.01,3755280.25
+,31/08/2021,being income received but not categorise,bs31/08,,,14342.81,3769623.06
+,30/09/2021,being income received and not categorise,bs30/09,,,74850,3844473.06
+,30/09/2021,being uncategorised income,bs30/09,,,1,3844474.06
+,30/09/2021,being error correction on uncategorised,bs30/09,,,-2,3844472.06
+,30/09/2021,being uncategorised income,bs30/09,,,80040,3924512.06
+,15/09/2021,being uncategorised income,bs15/09,,,5400,3929912.06
+,30/09/2021,being income received but not categorise,bs30/09,,,550778,4480690.06
+,30/09/2021,being income received but not categorise,bs30/09,,,44370,4525060.06
+,30/09/2021,being income received but not categorise,bs30/09,,,32705.87,4557765.93
+,30/09/2021,being income received but not categorise,bs30/09,,,457877,5015642.93
+,8/9/2021,being uncategorised income received,bs08/09,,,30250,5045892.93
+,17/09/2021,being reversal of uncategorised income,17-Sep,,,-57850,4988042.93
+,30/09/2021,being reversa of uncategorised income,bs30/09,,,-87716,4900326.93
+,30/09/2021,being income received but not categorise,bs30/09,,,41172.58,4941499.51
+,31/10/2021,being uncategorised income,bs31/10,,,92130,5033629.51
+,30/10/2021,being income received but no categorised,bs30/10,,,594262.8,5627892.31
+,30/10/2021,being income received but not categorise,bs30/21,,,26599,5654491.31
+,31/10/2021,being income received but not categorise,bs31/21,,,327525,5982016.31
+,12/10/2021,being income received but not categorise,bs12/10,,,8125,5990141.31
+,28/10/2021,being income received but not categorise,bs28/10,,,1650,5991791.31
+,30/11/2021,being income received but not categorise,bs30/11,,,191762,6183553.31
+,30/11/2021,being uncategorised income,bs30/11,,,580.89,6184134.2
+,30/11/2021,being income received but not categorise,bs30/11,,,707591.5,6891725.7
+,30/11/2021,being received but not categorised,bs30/11,,,36291.35,6928017.05
+,30/11/2021,being reversal of amount wronly posted,bs30/11,,,-258.71,6927758.34
+,30/11/2021,being correction of uncategorised income,bs30/11,,,-57189,6870569.34
+,30/11/2021,being income received but not categorise,bs30/11,,,1977,6872546.34
+,10/11/2021,being income received but not categorise,bs10/11,,,32000,6904546.34
+,10/11/2021,being income received but not categorise,bs10/11,,,156000,7060546.34
+,15/11/2021,being income received but not categorise,bs12-15/11,,,20000,7080546.34
+,1/11/2021,being uncstegorised income,bs01/11,,,2210,7082756.34
+,10/11/2021,being income received but not categorise,bs10/11,,,10110,7092866.34
+,12/12/2021,being income received but not categorise,bs13/12,,,233750,7326616.34
+,17/12/2021,being income received but not categorise,bs17/12,,,8630,7335246.34
+,13/12/2021,being uncategorised income overstated,bs13/12,,,-233750,7101496.34
+,31/12/2021,income received but not categorised,bs31/12,,,2563008.3,9664504.64
+,31/12/2021,being income received but not categorise,bs31/12,,,463777.2,10128281.84
+,31/12/2021,being income received but not categorise,bs31/12,,,287896.64,10416178.48
+1154000002,RBZ USD LIQUIDATION INCOME,0,-154842.04,0,-2432002.3,,
+,27/02/2021,being rbz usd liquidation,B27/02,,,706962.7,706962.7
+,31/03/2021,RBZ usd liquidation,bs31/03,,,15714.94,722677.64
+,30/04/2021,being deposit of usd liquidation,bs30/04,,,8193.74,730871.38
+,31/05/2021,being rbz usd liquidation,bs31/05,,,34274.27,765145.65
+,11/6/2021,being rbz usd liquidation,bs110621,,,290309.57,1055455.22
+,11/6/2021,being RBZ usd liquidation,bs11/06,,,290309.57,1345764.79
+,30/06/2021,being usd liquidation,bs31/06,,,146330.9,1492095.69
+,6/7/2021,being RBZ usd liquidation,bs06/07,,,249863.45,1741959.14
+,2/7/2021,RBz usd liquidation,bs02/07,,,216548.32,1958507.46
+,31/07/2021,being rbz usd liquidation,bs31/07,,,21403.9,1979911.36
+,30/09/2021,being rbz usd liquidation,bs30/09,,,29908.68,2009820.04
+,31/10/2021,being rbz usd liquidation,bs31/10,,,-90736.83,1919083.21
+,31/10/2021,reversal of amount incorrectly posted,bs31/10,,,90736.83,2009820.04
+,31/10/2021,being rbz usd liquidation,bs31/10,,,90730.83,2100550.87
+,30/11/2021,being rbz usd liquidation,bs30/11,,,115012.64,2215563.51
+,16/11/2021,being rbz usd liquidation,bs16/11,,,14815.34,2230378.85
+,26/11/2021,being rbz usd liquidation,bs26/11,,,46781.41,2277160.26
+,31/12/2021,being rbz usd liquidation,bs31/12,,,154842.04,2432002.3
+1411100004,INTEREST - CURRENCY AND DEPOSITS,0,-493.52,0,-3197.78,,
+,30/01/2021,being inerest received,BS01/21,,,156.06,156.06
+,31/01/2021,being interest charges,BS01/21,,,211.95,368.01
+,27/02/2021,being interest received,BS27/02,,,116,484.01
+,31/03/2021,being interest received,bs31/03,,,206.81,690.82
+,31/03/2021,being interest received,bs31/03,,,206.81,897.63
+,31/03/2021,being reversal of double on interest rec,bs31/03,,,-206.81,690.82
+,30/04/2021,being interest received,bs30/04,,,185.82,876.64
+,31/05/2021,being interest received,bs31/05,,,203.67,1080.31
+,30/06/2021,being interest received,bs30/06,,,205.88,1286.19
+,30/06/2021,being interest received,bs30/06,,,27.2,1313.39
+,31/07/2021,being interest received,bs31/07,,,199.97,1513.36
+,31/08/2021,being interest received,bs31/08,,,234.18,1747.54
+,28/07/2021,being interest received,bs28/07,,,187.23,1934.77
+,30/09/2021,being interest accrued,bs30/09,,,-1340.29,594.48
+,30/10/2021,being interest received,bs30/10,,,1851.07,2445.55
+,30/11/2021,being interest accrued,bs30/11,,,258.71,2704.26
+,31/12/2021,being inintrest received,bs31/12,,,32.22,2736.48
+,31/12/2021,being interest received,bs31/12,,,461.3,3197.78
+1414000001,PROFIT ON DISPOSALS,0,0,0,-5000,,
+,22/03/2021,Rec:ASSET DISPOSALS,14RTAD,,,5000,5000
+1415000011,TRADING SITE LEASE,0,0,0,-2000,,
+1421000001,SALE OF GOODS,0,0,0,-35833.85,,
+,6/1/2021,Rec:SALE OF RECEIPT BOOKS,13RTSRB,,,1635,1635
+,20/01/2021,Rec:SALE OF RECEIPT BOOKS,81RTSRB,,,1637,3272
+,2/2/2021,Rec:SALE OF RECEIPT BOOKS,39RTSRB,,,1640,4912
+,3/2/2021,Rec:SALE OF RECEIPT BOOKS,39RTSRB,,,1634.2,6546.2
+,2/3/2021,Rec:SALE OF RECEIPT BOOKS,15RTSRB,,,1677.6,8223.8
+,3/3/2021,Rec:Tender Fees,15RTTF,,,3000,11223.8
+,1/3/2021,Rec:Tender Fees,15RTTF,,,6000,17223.8
+,8/3/2021,Rec:Tender Fees,15RTTF,,,1500,18723.8
+,12/3/2021,Rec:Tender Fees,15RTTF,,,1500,20223.8
+,17/03/2021,Rec:Tender Fees,14RTTF,,,1500,21723.8
+,18/03/2021,Rec:SALE OF RECEIPT BOOKS,14RTSRB,,,6700,28423.8
+,18/03/2021,Rec:Tender Fees,14RTTF,,,1256.25,29680.05
+,19/03/2021,Rec:Tender Fees,14RTTF,,,1500,31180.05
+,11/10/2021,Rec:SALE OF RECEIPT BOOKS,36RTSRB,,,1700,32880.05
+,21/10/2021,Rec:SALE OF SITE PLAN,36RTSSF,,,1000,33880.05
+,21/10/2021,Rec:Tender Fees,36RTTF,,,1500,35380.05
+,26/10/2021,Rec:SALE OF SITE PLAN,36RTSSF,,,1000,36380.05
+,2/11/2021,Rec:Tender Fees,36RTTF,,,1500,37880.05
+,5/11/2021,Rec:Tender Fees,36RTTF,,,1500,39380.05
+,26/11/2021,Rec:SALE OF SITE PLAN,36RTSSF,,,1000,40380.05
+,6/12/2021,Rec:SALE OF SITE PLAN,36RTSSF,,,2000,42380.05
+1422000049,TENDER DOCUMENTS SALE/FEES,0,0,0,-1500,,
+,6/10/2021,being tender fees paid,bs06/10,,,1500,1500
+1425000005,HIRE OF EQUIPMENT-REVENUE,0,0,0,-322827.16,,
+,17/03/2021,Rec:PLANT HIRE,14RTPH,,,15075,15075
+,19/03/2021,Rec:PLANT HIRE,14RTPH,,,4187.5,19262.5
+,23/03/2021,Rec:PLANT HIRE,14RTPH,,,12562.5,31825
+,25/03/2021,Rec:PLANT HIRE,14RTPH,,,1093.56,32918.56
+,31/03/2021,Rec:PLANT HIRE,81RTPH,,,3364.8,36283.36
+,17/05/2021,Rec:PLANT HIRE,14RTPH,,,6729.6,43012.96
+,26/05/2021,Rec:PLANT HIRE,15RTPH,,,3364.8,46377.76
+,9/6/2021,Rec:PLANT HIRE,14RTPH,,,10094.4,56472.16
+,18/06/2021,Rec:PLANT HIRE,15RTPH,,,841.2,57313.36
+,16/08/2021,Rec:PLANT HIRE,14RTPH,,,6833.6,64146.96
+,18/08/2021,Rec:PLANT HIRE,14RTPH,,,15375.6,79522.56
+,20/08/2021,Rec:PLANT HIRE,14RTPH,,,15375.6,94898.16
+,27/08/2021,Rec:PLANT HIRE,36RTPH,,,4271,99169.16
+,31/08/2021,Rec:PLANT HIRE,14RTPH,,,70000,169169.16
+,16/09/2021,Rec:PLANT HIRE,14RTPH,,,46981,216150.16
+,21/09/2021,Rec:PLANT HIRE,14RTPH,,,25626,241776.16
+,5/10/2021,Rec:PLANT HIRE,36RTPH,,,26079,267855.16
+,13/10/2021,Rec:PLANT HIRE,36RTPH,,,5215.8,273070.96
+,19/10/2021,Rec:PLANT HIRE,36RTPH,,,5215.8,278286.76
+,20/10/2021,Rec:PLANT HIRE,36RTPH,,,4346.5,282633.26
+,22/10/2021,Rec:PLANT HIRE,36RTPH,,,8693,291326.26
+,3/11/2021,Rec:PLANT HIRE,36RTPH,,,6954.4,298280.66
+,4/11/2021,Rec:PLANT HIRE,36RTPH,,,8693,306973.66
+,24/11/2021,Rec:PLANT HIRE,36RTPH,,,5284.5,312258.16
+,6/12/2021,Rec:PLANT HIRE,36RTPH,,,10569,322827.16
+,13/12/2021,Rec:PLANT HIRE,36RTPH,,,21138,343965.16
+2200100001,PUBLIC RELATIONS & ADVERTISING,84000,0,228630,0,,
+,4/6/2021,vacancy advertisement,10415,,,-15360,-15360
+,30/07/2021,Advertisement HRA post),12005,,,-45120,-60480
+,1/10/2021,Tender advert,63155,,,-20995,-81475
+,1/10/2021,Tender advert,10554,,,-42160,-123635
+,22/10/2021,Advert for tender for supply of material,10575,,,-20995,-144630
+,10/12/2021,Advertisement for CEO's Post,10827,,,-84000,-228630
+2200100008,PRINTING SERVICES,0,0,11200,0,,
+,22/09/2021,laptop repairs,12045,,,-11200,-11200
+2200100011,TELEPHONE-MOBILE,0,0,6091.01,0,,
+,25/02/2021,airtime for office use,10112,,,-1256.25,-1256.25
+,4/3/2021,Airtime for office use,10119,,,-500,-1756.25
+,15/03/2021,Airtime for office use,10119,,,-500,-2256.25
+,17/04/2021,airtim for admin purposes,10124,,,-252.36,-2508.61
+,7/4/2021,Airtime for office use,10133,,,-300,-2808.61
+,8/4/2021,Airtime for office use,10133,,,-500,-3308.61
+,4/3/2021,Airtime for office use,10133,,,-300,-3608.61
+,25/02/2021,Airtime for office use,10140,,,-500,-4108.61
+,19/05/2021,airtime for office use,10409,,,-841.2,-4949.81
+,24/05/2021,airtime for office use,10410,,,-841.2,-5791.01
+,2/6/2021,Airtime for office use,10427,,,-300,-6091.01
+2200300001,ACCOMODATION,0,0,62402.4,0,,
+,26/11/2021,Accommodation for Simacc training staff,10815,,,-62402.4,-62402.4
+2200400010,SURGICAL SUPPLIES,0,0,2512.5,0,,
+,16/03/2021,collection of surgicals for Bepeta clini,10123,,,-2512.5,-2512.5
+2200600004,STATIONERY SUPPLIES,0,0,183323,0,,
+,25/03/2021,lever files to file payment vouchers,10128,,,-757.08,-757.08
+,22/03/2021,razor blades,10123,,,-41.88,-798.96
+,10/11/2021,purchase of cartridges,10593,,,-182524.04,-183323
+2200700006,CONFERENCES,160000,0,341440,0,,
+,22/09/2021,accommodation at ZITF,12046,,,-21440,-21440
+,25/11/2021,CEO's Conference fees (Kariba),10812,,,-160000,-181440
+,10/12/2021,conference fees (C/Chairman Indaba),10826,,,-160000,-341440
+2200800002,TRAINING - TRAVEL EXPENSES,0,0,313801.23,0,,
+,7/1/2021,allowances,9888,,,-4083,-4083
+,11/1/2021,allowances,10064,,,-11760,-15843
+,22/03/2021,fuel allowances for Simacc trainers,10127,,,-6532.5,-22375.5
+,11/5/2021,ARDCZ annual conference Bulawayo,10405,,,-20284.8,-42660.3
+,1/6/2021,Trip to Marondera,10392,,,-23100,-65760.3
+,8/6/2021,allowances,10416,,,-11313.92,-77074.22
+,10/6/2021,allowances investigation team,10419,,,-15228,-92302.22
+,22/07/2021,allowances,10450,,,-34345,-126647.22
+,1/9/2021,sitting allowances,12023,,,-23017.5,-149664.72
+,20/09/2021,Mutoko District visit,12040,,,-6896,-156560.72
+,20/09/2021,rural rates collection,12038,,,-17240,-173800.72
+,21/09/2021,attending ZITF,12044,,,-12069.4,-185870.12
+,30/09/2021,Auditors' workshop in Hwedza,10553,,,-12929.11,-198799.23
+,26/11/2021,Training EO Finance (Simacc),10814,,,-115002,-313801.23
+2200800003,TRAINING - TUITION AND EXAM FEES,0,0,1499.99,0,,
+2200900001,"DOMESTIC ALLOWANCES FOR ACCOMODATION, MEALS ETC",0,0,118814.08,0,,
+,15/03/2021,Lunch for Simacc Training,10119,,,-500,-500
+,15/03/2021,Lunch for Simacc Training,10119,,,-500,-1000
+,26/05/2021,refreshments for full council meeting,10410,,,-3701.28,-4701.28
+,25/11/2021,attending treasurers conference in Bulaw,10809,,,-38037.6,-42738.88
+,25/11/2021,attending treasurers conference in Bulaw,10810,,,-38037.6,-80776.48
+,25/11/2021,attending Natinonal standards conf.Karib,10811,,,-38037.6,-118814.08
+2200900002,DOMESTIC TRAVEL FARES,49118.84,0,49118.84,0,,
+,10/12/2021,Flight fares for council chair(Vic Falls,10828,,,-49118.84,-49118.84
+2200900004,TOLL/PARKING FEES,0,0,925.32,0,,
+,14/04/2021,toll fees,10143,,,-252.36,-252.36
+,7/4/2021,tollgate fees,10150,,,-168.24,-420.6
+,13/05/2021,toll fees from Harare with council chair,10150,,,-168.24,-588.84
+,21/05/2021,tollgate fees,10409,,,-336.48,-925.32
+2200900006,DOMESTIC ALLOWANCES -OTHERS,68003.52,0,288192.97,0,,
+,24/02/2021,being staff T&S,BS240221,,,-2251,-2251
+,15/10/2021,Staff allowances for budget consultation,10570,,,-101789.3,-104040.3
+,21/10/2021,councillors sitting allowances,10574,,,-11169.6,-115209.9
+,1/10/2021,being staff T&S paid,bs01/10,,,-12929.11,-128139.01
+,15/10/2021,being correction of amount wrong posted,10570,,,-11,-128150.01
+,15/10/2021,being correction of ammount wrongly post,10570,,,22,-128128.01
+,1/10/2021,being staff T&S paid,bs01/10,,,12929.11,-115198.9
+,16/11/2021,trip to Murehwa CBZ Bank,10600,,,-1968,-117166.9
+,18/11/2021,submission of budget at Ministry Of LG,10801,,,-4756.05,-121922.95
+,18/11/2021,submission of budget at Ministry Of LG,10801,,,-4756.05,-126679
+,18/11/2021,submission of budget at Ministry Of LG,10801,,,-4756.05,-131435.05
+,24/11/2021,Sitting allowances full council meeting,10807,,,-88754.4,-220189.45
+,3/12/2021,Councillor's T and S,10818,,,-6340.8,-226530.25
+,6/12/2021,councillor's sitting allowance,10821,,,-8898,-235428.25
+,6/12/2021,councillor's sitting allowances,10821,,,-0.3,-235428.55
+,31/12/2021,Devolution projects tour,10843,,,-8873.62,-244302.17
+,31/12/2021,allowances rural shop licensing,10843,,,-15812.4,-260114.57
+,31/12/2021,allowances rural shop licensing,10846,,,-6346.4,-266460.97
+,31/12/2021,allowances rural shop licensing,10845,,,-4346.4,-270807.37
+,31/12/2021,allowances rural shop licensing,10845,,,-4346.4,-275153.77
+,31/12/2021,allowances rural shop licensing,10845,,,-4346.4,-279500.17
+,31/12/2021,allowances ZRP enforcing shop licensing,10844,,,-2173.2,-281673.37
+,31/12/2021,allowances ZRP enforcing shop licensing,10844,,,-2173.2,-283846.57
+,31/12/2021,allowances ZRP enforcing shop licensing,10844,,,-4346.4,-288192.97
+2201100002,ELECTRICITY,0,0,2300,0,,
+,23/04/2021,Payment for electricity,10140,,,-300,-300
+,10/6/2021,Ficixing council's electricity,10417,,,-2000,-2300
+2201200001,STOCK FEED,0,0,62500,0,,
+,21/06/2021,being stock feed being paid,bs,,,-29700,-29700
+,29/07/2021,Pig feeds,12003,,,-800,-30500
+,1/9/2021,being stock feeds purchased,BS01/09,,,-32000,-62500
+2201300001,REFUNDS - REVENUE,10569,0,10629,0,,
+,2/11/2021,refund (Backhoe loader hiring),10586,,,-60,-60
+,6/12/2021,refund to Chidarikire (hire of tipper tr,10819,,,-100,-160
+,6/12/2021,refund Chidarikire,10819,,,-10469,-10629
+2201400003,BANK TRANSACTION FEES,108751.7,0,338336.45,0,,
+,31/01/2021,being bank charges,BS01/21,,,-4869.86,-4869.86
+,27/02/2021,being bank charges,BS27/02,,,-26227.4,-31097.26
+,31/03/2021,being bank charges paid,bs31/03,,,-16549.02,-47646.28
+,30/04/2021,being bank charges paid,bs30/04,,,-8892.07,-56538.35
+,31/05/2021,being inter acoount transfer,bs31/05,,,-5330.55,-61868.9
+,31/05/2021,being bank charges paid,bs31/05,,,-11258.15,-73127.05
+,31/07/2021,being bank charges paid,bs31/07,,,-25675.89,-98802.94
+,31/08/2021,being bank charges paid,bs31/08,,,-24755.13,-123558.07
+,30/09/2021,being bank charges paid,bs30/09,,,-31964.6,-155522.67
+,31/10/2021,baeing bank charges paid,bs31/10,,,-23510.87,-179033.54
+,31/10/2021,being bank charges paid,bs31/10,,,-58.99,-179092.53
+,30/10/2021,correction of bank charges wronlgy poste,bs30/10,,,117.98,-178974.55
+,31/10/2021,correction of bank charges wrongly poste,bs31/10,,,-0.11,-178974.66
+,30/11/2021,bbeing bank charges paid,bs30/11,,,-50610.09,-229584.75
+,31/12/2021,being bank charges paid,bs31/12,,,-108751.7,-338336.45
+2201400006,CONSULTANCY FEES/EXTRANOEUS PROFESSIONAL SERVICES,541159,0,592359,0,,
+,17/09/2021,Simacc system settings,12037,,,-51200,-51200
+,7/12/2021,commissioners allowances(Town Board),10823,,,-67371,-118571
+,7/12/2021,commissioners allowances(Town Board),10823,,,-67371,-185942
+,7/12/2021,commissioners allowances(Town Board),10823,,,-67371,-253313
+,7/12/2021,commissioners allowances(Town Board),10823,,,-67371,-320684
+,15/12/2021,Simacc 2022 annual licence renewal,10829,,,-108670,-429354
+,16/12/2021,Simacc 2022 annual licence renewal,10832,,,-108670,-538024
+,17/12/2021,Simacc 2022 annual licence renewal,10834,,,-54335,-592359
+2201400008,EXCHANGE RATE LOSS,0,0,0,-82021.72,,
+,31/01/2021,being 20% USD deposit bank conversion,BS01/21,,,82021.72,82021.72
+2201400018,RBZ USD LIQUIDATION EXPENSE,0,0,0.02,0,,
+,27/02/2021,being bank charges shortfall,B27/02,,,-0.02,-0.02
+2201500004,FOOD AND REFRESHMENTS,0,0,3266.26,0,,
+,16/03/2021,refreshments for finance meeting,10123,,,-1633.13,-1633.13
+,16/03/2021,refreshments for a meeting,10123,,,-1633.13,-3266.26
+2201600013,GENERAL EXPENSES,0,0,41600,0,,
+2201900001,MAINTENANCE OF MOBILE EQUIPMENT,0,0,2522.12,0,,
+,17/03/2021,small backhoe ore seal,10124,,,-335,-335
+,20/05/2021,puchase of penny hub & pedal,10409,,,-1514.16,-1849.16
+,21/05/2021,8 hose clamps for sany grader repair,10409,,,-672.96,-2522.12
+2201900002,MAINTENANCE OF VEHICLES,0,0,4716397.15,0,,
+,17/02/2021,brake fluid for Isuzu AAE 9013,10112,,,-817.1,-817.1
+,26/02/2021,tubeless valves,10112,,,-418.75,-1235.85
+,17/02/2021,brake fluid,10112,,,-817.1,-2052.95
+,7/5/2021,battery terminal repair,10401,,,-252.36,-2305.31
+,7/5/2021,replacement of tyre tube for land cruise,10401,,,-1682.4,-3987.71
+,7/5/2021,tyre mending for trailer & land cruiser,10401,,,-757.08,-4744.79
+,4/5/2021,tyre repairs for tractor,10401,,,-252.36,-4997.15
+,7/7/2021,purchase of drill rig truck,10437,,,-710000,-714997.15
+,9/7/2021,purchase of drill rig truck,10441,,,-505000,-1219997.15
+,9/7/2021,purchase of drill rig truck,10442,,,-100000,-1319997.15
+,12/7/2021,purchase of drill rig truck,10444,,,-1300000,-2619997.15
+,16/07/2021,purchase of drill rig truck,10447,,,-545000,-3164997.15
+,19/07/2021,purchase of drill rig truck,10448,,,-1400000,-4564997.15
+,23/07/2021,purchase of drill rig truck,12001,,,-150000,-4714997.15
+,20/08/2021,Welding of vehicle AAE 8838,12014,,,-1400,-4716397.15
+2201900005,TYRES/BATTERIES,0,0,5947.36,0,,
+,17/03/2021,tyre service,10124,,,-3182.5,-3182.5
+,17/03/2021,tube & flepper for council truck,10124,,,-2512.5,-5695
+,19/05/2021,toll grader tractor 2 flat tyre repairs,10409,,,-252.36,-5947.36
+2202000001,MAINTENANCE OF PLANT AND FIXED EQUIPMENT,0,0,1682.4,0,,
+,21/05/2021,steel reinforcement for fuel tank stand,10409,,,-1682.4,-1682.4
+2202000002,REPAIRS OF PLANT AND FIXED EQUIPMENT,0,0,451000,0,,
+,20/08/2021,purchase of drill rig bit,12016,,,-376000,-376000
+,31/08/2021,Sliding gate for council premises,10518,,,-75000,-451000
+2202200002,DIESEL,99976.4,0,186499.26,0,,
+,17/02/2021,fuel for trip to Marondera,10112,,,-6128.25,-6128.25
+,17/02/2021,fuel reimbursement,10112,,,-1225.65,-7353.9
+,17/02/2021,fuel for ambulance service,10112,,,-4902.6,-12256.5
+,24/02/2021,fuel used for road maintenance,10112,,,-3350,-15606.5
+,17/02/2021,fuel used for road maintenance,10112,,,-1634.2,-17240.7
+,17/02/2021,fuel to Harare,10112,,,-817.1,-18057.8
+,15/02/2021,fuel to Haran,10111,,,-6536.8,-24594.6
+,15/02/2021,fuel to transport nurses to Bepeta,10111,,,-4085.5,-28680.1
+,31/03/2021,fuel for council use,10131,,,-8412,-37092.1
+,25/03/2021,topping of fuel,10128,,,-2523.6,-39615.7
+,25/03/2021,fuel for trip to & from Marondera,10128,,,-5888.4,-45504.1
+,26/03/2021,fuel for trip to & from Marondera(UNICEF,10128,,,-5047.2,-50551.3
+,16/03/2021,fuel reinbursement,10123,,,-4187.5,-54738.8
+,23/04/2021,Fuel,10140,,,-1100,-55838.8
+,15/04/2021,fuel for council use,10139,,,-2523.6,-58362.4
+,14/04/2021,reinbursement of diesel,10143,,,-6729.6,-65092
+,28/04/2021,fuel to Harare for official business,10149,,,-6729.6,-71821.6
+,27/04/2021,fuel to Harare- banking & visit to Minis,10148,,,-8412,-80233.6
+,28/04/2021,fuel to ward 16 for trailer follow up,10150,,,-1934.76,-82168.36
+,28/04/2021,fuel for CEO's trip to Marondera,10150,,,-6309,-88477.36
+,23/04/2021,fuel to Marondera for meeting with DDC,10150,,,-2103,-90580.36
+,29/03/2021,fuel reinbursement,10150,,,-1682.4,-92262.76
+,20/05/2021,fuel for levy collection,10409,,,-1682.4,-93945.16
+,30/07/2021,Fuel for revenue collection,12003,,,-1200,-95145.16
+,27/07/2021,Fuel for Land Cruiser,12007,,,-2000,-97145.16
+,14/12/2021,Fuel for administration duties,10831,,,-58681.8,-155826.96
+,29/12/2021,Fuel for administration purposes,10842,,,-21734,-177560.96
+,23/12/2021,fuel for administration purposes,10839,,,-19560.6,-197121.56
+,15/02/2021,fuel for council use,10111,,,-2451.3,-199572.86
+2202200003,PETROL,0,0,174068.32,0,,
+,11/3/2021,bulk fuel puchase for council use,10121,,,-50000,-50000
+,1/4/2021,bulk fuel purchase for council use,10132,,,-50000,-100000
+,1/4/2021,fuel to attend court session,10309,,,-7000,-107000
+,10/5/2021,10 litres of petrol,10401,,,-1068.32,-108068.32
+,2/9/2021,bulk fuel purchase for council use,12026,,,-66000,-174068.32
+2202200005,OILS,0,0,7537.5,0,,
+,24/02/2021,engine oil for tractor and lorry,10112,,,-3350,-3350
+,25/02/2021,transmission oil for backhoe loader,10112,,,-3350,-6700
+,17/03/2021,oil for Isuzu,10124,,,-837.5,-7537.5
+2202300001,LOCAL SUBSCRIPTIONS,0,0,104425.58,0,,
+,8/7/2021,internet services,10440,,,-104425.58,-104425.58
+2631100004,OTHER EXPENSES,0,0,63758.29,0,,
+,17/02/2021,casuals- brickforce offloading & loading,10112,,,-4902.6,-4902.6
+,24/03/2021,sticker flex,10128,,,-839.8,-5742.4
+,17/03/2021,car radio fitting,10124,,,-1256.25,-6998.65
+,8/4/2021,Purchase of floor polish,10133,,,-500,-7498.65
+,8/4/2021,Purchase of floor polish,10133,,,-100,-7598.65
+,29/04/2021,washing powder to clean CEO's residence,10150,,,-168.24,-7766.89
+,7/4/2021,dizing water pipe at Save the Children,10136,,,-1682.4,-9449.29
+,8/4/2021,electrical faults repairs at staff house,10136,,,-1009.44,-10458.73
+,7/4/2021,black cobra and toilet spunch,10136,,,-841.2,-11299.93
+,7/5/2021,mouse for office 9 desktop computer,10401,,,-420.6,-11720.53
+,17/05/2021,bus fare compensation for grader operato,10410,,,-1682.4,-13402.93
+,26/05/2021,toilet cistern tank for CEO's residence,10410,,,-2355.36,-15758.29
+,1/6/2021,monthly airtime for management,10413,,,-14000,-29758.29
+,26/07/2021,Bicycle Parts,10438,,,-2000,-31758.29
+,23/11/2021,purchase of pig feed for IGP-Piggerry,10806,,,-32000,-63758.29
+3111310001,ANIMAL RESOURCES YIELDING REPEAT PRODUCTS,0,0,77210,0,,
+,8/1/2021,purchase of pig feed for IGP-Piggery,9891,,,-18810,-18810
+,5/3/2021,supply of maize brans for IGP-Piggery,10116,,,-8000,-26810
+,14/05/2021,purchase of pig feeds,10408,,,-23525,-50335
+,12/7/2021,pig feeds for IGP-Piggery,10443,,,-26875,-77210
+3112500003,BUILDING MATERIALS,0,0,4037.76,0,,
+,6/4/2021,brick force for public toilet at bus ran,10136,,,-1682.4,-1682.4
+,10/5/2021,purchase of brickforce,10401,,,-2355.36,-4037.76
+,9/12/2021,Purchase of builder's Kit,9497,,,-107920,-111957.76
+3122400012,FUEL-DIESEL AND PETROL-BUILDINGS,0,0,73400,0,,
+,23/03/2021,being purchase of fuel for council use,10244,,,-23400,-23400
+,1/4/2021,purchase of fuel,bs01/04,,,-50000,-73400
+6112100004,MOTOR VEHICLES,0,0,13505611,0,,
+6112100005,TRACTORS AND EARTHMOVING EQUIPMENT,0,0,9444961,0,,
+6112210001,"INFORMATION, COMPUTER & TELECOMMUNICATION (ICT) EQUIPMENT",0,0,404628,0,,
+6212100004,FINANCE CASH BOOK,0,-3343236.22,977043.96,0,,
+6218100004,BUSINESS LICENCES DEBTORS,0,0,140529093.5,0,,
+,13/01/2021,being january receipt captured in februa,BS01/21,,,126200,126200
+,27/01/2021,being january receipt captured in februa,BS01/21,,,117700,243900
+,13/01/2021,being underreceipted amount,BS01/21,,,15300,259200
+,29/01/2021,being january receipt captured in februa,BS01/21,,,56200,315400
+,6/1/2021,being license deposit-wisrod,BS01/21,,,46200,361600
+,5/2/2021,being business license deposit,BS05/21,,,145300,506900
+,25/02/2021,being business license deposit,BS25/02,,,30900,537800
+,18/10/2021,Rec:BUSINESS LICENCE,36RT1,,,2650,540450
+,22/10/2021,Rec:BUSINESS LICENCE,36RT1,,,8300,548750
+,26/10/2021,Rec:BUSINESS LICENCE,36RT1,,,6917,555667
+,26/10/2021,Rec:BUSINESS LICENCE,81RT1,,,23517,579184
+,27/10/2021,Rec:BUSINESS LICENCE,36RT1,,,6917,586101
+,2/11/2021,Rec:BUSINESS LICENCE,36RT1,,,8300,594401
+,9/11/2021,Rec:BUSINESS LICENCE,36RT1,,,10375,604776
+,19/11/2021,Rec:BUSINESS LICENCE,36RT1,,,16600,621376
+,22/11/2021,Rec:BUSINESS LICENCE,36RT1,,,3458,624834
+,24/11/2021,Rec:BUSINESS LICENCE,36RT1,,,6916,631750
+,29/11/2021,Rec:BUSINESS LICENCE,36RT1,,,14525,646275
+,30/11/2021,Rec:BUSINESS LICENCE,36RT1,,,4150,650425
+,1/12/2021,Rec:BUSINESS LICENCE,36RT1,,,9500,659925
+,3/12/2021,Rec:BUSINESS LICENCE,36RT1,,,2075,662000
+,6/12/2021,Rec:BUSINESS LICENCE,36RT1,,,9475,671475
+,8/12/2021,Rec:BUSINESS LICENCE,36RT1,,,6917,678392
+,9/12/2021,Rec:BUSINESS LICENCE,36RT1,,,541600,1219992
+,10/12/2021,Rec:BUSINESS LICENCE,36RT1,,,27666,1247658
+,13/12/2021,Rec:BUSINESS LICENCE,36RT1,,,210874,1458532
+,15/12/2021,Rec:BUSINESS LICENCE,36RT1,,,269191,1727723
+,16/12/2021,Rec:BUSINESS LICENCE,36RT1,,,314583,2042306
+,17/12/2021,Rec:BUSINESS LICENCE,36RT1,,,121762,2164068
+,20/12/2021,Rec:BUSINESS LICENCE,36RT1,,,20058,2184126
+,28/12/2021,Rec:BUSINESS LICENCE,36RT1,,,9614,2193740
+,29/12/2021,Rec:BUSINESS LICENCE,36RT1,,,8300,2202040
+,30/12/2021,Rec:BUSINESS LICENCE,36RT1,,,25650,2227690
+6218100005,UNIT TAX - LICENCE DEBTORS,0,0,7808040,0,,
+,18/10/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,1500,1500
+,26/10/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,833,2333
+,26/10/2021,Rec:UNIT TAX - BUSINESS,81RT11,,,7083,9416
+,27/10/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,833,10249
+,2/11/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,2083,12332
+,9/11/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,2076,14408
+,19/11/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,5000,19408
+,22/11/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,417,19825
+,24/11/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,834,20659
+,29/11/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,3325,23984
+,30/11/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,1250,25234
+,1/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,566,25800
+,3/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,833,26633
+,6/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,2075,28708
+,8/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,2083,30791
+,9/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,5000,35791
+,10/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,4150,39941
+,13/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,52366,92307
+,15/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,61043,153350
+,16/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,78845,232195
+,17/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,31595,263790
+,20/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,9492,273282
+,28/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,3333,276615
+,29/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,2500,279115
+,30/12/2021,Rec:UNIT TAX - BUSINESS,36RT11,,,10375,289490
+6218100006,LEASE DEBTORS,0,0,937518,0,,
+,1/1/2021,being deposit for lease fees(Nyangani),BS01/21,,,2044665,2044665
+,7/1/2021,being reversal for wrong post,BS01/21,,,-2044665,0
+6218100008,LDL QUARRIES DEBTORS,0,0,5062611,0,,
+6218100009,RENT DEBTORS,0,0,0,-4607485,,
+,18/10/2021,Rec:RENT,36RT9,,,79800,79800
+,8/11/2021,Rec:RENT,36RT9,,,55200,135000
+,10/11/2021,Rec:RENT,36RT9,,,13200,148200
+,19/11/2021,Rec:RENT,36RT9,,,100000,248200
+,29/11/2021,Rec:RENT,36RT9,,,10000,258200
+,30/11/2021,Rec:RENT,36RT9,,,51250,309450
+,7/12/2021,Rec:RENT,36RT9,,,102500,411950
+,9/12/2021,Rec:RENT,36RT9,,,55200,467150
+,15/12/2021,Rec:RENT,36RT9,,,51252,518402
+,28/12/2021,Rec:RENT,36RT9,,,51252,569654
+6218100012,LAND DEV LEVY DEBTORS,0,0,18692,0,,
+,4/10/2021,Rec:LDL COMMUNAL,14RT14,,,5000,5000
+,18/10/2021,Rec:LDL RESETTLEMENTS,36RT13,,,1400,6400
+,18/10/2021,Rec:LDL COMMUNAL,36RT14,,,271290,277690
+,19/10/2021,Rec:LDL COMMUNAL,36RT14,,,396585,674275
+,20/10/2021,Rec:LDL RESETTLEMENTS,36RT13,,,13970,688245
+,20/10/2021,Rec:LDL COMMUNAL,36RT14,,,51465,739710
+,20/10/2021,Rec:LDL SMALL FARMS,36RT15,,,9300,749010
+,20/10/2021,Rec:LDL LARGE FARMS,36RT16,,,11000,760010
+,21/10/2021,Rec:LDL RESETTLEMENTS,36RT13,,,4260,764270
+,21/10/2021,Rec:LDL COMMUNAL,36RT14,,,5500,769770
+,22/10/2021,Rec:LDL RESETTLEMENTS,36RT13,,,15600,785370
+,22/10/2021,Rec:LDL COMMUNAL,36RT14,,,5500,790870
+,26/10/2021,Rec:LDL RESETTLEMENTS,36RT13,,,2000,792870
+,26/10/2021,Rec:LDL COMMUNAL,36RT14,,,12000,804870
+,26/10/2021,Rec:LDL LARGE FARMS,36RT16,,,10000,814870
+,27/10/2021,Rec:LDL RESETTLEMENTS,36RT13,,,10000,824870
+,27/10/2021,Rec:LDL COMMUNAL,36RT14,,,8500,833370
+,27/10/2021,Rec:LDL LARGE FARMS,36RT16,,,28847,862217
+,28/10/2021,Rec:LDL RESETTLEMENTS,36RT13,,,20748,882965
+,28/10/2021,Rec:LDL COMMUNAL,36RT14,,,18500,901465
+,29/10/2021,Rec:LDL RESETTLEMENTS,36RT13,,,29669,931134
+,29/10/2021,Rec:LDL COMMUNAL,36RT14,,,1000,932134
+,29/10/2021,Rec:LDL LARGE FARMS,36RT16,,,1000,933134
+,1/11/2021,Rec:LDL COMMUNAL,36RT14,,,38200,971334
+,1/11/2021,Rec:LDL LARGE FARMS,36RT16,,,13000,984334
+,2/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,12000,996334
+,2/11/2021,Rec:LDL COMMUNAL,36RT14,,,8150,1004484
+,2/11/2021,Rec:LDL LARGE FARMS,36RT16,,,6800,1011284
+,3/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,452036,1463320
+,3/11/2021,Rec:LDL COMMUNAL,36RT14,,,5000,1468320
+,4/11/2021,Rec:LDL COMMUNAL,36RT14,,,21500,1489820
+,4/11/2021,Rec:LDL LARGE FARMS,36RT16,,,29000,1518820
+,5/11/2021,Rec:LDL COMMUNAL,36RT14,,,16500,1535320
+,5/11/2021,Rec:LDL LARGE FARMS,36RT16,,,3000,1538320
+,8/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,3637,1541957
+,8/11/2021,Rec:LDL COMMUNAL,36RT14,,,32000,1573957
+,9/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,2700,1576657
+,9/11/2021,Rec:LDL COMMUNAL,36RT14,,,21725,1598382
+,10/11/2021,Rec:LDL COMMUNAL,36RT14,,,15000,1613382
+,11/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,3740,1617122
+,11/11/2021,Rec:LDL COMMUNAL,36RT14,,,5500,1622622
+,12/11/2021,Rec:LDL COMMUNAL,36RT14,,,5000,1627622
+,15/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,20000,1647622
+,15/11/2021,Rec:LDL COMMUNAL,36RT14,,,24500,1672122
+,16/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,10640,1682762
+,16/11/2021,Rec:LDL COMMUNAL,36RT14,,,2500,1685262
+,16/11/2021,Rec:LDL LARGE FARMS,36RT16,,,2800,1688062
+,17/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,20636,1708698
+,17/11/2021,Rec:LDL COMMUNAL,36RT14,,,3000,1711698
+,18/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,15042.6,1726740.6
+,18/11/2021,Rec:LDL COMMUNAL,36RT14,,,15100,1741840.6
+,18/11/2021,Rec:LDL LARGE FARMS,36RT16,,,16500,1758340.6
+,19/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,5687,1764027.6
+,19/11/2021,Rec:LDL COMMUNAL,36RT14,,,10190,1774217.6
+,19/11/2021,Rec:LDL LARGE FARMS,36RT16,,,2300,1776517.6
+,20/11/2021,Rec:LDL COMMUNAL,36RT14,,,69000,1845517.6
+,22/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,9500,1855017.6
+,22/11/2021,Rec:LDL COMMUNAL,36RT14,,,5500,1860517.6
+,22/11/2021,Rec:LDL LARGE FARMS,36RT16,,,2500,1863017.6
+,23/11/2021,Rec:LDL LARGE FARMS,36RT16,,,15000,1878017.6
+,24/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,17772,1895789.6
+,24/11/2021,Rec:LDL COMMUNAL,36RT14,,,3500,1899289.6
+,25/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,6000,1905289.6
+,25/11/2021,Rec:LDL COMMUNAL,36RT14,,,23900,1929189.6
+,25/11/2021,Rec:LDL LARGE FARMS,36RT16,,,5000,1934189.6
+,26/11/2021,Rec:LDL COMMUNAL,36RT14,,,13500,1947689.6
+,26/11/2021,Rec:LDL LARGE FARMS,36RT16,,,5900,1953589.6
+,29/11/2021,Rec:LDL RESETTLEMENTS,36RT13,,,8780,1962369.6
+,29/11/2021,Rec:LDL COMMUNAL,36RT14,,,9000,1971369.6
+,29/11/2021,Rec:LDL LARGE FARMS,36RT16,,,16449,1987818.6
+,30/11/2021,Rec:LDL COMMUNAL,36RT14,,,8000,1995818.6
+,1/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,24857,2020675.6
+,1/12/2021,Rec:LDL COMMUNAL,36RT14,,,4800,2025475.6
+,2/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,4000,2029475.6
+,2/12/2021,Rec:LDL COMMUNAL,36RT14,,,6000,2035475.6
+,2/12/2021,Rec:LDL LARGE FARMS,36RT16,,,5800,2041275.6
+,3/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,1000,2042275.6
+,3/12/2021,Rec:LDL COMMUNAL,36RT14,,,6000,2048275.6
+,6/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,25468,2073743.6
+,6/12/2021,Rec:LDL COMMUNAL,36RT14,,,5800,2079543.6
+,6/12/2021,Rec:LDL LARGE FARMS,36RT16,,,10000,2089543.6
+,7/12/2021,Rec:LDL COMMUNAL,36RT14,,,5500,2095043.6
+,7/12/2021,Rec:LDL LARGE FARMS,36RT16,,,6400,2101443.6
+,8/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,5000,2106443.6
+,8/12/2021,Rec:LDL COMMUNAL,36RT14,,,1000,2107443.6
+,9/12/2021,Rec:LDL COMMUNAL,36RT14,,,18250,2125693.6
+,10/12/2021,Rec:LDL COMMUNAL,36RT14,,,9000,2134693.6
+,10/12/2021,Rec:LDL LARGE FARMS,36RT16,,,6800,2141493.6
+,14/12/2021,Rec:LDL COMMUNAL,36RT14,,,500,2141993.6
+,17/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,8880,2150873.6
+,20/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,19400,2170273.6
+,20/12/2021,Rec:LDL COMMUNAL,36RT14,,,1275,2171548.6
+,21/12/2021,Rec:LDL COMMUNAL,36RT14,,,6500,2178048.6
+,23/12/2021,Rec:LDL COMMUNAL,36RT14,,,2500,2180548.6
+,24/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,4880,2185428.6
+,24/12/2021,Rec:LDL COMMUNAL,36RT14,,,3000,2188428.6
+,30/12/2021,Rec:LDL RESETTLEMENTS,36RT13,,,6100,2194528.6
+,30/12/2021,Rec:LDL COMMUNAL,36RT14,,,500,2195028.6
+,31/12/2021,Rec:LDL COMMUNAL,36RT14,,,6000,2201028.6
+6218100015,UNIT TAX -STANDS DEBTORS,0,0,1078777,0,,
+,18/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,217281,217281
+,19/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,2344695.2,2561976.2
+,20/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,22600,2584576.2
+,21/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,41980,2626556.2
+,22/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,168254,2794810.2
+,25/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,11850,2806660.2
+,26/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,39120,2845780.2
+,26/10/2021,Rec:UNIT TAX - - STANDS,81RT2,,,7300,2853080.2
+,27/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,17660,2870740.2
+,28/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,89235,2959975.2
+,29/10/2021,Rec:UNIT TAX - - STANDS,36RT2,,,18740,2978715.2
+,1/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,174745,3153460.2
+,2/11/2021,Rec:URBAN PLOTS,36RT12,,,10000,3163460.2
+,2/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,565658.5,3729118.7
+,3/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,26522,3755640.7
+,4/11/2021,Rec:URBAN PLOTS,36RT12,,,9000,3764640.7
+,4/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,56770,3821410.7
+,5/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,47740,3869150.7
+,8/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,16955,3886105.7
+,9/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,12800,3898905.7
+,10/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,23130,3922035.7
+,11/11/2021,Rec:URBAN PLOTS,36RT12,,,9600,3931635.7
+,11/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,13260,3944895.7
+,12/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,1650,3946545.7
+,15/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,68270,4014815.7
+,16/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,12800,4027615.7
+,17/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,23970,4051585.7
+,18/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,61162.5,4112748.2
+,19/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,34585,4147333.2
+,22/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,100145,4247478.2
+,23/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,32030,4279508.2
+,24/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,23738,4303246.2
+,25/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,31840,4335086.2
+,26/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,38240,4373326.2
+,29/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,41640,4414966.2
+,30/11/2021,Rec:UNIT TAX - - STANDS,36RT2,,,46935,4461901.2
+,1/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,77770,4539671.2
+,2/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,63860,4603531.2
+,3/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,33850,4637381.2
+,6/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,76205,4713586.2
+,7/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,59100,4772686.2
+,8/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,17555,4790241.2
+,9/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,19690,4809931.2
+,10/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,28380,4838311.2
+,13/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,79885,4918196.2
+,14/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,98815,5017011.2
+,15/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,46200,5063211.2
+,16/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,31380,5094591.2
+,17/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,46095,5140686.2
+,20/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,65258,5205944.2
+,21/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,215692.5,5421636.7
+,23/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,106826,5528462.7
+,24/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,60057,5588519.7
+,28/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,131494,5720013.7
+,29/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,62770,5782783.7
+,30/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,77590,5860373.7
+,31/12/2021,Rec:UNIT TAX - - STANDS,36RT2,,,196070,6056443.7
+6318200001,PURCHASE CREDITORS,0,0,0,-7300,,
+6318200007,VAT PROVISION - DEBTORS,0,0,0,-2044.3,,
+6318200008,VAT PAYABLE,0,0,2044.3,0,,
+6318200010,SUSPENSE ACCOUNT,0,0,0,-56200,,
+,7/1/2021,licences,10429490000,,,-27900,-27900
+,7/1/2021,Contra Entry-Licences,10429490000,,,27900,0
+,7/1/2021,Licence,10429490000,,,27900,27900
+,19/01/2021,being unreceipted amount,BS01/21,,,56200,84100
+,5/1/2021,being cash deposit,BS01/21,,,577100,661200
+,5/1/2021,being reversal of cash deposit,BS01/21,,,-577100,84100
+6325100001,SURPLUS/DEFICIT,0,0,0,-12535775,,
+6325100002,RESERVES,0,0,0,-23077324,,
+6325100006,AUDIT FEES PROVISIONS,0,0,0,-1272471,,
+SEGMENT TOTALS,,-2221657.76,-4715107.7,188296447.6,-213816961,,
+SOCIAL SERVICES,,,,,,,
+1145210006,OTHER TRADING LICENCES,0,0,0,-849944.05,,
+,5/1/2021,Rec:MARKETING FEES,13RTMF,,,375,375
+,5/1/2021,Rec:Proof of residence,13RTPRR,,,500,875
+,6/1/2021,Rec:MARKETING FEES,37RTMF,,,12991.89,13866.89
+,7/1/2021,Rec:Proof of residence,13RTPRR,,,500,14366.89
+,12/1/2021,Rec:Proof of residence,13RTPRR,,,1000,15366.89
+,14/01/2021,Rec:Proof of residence,13RTPRR,,,500,15866.89
+,27/01/2021,Rec:MARKETING FEES,39RTMF,,,2042.75,17909.64
+,29/01/2021,Rec:MARKETING FEES,37RTMF,,,10077,27986.64
+,1/2/2021,Rec:MARKETING FEES,39RTMF,,,833,28819.64
+,10/2/2021,Rec:Proof of residence,39RTPRR,,,1000,29819.64
+,11/2/2021,Rec:Proof of residence,39RTPRR,,,500,30319.64
+,8/2/2021,Rec:MARKETING FEES,39RTMF,,,1666,31985.64
+,2/3/2021,Rec:MARKETING FEES,14RTMF,,,12897.5,44883.14
+,5/3/2021,Rec:Proof of residence,15RTPRR,,,500,45383.14
+,22/03/2021,Rec:Proof of residence,14RTPRR,,,500,45883.14
+,24/03/2021,Rec:Proof of residence,14RTPRR,,,500,46383.14
+,29/03/2021,Rec:Proof of residence,81RTPRR,,,500,46883.14
+,16/04/2021,Rec:Proof of residence,39RTPRR,,,500,47383.14
+,4/5/2021,Rec:Proof of residence,14RTPRR,,,1420.6,48803.74
+,5/5/2021,Rec:MARKETING FEES,37RTMF,,,7486.68,56290.42
+,6/5/2021,Rec:Proof of residence,14RTPRR,,,420.6,56711.02
+,12/5/2021,Rec:MARKETING FEES,37RTMF,,,5215.44,61926.46
+,13/05/2021,Rec:Proof of residence,14RTPRR,,,500,62426.46
+,17/05/2021,Rec:MARKETING FEES,37RTMF,,,5467.8,67894.26
+,19/05/2021,Rec:Proof of residence,14RTPRR,,,920.6,68814.86
+,20/05/2021,Rec:Proof of residence,14RTPRR,,,500,69314.86
+,24/05/2021,Rec:Proof of residence,15RTPRR,,,1500,70814.86
+,31/05/2021,Rec:Proof of residence,14RTPRR,,,1500,72314.86
+,31/05/2021,Rec:MARKETING FEES,37RTMF,,,2860.08,75174.94
+,7/6/2021,Rec:Proof of residence,14RTPRR,,,500,75674.94
+,10/6/2021,Rec:Proof of residence,14RTPRR,,,1500,77174.94
+,15/06/2021,Rec:Proof of residence,15RTPRR,,,500,77674.94
+,16/06/2021,Rec:Proof of residence,15RTPRR,,,500,78174.94
+,17/06/2021,Rec:MARKETING FEES,37RTMF,,,77642.76,155817.7
+,22/06/2021,Rec:Proof of residence,15RTPRR,,,42560,198377.7
+,23/06/2021,Rec:Proof of residence,15RTPRR,,,1500,199877.7
+,24/06/2021,Rec:Proof of residence,15RTPRR,,,1000,200877.7
+,25/06/2021,Rec:Proof of residence,15RTPRR,,,2000,202877.7
+,28/06/2021,Rec:MARKETING FEES,37RTMF,,,2000,204877.7
+,28/06/2021,Rec:Proof of residence,15RTPRR,,,9500,214377.7
+,5/7/2021,Rec:Proof of residence,14RTPRR,,,1000,215377.7
+,6/7/2021,Rec:Proof of residence,14RTPRR,,,4000,219377.7
+,7/7/2021,Rec:Proof of residence,14RTPRR,,,29000,248377.7
+,8/7/2021,Rec:Proof of residence,14RTPRR,,,5500,253877.7
+,12/7/2021,Rec:Proof of residence,36RTPRR,,,1000,254877.7
+,13/07/2021,Rec:Proof of residence,36RTPRR,,,500,255377.7
+,14/07/2021,Rec:Proof of residence,36RTPRR,,,500,255877.7
+,16/07/2021,Rec:Proof of residence,36RTPRR,,,8500,264377.7
+,19/07/2021,Rec:Proof of residence,14RTPRR,,,2000,266377.7
+,21/07/2021,Rec:Proof of residence,14RTPRR,,,500,266877.7
+,22/07/2021,Rec:Proof of residence,14RTPRR,,,500,267377.7
+,26/07/2021,Rec:Proof of residence,36RTPRR,,,3500,270877.7
+,28/07/2021,Rec:Proof of residence,36RTPRR,,,500,271377.7
+,3/8/2021,Rec:Proof of residence,14RTPRR,,,500,271877.7
+,4/8/2021,Rec:Proof of residence,14RTPRR,,,500,272377.7
+,13/08/2021,Rec:Proof of residence,36RTPRR,,,500,272877.7
+,16/08/2021,Rec:MARKETING FEES,37RTMF,,,38700,311577.7
+,18/08/2021,Rec:Proof of residence,14RTPRR,,,500,312077.7
+,23/08/2021,Rec:MARKETING FEES,36RTMF,,,1000,313077.7
+,23/08/2021,Rec:Proof of residence,36RTPRR,,,1000,314077.7
+,24/08/2021,Rec:Proof of residence,36RTPRR,,,1000,315077.7
+,25/08/2021,Rec:Proof of residence,36RTPRR,,,500,315577.7
+,26/08/2021,Rec:Proof of residence,36RTPRR,,,500,316077.7
+,26/08/2021,Rec:MARKETING FEES,37RTMF,,,28400,344477.7
+,1/9/2021,Rec:MARKETING FEES,37RTMF,,,43600,388077.7
+,2/9/2021,Rec:Proof of residence,14RTPRR,,,500,388577.7
+,3/9/2021,Rec:Proof of residence,14RTPRR,,,500,389077.7
+,6/9/2021,Rec:Proof of residence,36RTPRR,,,1500,390577.7
+,8/9/2021,Rec:Proof of residence,36RTPRR,,,500,391077.7
+,13/09/2021,Rec:Operating permit,14RTOP,,,5000,396077.7
+,13/09/2021,Rec:Proof of residence,14RTPRR,,,500,396577.7
+,14/09/2021,Rec:Proof of residence,14RTPRR,,,1000,397577.7
+,15/09/2021,Rec:Proof of residence,14RTPRR,,,1000,398577.7
+,16/09/2021,Rec:Proof of residence,14RTPRR,,,500,399077.7
+,17/09/2021,Rec:MARKETING FEES,37RTMF,,,12100,411177.7
+,21/09/2021,Rec:Proof of residence,14RTPRR,,,1000,412177.7
+,22/09/2021,Rec:Proof of residence,14RTPRR,,,500,412677.7
+,24/09/2021,Rec:Proof of residence,14RTPRR,,,1000,413677.7
+,27/09/2021,Rec:Proof of residence,14RTPRR,,,1500,415177.7
+,28/09/2021,Rec:Proof of residence,14RTPRR,,,500,415677.7
+,29/09/2021,Rec:Proof of residence,81RTPRR,,,1000,416677.7
+,30/09/2021,Rec:Proof of residence,81RTPRR,,,1000,417677.7
+,1/10/2021,Rec:Proof of residence,81RTPRR,,,1000,418677.7
+,4/10/2021,Rec:Proof of residence,36RTPRR,,,1500,420177.7
+,6/10/2021,Rec:Proof of residence,36RTPRR,,,1000,421177.7
+,8/10/2021,Rec:Proof of residence,36RTPRR,,,500,421677.7
+,14/10/2021,Rec:Proof of residence,36RTPRR,,,1000,422677.7
+,18/10/2021,Rec:Proof of residence,36RTPRR,,,500,423177.7
+,19/10/2021,Rec:Proof of residence,36RTPRR,,,43965,467142.7
+,27/10/2021,Rec:Proof of residence,36RTPRR,,,500,467642.7
+,29/10/2021,Rec:Proof of residence,36RTPRR,,,500,468142.7
+,3/11/2021,Rec:Proof of residence,36RTPRR,,,500,468642.7
+,5/11/2021,Rec:Proof of residence,36RTPRR,,,500,469142.7
+,8/11/2021,Rec:Proof of residence,36RTPRR,,,500,469642.7
+,11/11/2021,Rec:MARKETING FEES,14RTMF,,,33946.99,503589.69
+,29/11/2021,Rec:Proof of residence,36RTPRR,,,500,504089.69
+,1/12/2021,Rec:Proof of residence,36RTPRR,,,500,504589.69
+,6/12/2021,Rec:Proof of residence,36RTPRR,,,500,505089.69
+,13/12/2021,Rec:Proof of residence,36RTPRR,,,1000,506089.69
+,15/12/2021,Rec:Proof of residence,36RTPRR,,,1000,507089.69
+,23/12/2021,Rec:Proof of residence,36RTPRR,,,500,507589.69
+,24/12/2021,Rec:Proof of residence,36RTPRR,,,500,508089.69
+1321000005,GRANTS,0,0,0,-49062000,,
+,3/6/2021,being government grant received,bs03/06,,,11562000,11562000
+,22/07/2021,being devolution funds received,BS22/07,,,2900000,14462000
+,22/07/2021,being devolution funds received,bs22/07,,,2900000,17362000
+,22/08/2021,being government received,bs22/08,,,2900000,20262000
+,22/08/2021,reversal of wrong account posting,BS22/08,,,5800000,26062000
+,7/9/2021,being devolution funds received,bs07/09,,,23000000,49062000
+,30/12/2021,being government grant received,bs30/11,,,15000000,64062000
+,30/11/2021,being grants wrongly posted,bs30/11,,,-15000000,49062000
+,30/11/2021,being grants wrongly posted,bs30/11,,,15000000,64062000
+1411100004,INTEREST - CURRENCY AND DEPOSITS,0,-3.58,1654.7,-17448.55,,
+,30/01/2021,bieng interest received,BS01/21,,,0.13,0.13
+,1/2/2021,being interest received,BS01/03,,,53.19,53.32
+,31/03/2021,being interest received,BS31/03,,,3.63,56.95
+,31/03/2021,being interest received,bs31/03,,,12.75,69.7
+,30/04/2021,being interest received,bs30/04,,,1.82,71.52
+,30/04/2021,being interest received,bs30/04,,,6.59,78.11
+,17/05/2021,being interest received,bs07/05,,,1.67,79.78
+,31/05/2021,being interest received,bs31/05,,,11.69,91.47
+,30/06/2021,being interest received,bs30/06,,,2029.97,2121.44
+,30/06/2021,being interest acrrued,bs30/06,,,3.96,2125.4
+,30/06/2021,being bank chrges paid,bs30/06,,,-1800.59,324.81
+,31/07/2021,being interest received3,bs31/07,,,7.56,332.37
+,31/08/2021,bieng interest received,bs31/08,,,89.13,421.5
+,31/08/2021,being interest received,bs310821,,,6.05,427.55
+,31/08/2021,being interest received,bs31/08,,,6.05,433.6
+,12/8/2021,being interest received,bs12/08,,,5.01,438.61
+,30/09/2021,being interest charged,bs31/09,,,280.35,718.96
+,30/09/2021,being reversal of interest amount,bs30/09,,,-280.35,438.61
+,30/09/2021,being interest received,bs30/09,,,-280.35,158.26
+,30/09/2021,being interest received,bs30/09,,,-62.18,96.08
+,31/10/2021,being interest received,bs31/10,,,10566.69,10662.77
+,31/10/2021,being interest received,bs31/10,,,112.37,10775.14
+,30/11/2021,being interest received,bs30/11,,,3.05,10778.19
+,30/11/2021,being interest received,bs30/11,,,4605.8,15383.99
+,31/12/2021,being interest received,bs31/12,,,3.58,15387.57
+1422000021,"PERMITS, INSPECTIONS AND CERTFICATE FEES",0,0,0,-25000,,
+,18/08/2021,being NGO oparating licence,bs18/08,,,25000,25000
+1422000027,AMENITIES FEES,0,0,0,-18450,,
+,4/1/2021,Rec:CEMETARY CHARGES,13RTCC,,,1500,1500
+,21/01/2021,Rec:CEMETARY CHARGES,81RTCC,,,1500,3000
+,26/04/2021,Rec:CEMETARY CHARGES,14RTCC,,,4500,7500
+,5/5/2021,Rec:CEMETARY CHARGES,37RTCC,,,450,7950
+,10/5/2021,Rec:CEMETARY CHARGES,14RTCC,,,1500,9450
+,25/06/2021,Rec:CEMETARY CHARGES,15RTCC,,,1500,10950
+,19/07/2021,Rec:CEMETARY CHARGES,14RTCC,,,1500,12450
+,24/09/2021,Rec:CEMETARY CHARGES,14RTCC,,,4500,16950
+,28/09/2021,Rec:CEMETARY CHARGES,14RTCC,,,1500,18450
+,18/10/2021,Rec:CEMETARY CHARGES,36RTCC,,,1500,19950
+,3/11/2021,Rec:CEMETARY CHARGES,36RTCC,,,1500,21450
+1422000036,HEALTH FEES,0,0,0,-8360.64,,
+,25/03/2021,Rec:USER CHARGES HOSPITAL FEES,14RTUCH,,,841.2,841.2
+,1/6/2021,Rec:USER CHARGES HOSPITAL FEES,37RTUCH,,,2439.44,3280.64
+,26/08/2021,Rec:USER CHARGES HOSPITAL FEES,37RTUCH,,,5080,8360.64
+1422000043,FIRE BRIGADE FEES,0,0,0,-14343.45,,
+1422000046,TUITION FEES,0,0,0,-60,,
+1422000050,EDUCATION LEVY,0,0,0,-459100,,
+,10/4/2021,being school administration paid,bs10/04,,,2000,2000
+,29/04/2021,being school admin fees,bs29/04,,,3500,5500
+,13/07/2021,being school admin fees paid,bs13/07,,,10000,15500
+,26/08/2021,Rec:USER CHARGES SCHOOL,37RTUCS,,,200,15700
+,28/09/2021,Rec:USER CHARGES SCHOOL,81RTUCS,,,219700,235400
+,28/09/2021,being school admin fees received,bs28/09,,,219700,455100
+,8/11/2021,being school administration fees paid,bs08/11,,,4000,459100
+2200100008,PRINTING SERVICES,0,0,1000,0,,
+,2/3/2021,Printing of public toilets working plans,9712,,,-1000,-1000
+2200100011,TELEPHONE-MOBILE,0,0,6150,0,,
+,24/02/2021,Airtime for office use,9708,,,-500,-500
+,2/3/2021,Airtime for office use,9712,,,-300,-800
+,2/3/2021,Airtime for office use,9712,,,-200,-1000
+,2/3/2021,Airtime for office use,9712,,,-200,-1200
+,31/03/2021,Airtime for office use,9717,,,-500,-1700
+,5/7/2021,Airtime for office use,9723,,,-1000,-2700
+,9/6/2021,Airtime,9627,,,-2000,-4700
+,19/07/2021,Airtime for office use,9728,,,-450,-5150
+,6/8/2021,Airtime for office use,9728,,,-1000,-6150
+2200300003,ENTERTAINMENT,0,0,10854,0,,
+2200600004,STATIONERY SUPPLIES,0,0,1380.96,0,,
+,31/03/2021,Purchase of Bond paper,9717,,,-500,-500
+,15/04/2021,Purchase of stationery,9719,,,-880.96,-1380.96
+2200900006,DOMESTIC ALLOWANCES -OTHERS,50000,0,50000,-5040,,
+,3/6/2021,being deposit of councilors T&S reversal,bs03/06,,,5040,5040
+,7/12/2021,staff t&s(duties at Nyamakosi RHC),10765,,,-10000,-4960
+,7/12/2021,staff t&s(duties at Nyamakosi RHC),10765,,,-10000,-14960
+,7/12/2021,septic tank construction Bepeta RHC,10765,,,-20000,-34960
+,7/12/2021,septic tank construction Bepeta RHC,10765,,,-10000,-44960
+2201100002,ELECTRICITY,0,0,7000,0,,
+,31/08/2021,being electricity paid,bs31/08,,,-7000,-7000
+2201200001,STOCK FEED,0,0,2000,0,,
+,29/07/2021,Pig feeds,9727,,,-2000,-2000
+2201400003,BANK TRANSACTION FEES,77784.74,-2964.02,743991.22,-2964.02,,
+,31/01/2021,bieng bank charges,BS01/21,,,-1459.39,-1459.39
+,28/02/2021,being bank charges accumulated,BS27/02,,,-8407.98,-9867.37
+,31/03/2021,being bank charges,bs31/03,,,-3300.54,-13167.91
+,31/03/2021,being bank charges paid,bs31/03,,,-4931.91,-18099.82
+,30/04/2021,being bank charges paid,bs30/04,,,-2550.27,-20650.09
+,30/04/2021,being bank charges paid,bs30/04,,,-1650.99,-22301.08
+,31/05/2021,being bank charges paid,bs31/05,,,-1500.25,-23801.33
+,31/05/2021,being bank charges paid,bs31/05,,,-1108.55,-24909.88
+,30/06/2021,being bank charges paid,bs30/06,,,-221804.5,-246714.38
+,31/07/2021,being bank charges paid,bs31/07,,,-1851.13,-248565.51
+,31/08/2021,being bank charges paid,bs31/08,,,-1841.46,-250406.97
+,31/08/2021,bieng bank charges paid,BS31/08,,,-813.37,-251220.34
+,31/08/2021,being bank charges paid,bs31/08,,,-1650.91,-252871.25
+,31/08/2021,being bank charges wrongly posted,bs31/08,,,1650.91,-251220.34
+,31/08/2021,being bank charges paid,bs31/08,,,-1650.91,-252871.25
+,31/08/2021,being bank charges paid,bs31/08,,,-300,-253171.25
+,30/09/2021,being bank charges paid,bs30/09,,,-757.94,-253929.19
+,30/09/2021,being reversal of wrong post,bs30/09,,,58180.97,-195748.22
+,30/09/2021,being bank charges paid,bs30/09,,,-3866.17,-199614.39
+,30/09/2021,being bank charges paid,bs30/09,,,-58180.97,-257795.36
+,31/10/2021,being bank charges paid,bs31/10,,,-58180.97,-315976.33
+,31/10/2021,being bank charges paid,bs31/10,,,-15848.27,-331824.6
+,31/10/2021,bank charges paid,bs31/10,,,-10791.31,-342615.91
+,30/11/2021,being bank charges paid,bs30/11,,,-2450.46,-345066.37
+,30/11/2021,being bank charges reversal,bs30/11,,,2450.46,-342615.91
+,30/11/2021,being bank charges reversal,bs30/11,,,-2450.46,-345066.37
+,1/11/2021,being bank charges paid,bs01/11,,,-140,-345206.37
+,30/11/2021,being correction of bank bank charges,bs30/11,,,0.5,-345205.87
+,30/11/2021,being bank charges paid,bs30/11,,,-216059.4,-561265.27
+,30/11/2021,being bank charges overstated,bs30/11,,,0.04,-561265.23
+,31/12/2021,being bank charges paid,bs31/12,,,-2000,-563265.23
+,31/12/2021,being bank charges overstated,bs31/12,,,159.46,-563105.77
+,31/12/2021,being bank charges paid,bs31/12,,,-77784.48,-640890.25
+,31/12/2021,being bank charges paid,bs31/11,,,-0.26,-640890.51
+2201900002,MAINTENANCE OF VEHICLES,0,0,960,0,,
+,15/04/2021,Pressure for backhole loader,9719,,,-300,-300
+,1/7/2021,Tyre puncture repair,9724,,,-300,-600
+,11/8/2021,Tyre mending for 202TCE 59,9728,,,-360,-960
+2202000002,REPAIRS OF PLANT AND FIXED EQUIPMENT,0,0,2000,0,,
+,8/3/2021,Fixing doors and locks,9715,,,-2000,-2000
+2202200002,DIESEL,0,0,1800,0,,
+,29/07/2021,Fuel for road maintenance,9726,,,-1800,-1800
+2202200005,OILS,0,0,851298,0,,
+2631100004,OTHER EXPENSES,0,0,9250,0,,
+,2/3/2021,Nails for councillors' potraits,9712,,,-300,-300
+,11/5/2021,Cleaning Materials,9724,,,-2400,-2700
+,29/09/2021,electricity for Chikondoma RHC,9736,,,-6550,-9250
+3111210005,TRACTORS AND EARTHMOVING EQUIPMENT,0,0,11000000,-11000000,,
+,23/06/2021,being purchase of plant & equipment,bs23/06,,,-11000000,-11000000
+,23/06/2021,being reversal of wrong capture,bs23/06,,,11000000,0
+3122210001,MATERIALS AND SUPPLIES,0,0,960638.28,0,,
+3122400003,BUILDING MATERIALS-BUILDINGS,0,0,6082498.74,0,,
+3122500003,BUILDING MATERIALS,481074,0,481074,0,,
+3131222002,MACHINERY & EQUIPMENT NOT ELSEWHERE CLASSIFIED -,0,0,1600000,0,,
+6112100004,MOTOR VEHICLES,0,0,843223,0,,
+6112100005,TRACTORS AND EARTHMOVING EQUIPMENT,0,0,2561256,0,,
+6212100005,SOCIAL SERVICES CASH BOOK,0,-1836.96,0,-650651.52,,
+6212100006,BEER LEVY CASHBOOK,0,0,2071649,0,,
+6212100012,CDF / DEVOLUTION,0,-3052903.67,30946176.66,0,,
+6218100010,SCHOOL ADMIN FEES DEBTORS,0,0,441613,0,,
+,4/1/2021,being deposit of school administration,BS04/01,,,18000,18000
+6325100001,SURPLUS/DEFICIT,0,0,0,-16057345,,
+6325100002,RESERVES,0,0,0,-644920,,
+SEGMENT TOTALS,,-2442207.97,-4800.98,75347576.01,-93815627.23,,
+WORKS,,,,,,,
+1131000001,TAX ON IMMOVABLE PROPERTY,0,-11685,0,-8474397.01,,
+,1/4/2021,being unit tax on stand deposit,bs01/04,,,24000,24000
+,21/04/2021,being payment of unit tax on stand,bs21/04,,,64800,88800
+,29/04/2021,being payment council rates,bs29/04,,,37685,126485
+,14/05/2021,being unit tax on stand deposit,bs14/05,,,50000,176485
+,17/05/2021,being unit tax on stand deposit,bs17/05,,,12001,188486
+,18/05/2021,being unit tax on stand paid,bs18/05,,,5000,193486
+,17/06/2021,being rates received,bs17/06,,,10000,203486
+,20/07/2021,being rates deposited,bs20/07,,,4050,207536
+,7/7/2021,being unit tax on stand deposited,bs07/07,,,42000,249536
+,27/07/2021,being rates paid,bs27/07,,,5000,254536
+,27/07/2021,being rates paid,bs27/07,,,54300,308836
+,21/07/2021,being rates received,bs21/07,,,2200,311036
+,15/07/2021,being rates received,bs15/07,,,8000,319036
+,15/07/2021,being rates received,bs15/07,,,11550,330586
+,11/7/2021,being rates received,bs11/07,,,6000,336586
+,21/07/2021,being reversal of rates double capture,bs21/07,,,-2200,334386
+,6/9/2021,being rates received,bs060921,,,197456,531842
+,21/10/2021,being rates fees received,bs21/10,,,18000,549842
+,27/10/2021,being rates fees received,bs27/10,,,22688.01,572530.01
+,13/10/2021,being unit tax on stand,bs13/10,,,105600,678130.01
+,19/11/2021,being unit tax on stand paid,bs16/11,,,25000,703130.01
+,25/11/2021,being unit tax on stand,bs25/11,,,20082,723212.01
+,15/12/2021,being council rates paid,bs15/12,,,8685,731897.01
+,17/12/2021,being council rates paid,bs17/12,,,3000,734897.01
+1131000004,ASSESEMENT RATES-RESIDENTIAL,0,0,0,-10000,,
+,9/6/2021,Rec:RATES CLEARANCE,14RTRC,,,10000,10000
+1131000006,DEVELOPMENT LEVY -A1,0,0,0,-67608150,,
+,1/10/2021,being farm rates fees received,bs01/10,,,5000,5000
+,5/10/2021,being farm rates fees received,bs05/10,,,142800,147800
+1321000005,GRANTS,0,0,0,-15000000,,
+,3/11/2021,being ZINARA Funds received,bs03/11,,,15000000,15000000
+1332000001,CAPITAL GRANTS: FROM BUDGETARY CENTRAL GOVERNMENT,0,0,0,-1920000,,
+,27/04/2021,being capital grants deposit,bs27/04,,,1920000,1920000
+,27/04/2021,being reversal of wrong post,27-Apr,,,-1920000,0
+,27/04/2021,being government grants deposit,bs27/04,,,1920000,1920000
+1411100004,INTEREST - CURRENCY AND DEPOSITS,0,-1019.27,0,-3151.94,,
+,30/01/2021,interest received,IR30/21,,,4.07,4.07
+,1/3/2021,being interest received,BS01/03,,,8.91,12.98
+,31/03/2021,being cash received,bs31/03,,,9.11,22.09
+,30/04/2021,being interest received,bs30/04,,,6.08,28.17
+,30/04/2021,being interest paid,bs30/04,,,63.11,91.28
+,31/05/2021,being interest accrued,bs31/05,,,7.86,99.14
+,31/05/2021,being purchase of protective clothes,bs31/05,,,218,317.14
+,30/06/2021,being interest received,bs30/06,,,59.55,376.69
+,30/06/2021,being interest omitted,bs30/06,,,0.9,377.59
+,31/07/2021,being interest accrued,bs31/07,,,8.61,386.2
+,31/07/2021,being interest accrued,bs31/07,,,85.7,471.9
+,31/08/2021,being interest received,bs31/08,,,11.93,483.83
+,31/08/2021,being interest received,bs310821,,,1.33,485.16
+,30/09/2021,being interest received,bs30/09,,,-1578.54,-1093.38
+,30/09/2021,being interest received,bs30/09,,,-123.18,-1216.56
+,31/10/2021,being interest received,bs31/10,,,1207.09,-9.47
+,31/10/2021,being reversal intrest received,bs31/10,,,-1207.09,-1216.56
+,31/10/2021,beng being interest received,bs31/10,,,1580.55,363.99
+,30/10/2021,being interest accrued,bs30/10,,,537.91,901.9
+,30/11/2021,being interest received,bs30/11,,,321.24,1223.14
+,30/11/2021,being interest received,bs30/11,,,2602.65,3825.79
+,30/12/2021,being interest received,bs31/12,,,3621.92,7447.71
+,31/12/2021,being interest received overstated,bs31/12,,,-2602.65,4845.06
+,31/12/2021,being interest received,bs31/12,,,5955.07,10800.13
+1415000012,BILL BOARDS RENT,0,0,0,-200937.5,,
+,16/03/2021,Rec:BILL BOARD FEES,14RTBB,,,20937.5,20937.5
+,3/9/2021,Rec:BILL BOARD FEES,14RTBB,,,180000,200937.5
+1421000001,SALE OF GOODS,0,0,0,-3000,,
+,21/01/2021,Rec:SALE OF SITE PLAN,81RTSSF,,,500,500
+,28/01/2021,Rec:SALE OF SITE PLAN,81RTSSF,,,500,1000
+,29/04/2021,Rec:SALE OF SITE PLAN,14RTSSF,,,500,1500
+,17/06/2021,Rec:SALE OF SITE PLAN,15RTSSF,,,500,2000
+,4/10/2021,Rec:SALE OF SITE PLAN,36RTSSF,,,1000,3000
+,7/10/2021,Rec:SALE OF SITE PLAN,36RTSSF,,,1000,4000
+1422000017,OTHER FEES,0,0,0,-7680703.1,,
+,1/2/2021,Rec:PEGGING FEES,39RTPF,,,16534,16534
+,1/2/2021,Rec:PEGGING FEES,81RTPF,,,16342,32876
+,10/2/2021,Rec:PEGGING FEES,39RTPF,,,16342,49218
+,23/02/2021,Rec:PEGGING FEES,39RTPF,,,24500,73718
+,4/3/2021,Rec:PEGGING FEES,15RTPF,,,16000,89718
+,1/3/2021,Rec:PEGGING FEES,15RTPF,,,17000,106718
+,8/3/2021,Rec:PEGGING FEES,15RTPF,,,12000,118718
+,11/3/2021,Rec:PEGGING FEES,15RTPF,,,16776,135494
+,23/03/2021,Rec:PEGGING FEES,14RTPF,,,16796,152290
+,29/03/2021,Rec:PEGGING FEES,81RTPF,,,5000,157290
+,12/4/2021,Rec:PEGGING FEES,39RTPF,,,33560,190850
+,21/04/2021,Rec:PEGGING FEES,39RTPF,,,16824,207674
+,28/04/2021,Rec:PEGGING FEES,14RTPF,,,5000,212674
+,29/04/2021,Rec:PEGGING FEES,14RTPF,,,10000,222674
+,4/5/2021,Rec:PEGGING FEES,14RTPF,,,17000,239674
+,10/5/2021,Rec:PEGGING FEES,14RTPF,,,16824,256498
+,20/05/2021,Rec:PEGGING FEES,14RTPF,,,34800,291298
+,24/05/2021,Rec:PEGGING FEES,15RTPF,,,16926,308224
+,14/06/2021,Rec:PEGGING FEES,15RTPF,,,25236,333460
+,15/06/2021,Rec:PEGGING FEES,15RTPF,,,32155.6,365615.6
+,16/06/2021,Rec:PEGGING FEES,15RTPF,,,143004,508619.6
+,22/06/2021,Rec:PEGGING FEES,15RTPF,,,942144,1450763.6
+,24/06/2021,Rec:PEGGING FEES,15RTPF,,,34140,1484903.6
+,29/06/2021,Rec:PEGGING FEES,15RTPF,,,16824,1501727.6
+,1/7/2021,Rec:PEGGING FEES,15RTPF,,,17084,1518811.6
+,7/7/2021,Rec:PEGGING FEES,14RTPF,,,19000,1537811.6
+,16/07/2021,Rec:PEGGING FEES,36RTPF,,,6050,1543861.6
+,19/07/2021,Rec:PEGGING FEES,14RTPF,,,15390,1559251.6
+,20/07/2021,Rec:PEGGING FEES,14RTPF,,,17084,1576335.6
+,26/07/2021,Rec:PEGGING FEES,36RTPF,,,8191,1584526.6
+,27/07/2021,Rec:PEGGING FEES,36RTPF,,,17084,1601610.6
+,29/07/2021,Rec:PEGGING FEES,36RTPF,,,23000,1624610.6
+,30/07/2021,Rec:PEGGING FEES,36RTPF,,,34084,1658694.6
+,2/8/2021,Rec:PEGGING FEES,14RTPF,,,17120,1675814.6
+,4/8/2021,Rec:PEGGING FEES,14RTPF,,,32084,1707898.6
+,11/8/2021,Rec:PEGGING FEES,36RTPF,,,91752,1799650.6
+,12/8/2021,Rec:PEGGING FEES,36RTPF,,,10000,1809650.6
+,13/08/2021,Rec:PEGGING FEES,36RTPF,,,18500,1828150.6
+,16/08/2021,Rec:PEGGING FEES,14RTPF,,,5000,1833150.6
+,18/08/2021,Rec:PEGGING FEES,14RTPF,,,1336384,3169534.6
+,19/08/2021,Rec:PEGGING FEES,14RTPF,,,4000,3173534.6
+,20/08/2021,Rec:PEGGING FEES,14RTPF,,,20000,3193534.6
+,25/08/2021,Rec:PEGGING FEES,36RTPF,,,77009,3270543.6
+,27/08/2021,Rec:PEGGING FEES,36RTPF,,,8542,3279085.6
+,30/08/2021,Rec:PEGGING FEES,14RTPF,,,17128,3296213.6
+,31/08/2021,Rec:PEGGING FEES,14RTPF,,,40000,3336213.6
+,1/9/2021,Rec:PEGGING FEES,14RTPF,,,18000,3354213.6
+,6/9/2021,Rec:PEGGING FEES,36RTPF,,,5200,3359413.6
+,7/9/2021,Rec:PEGGING FEES,36RTPF,,,102968,3462381.6
+,9/9/2021,Rec:PEGGING FEES,36RTPF,,,120500,3582881.6
+,10/9/2021,Rec:PEGGING FEES,36RTPF,,,17200,3600081.6
+,13/09/2021,Rec:PEGGING FEES,14RTPF,,,10000,3610081.6
+,21/09/2021,Rec:PEGGING FEES,14RTPF,,,32200,3642281.6
+,22/09/2021,Rec:PEGGING FEES,14RTPF,,,69000,3711281.6
+,23/09/2021,Rec:PEGGING FEES,14RTPF,,,31800,3743081.6
+,27/09/2021,Rec:PEGGING FEES,14RTPF,,,27000,3770081.6
+,30/09/2021,Rec:PEGGING FEES,81RTPF,,,10000,3780081.6
+,19/10/2021,Rec:PEGGING FEES,36RTPF,,,2868690,6648771.6
+,22/10/2021,Rec:PEGGING FEES,36RTPF,,,54600,6703371.6
+,29/10/2021,Rec:PEGGING FEES,36RTPF,,,26000,6729371.6
+,1/11/2021,Rec:PEGGING FEES,36RTPF,,,4865,6734236.6
+,9/11/2021,Rec:PEGGING FEES,36RTPF,,,14595,6748831.6
+,12/11/2021,Rec:PEGGING FEES,36RTPF,,,4346.5,6753178.1
+,17/11/2021,Rec:PEGGING FEES,36RTPF,,,31707,6784885.1
+,23/11/2021,Rec:PEGGING FEES,36RTPF,,,15000,6799885.1
+,29/11/2021,Rec:PEGGING FEES,36RTPF,,,10000,6809885.1
+,6/12/2021,Rec:PEGGING FEES,36RTPF,,,21136,6831021.1
+,9/12/2021,Rec:PEGGING FEES,36RTPF,,,10000,6841021.1
+,13/12/2021,Rec:PEGGING FEES,36RTPF,,,21138,6862159.1
+,17/12/2021,Rec:PEGGING FEES,36RTPF,,,294025,7156184.1
+,20/12/2021,Rec:PEGGING FEES,36RTPF,,,123480,7279664.1
+1422000018,SURVEY FEES,0,0,0,-2000,,
+,5/3/2021,Rec:SHOWING OF STANDS,15RTSOS,,,500,500
+,5/7/2021,Rec:SHOWING OF STANDS,14RTSOS,,,500,1000
+,28/09/2021,Rec:SHOWING OF STANDS,14RTSOS,,,1000,2000
+1422000028,APPLICATION FEES/WAITING LIST,0,0,0,-660113,,
+,4/1/2021,Rec:STAND APPLICATION,13RTSAP,,,2042.75,2042.75
+,7/1/2021,Rec:STAND APPLICATION,13RTSAP,,,2042.75,4085.5
+,8/1/2021,Rec:STAND APPLICATION,13RTSAP,,,2042.75,6128.25
+,21/01/2021,Rec:STAND APPLICATION,81RTSAP,,,7000,13128.25
+,29/01/2021,Rec:STAND APPLICATION,81RTSAP,,,5719.7,18847.95
+,3/2/2021,Rec:STAND APPLICATION,39RTSAP,,,1000,19847.95
+,12/2/2021,Rec:STAND APPLICATION,39RTSAP,,,2000,21847.95
+,8/2/2021,Rec:STAND APPLICATION,39RTSAP,,,1000,22847.95
+,24/02/2021,Rec:STAND APPLICATION,39RTSAP,,,2000,24847.95
+,9/3/2021,Rec:STAND APPLICATION,15RTSAP,,,2000,26847.95
+,10/3/2021,Rec:STAND APPLICATION,15RTSAP,,,5000,31847.95
+,23/03/2021,Rec:STAND APPLICATION,14RTSAP,,,12500,44347.95
+,31/03/2021,Rec:STAND APPLICATION,81RTSAP,,,2000,46347.95
+,22/03/2021,being deposit of application fees,bs22/03,,,12500,58847.95
+,6/4/2021,Rec:STAND APPLICATION,81RTSAP,,,5000,63847.95
+,9/4/2021,Rec:STAND APPLICATION,81RTSAP,,,65000,128847.95
+,16/04/2021,Rec:STAND APPLICATION,39RTSAP,,,1000,129847.95
+,11/5/2021,Rec:STAND APPLICATION,14RTSAP,,,5000,134847.95
+,12/5/2021,Rec:LEASE APPLICATION,14RTLAF,,,4000,138847.95
+,24/05/2021,Rec:STAND APPLICATION,15RTSAP,,,84120,222967.95
+,9/6/2021,Rec:STAND APPLICATION,14RTSAP,,,10000,232967.95
+,18/06/2021,Rec:STAND APPLICATION,15RTSAP,,,5000,237967.95
+,11/6/2021,Rec:STAND APPLICATION,14RTSAP,,,5000,242967.95
+,21/07/2021,Rec:STAND APPLICATION,14RTSAP,,,5000,247967.95
+,22/07/2021,Rec:STAND APPLICATION,14RTSAP,,,5000,252967.95
+,23/07/2021,Rec:STAND APPLICATION,14RTSAP,,,10000,262967.95
+,29/07/2021,Rec:LEASE APPLICATION,36RTLAF,,,20000,282967.95
+,30/07/2021,Rec:LEASE APPLICATION,36RTLAF,,,10000,292967.95
+,19/08/2021,Rec:STAND APPLICATION,14RTSAP,,,5000,297967.95
+,23/08/2021,Rec:LEASE APPLICATION,36RTLAF,,,1500,299467.95
+,24/08/2021,Rec:STAND APPLICATION,36RTSAP,,,1000,300467.95
+,2/9/2021,Rec:STAND APPLICATION,14RTSAP,,,5000,305467.95
+,8/9/2021,Rec:LEASE APPLICATION,36RTLAF,,,35332,340799.95
+,10/9/2021,Rec:STAND APPLICATION,36RTSAP,,,5000,345799.95
+,22/09/2021,Rec:STAND APPLICATION,14RTSAP,,,5000,350799.95
+,23/09/2021,Rec:STAND APPLICATION,14RTSAP,,,5000,355799.95
+,27/09/2021,Rec:STAND APPLICATION,14RTSAP,,,10000,365799.95
+,30/09/2021,Rec:LEASE APPLICATION,81RTLAF,,,26000,391799.95
+,1/10/2021,Rec:LEASE APPLICATION,81RTLAF,,,45000,436799.95
+,4/10/2021,Rec:LEASE APPLICATION,81RTLAF,,,7998,444797.95
+,12/10/2021,Rec:LEASE APPLICATION,36RTLAF,,,35332,480129.95
+,15/10/2021,Rec:STAND APPLICATION,36RTSAP,,,15000,495129.95
+,22/10/2021,Rec:LEASE APPLICATION,36RTLAF,,,1000,496129.95
+,22/10/2021,Rec:STAND APPLICATION,36RTSAP,,,10000,506129.95
+,28/10/2021,Rec:STAND APPLICATION,36RTSAP,,,5000,511129.95
+,3/11/2021,Rec:LEASE APPLICATION,36RTLAF,,,35332,546461.95
+,4/11/2021,Rec:STAND APPLICATION,36RTSAP,,,5000,551461.95
+,5/11/2021,Rec:STAND APPLICATION,36RTSAP,,,15000,566461.95
+,10/11/2021,Rec:STAND APPLICATION,36RTSAP,,,40000,606461.95
+,16/11/2021,Rec:STAND APPLICATION,36RTSAP,,,10000,616461.95
+,17/11/2021,Rec:LEASE APPLICATION,36RTLAF,,,31499,647960.95
+,19/11/2021,Rec:STAND APPLICATION,36RTSAP,,,5000,652960.95
+,24/11/2021,Rec:LEASE APPLICATION,36RTLAF,,,30000,682960.95
+,7/12/2021,Rec:LEASE APPLICATION,36RTLAF,,,5000,687960.95
+,14/12/2021,Rec:STAND APPLICATION,36RTSAP,,,5000,692960.95
+,29/12/2021,Rec:LEASE APPLICATION,36RTLAF,,,46499,739459.95
+,30/12/2021,Rec:LEASE APPLICATION,36RTLAF,,,57064,796523.95
+,30/12/2021,Rec:STAND APPLICATION,36RTSAP,,,15000,811523.95
+1422000029,BUILDING ADMINSTRATION FEES,0,0,0,-7907017.2,,
+,11/1/2021,Rec:INSPECTION FEES,13RTINF,,,10000,10000
+,13/01/2021,Rec:INSPECTION FEES,13RTINF,,,10000,20000
+,20/01/2021,Rec:INSPECTION FEES,81RTINF,,,10000,30000
+,28/01/2021,Rec:INSPECTION FEES,81RTINF,,,10000,40000
+,9/2/2021,Rec:INSPECTION FEES,39RTINF,,,5000,45000
+,11/2/2021,Rec:INSPECTION FEES,39RTINF,,,5000,50000
+,4/2/2021,Rec:PLAN APPROVAL FEES,39RTPAF,,,10000,60000
+,8/2/2021,Rec:INSPECTION FEES,39RTINF,,,5000,65000
+,8/2/2021,Rec:PLAN APPROVAL FEES,39RTPAF,,,10000,75000
+,23/02/2021,Rec:BUILDERS REGISTRATION,39RTBR,,,4941.25,79941.25
+,23/02/2021,Rec:PLAN APPROVAL FEES,39RTPAF,,,14991.25,94932.5
+,24/02/2021,Rec:PLAN APPROVAL FEES,39RTPAF,,,6000,100932.5
+,10/3/2021,Rec:INSPECTION FEES,15RTINF,,,10000,110932.5
+,17/03/2021,Rec:INSPECTION FEES,14RTINF,,,8000,118932.5
+,17/03/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,8000,126932.5
+,18/03/2021,Rec:INSPECTION FEES,14RTINF,,,8000,134932.5
+,22/03/2021,Rec:INSPECTION FEES,14RTINF,,,16000,150932.5
+,22/03/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,160932.5
+,23/03/2021,Rec:INSPECTION FEES,14RTINF,,,8000,168932.5
+,23/03/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,178932.5
+,26/03/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,188932.5
+,29/03/2021,Rec:PLAN APPROVAL FEES,81RTPAF,,,8000,196932.5
+,30/03/2021,Rec:PLAN APPROVAL FEES,81RTPAF,,,24000,220932.5
+,6/4/2021,Rec:INSPECTION FEES,81RTINF,,,10000,230932.5
+,12/4/2021,Rec:INSPECTION FEES,39RTINF,,,20000,250932.5
+,14/04/2021,Rec:INSPECTION FEES,39RTINF,,,5000,255932.5
+,16/04/2021,Rec:BUILDERS REGISTRATION,39RTBR,,,5000,260932.5
+,16/04/2021,Rec:INSPECTION FEES,39RTINF,,,672960,933892.5
+,21/04/2021,Rec:INSPECTION FEES,39RTINF,,,10000,943892.5
+,21/04/2021,Rec:PLAN APPROVAL FEES,39RTPAF,,,25000,968892.5
+,26/04/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,978892.5
+,28/04/2021,Rec:INSPECTION FEES,14RTINF,,,8000,986892.5
+,29/04/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,996892.5
+,4/5/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,1006892.5
+,5/5/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,22729.6,1029622.1
+,10/5/2021,Rec:INSPECTION FEES,14RTINF,,,8000,1037622.1
+,10/5/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,8000,1045622.1
+,14/05/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,12000,1057622.1
+,18/05/2021,Rec:INSPECTION FEES,14RTINF,,,16000,1073622.1
+,18/05/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,12000,1085622.1
+,19/05/2021,Rec:INSPECTION FEES,14RTINF,,,6729.6,1092351.7
+,19/05/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,20000,1112351.7
+,21/05/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,16000,1128351.7
+,24/05/2021,Rec:PLAN APPROVAL FEES,15RTPAF,,,841200,1969551.7
+,26/05/2021,Rec:PLAN APPROVAL FEES,15RTPAF,,,10000,1979551.7
+,28/05/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,8000,1987551.7
+,2/6/2021,Rec:INSPECTION FEES,14RTINF,,,8000,1995551.7
+,7/6/2021,Rec:INSPECTION FEES,14RTINF,,,8000,2003551.7
+,14/06/2021,Rec:INSPECTION FEES,15RTINF,,,28000,2031551.7
+,15/06/2021,Rec:INSPECTION FEES,15RTINF,,,10000,2041551.7
+,15/06/2021,Rec:PLAN APPROVAL FEES,15RTPAF,,,12000,2053551.7
+,16/06/2021,Rec:INSPECTION FEES,15RTINF,,,841200,2894751.7
+,16/06/2021,Rec:PLAN APPROVAL FEES,15RTPAF,,,18000,2912751.7
+,17/06/2021,Rec:INSPECTION FEES,15RTINF,,,10000,2922751.7
+,17/06/2021,Rec:PLAN APPROVAL FEES,15RTPAF,,,10000,2932751.7
+,23/06/2021,Rec:INSPECTION FEES,15RTINF,,,20000,2952751.7
+,23/06/2021,Rec:PLAN APPROVAL FEES,15RTPAF,,,8000,2960751.7
+,25/06/2021,Rec:INSPECTION FEES,15RTINF,,,841200,3801951.7
+,28/06/2021,Rec:INSPECTION FEES,15RTINF,,,10000,3811951.7
+,30/06/2021,Rec:INSPECTION FEES,15RTINF,,,10000,3821951.7
+,1/7/2021,Rec:INSPECTION FEES,15RTINF,,,30000,3851951.7
+,1/7/2021,Rec:PLAN APPROVAL FEES,15RTPAF,,,8000,3859951.7
+,2/7/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,3869951.7
+,6/7/2021,Rec:INSPECTION FEES,14RTINF,,,8000,3877951.7
+,6/7/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,8000,3885951.7
+,16/07/2021,Rec:INSPECTION FEES,36RTINF,,,10000,3895951.7
+,16/07/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,3905951.7
+,19/07/2021,Rec:INSPECTION FEES,14RTINF,,,34000,3939951.7
+,19/07/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,24000,3963951.7
+,20/07/2021,Rec:INSPECTION FEES,14RTINF,,,8000,3971951.7
+,20/07/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,18000,3989951.7
+,22/07/2021,Rec:INSPECTION FEES,14RTINF,,,8000,3997951.7
+,22/07/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,4007951.7
+,28/07/2021,Rec:INSPECTION FEES,36RTINF,,,10000,4017951.7
+,29/07/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,8000,4025951.7
+,2/8/2021,Rec:INSPECTION FEES,14RTINF,,,10000,4035951.7
+,3/8/2021,Rec:INSPECTION FEES,14RTINF,,,8000,4043951.7
+,3/8/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,8000,4051951.7
+,4/8/2021,Rec:INSPECTION FEES,14RTINF,,,10000,4061951.7
+,4/8/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,1281300,5343251.7
+,12/8/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,38000,5381251.7
+,13/08/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,15000,5396251.7
+,17/08/2021,Rec:INSPECTION FEES,14RTINF,,,48000,5444251.7
+,17/08/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,44000,5488251.7
+,18/08/2021,Rec:INSPECTION FEES,14RTINF,,,19000,5507251.7
+,18/08/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,18000,5525251.7
+,19/08/2021,Rec:INSPECTION FEES,14RTINF,,,855200,6380451.7
+,20/08/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,6390451.7
+,23/08/2021,Rec:INSPECTION FEES,36RTINF,,,8000,6398451.7
+,23/08/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,6408451.7
+,24/08/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,6418451.7
+,26/08/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,6428451.7
+,27/08/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,30000,6458451.7
+,30/08/2021,Rec:INSPECTION FEES,14RTINF,,,20000,6478451.7
+,30/08/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,6488451.7
+,1/9/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,10000,6498451.7
+,3/9/2021,Rec:INSPECTION FEES,14RTINF,,,10000,6508451.7
+,6/9/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,6518451.7
+,8/9/2021,Rec:INSPECTION FEES,36RTINF,,,10000,6528451.7
+,9/9/2021,Rec:BUILDERS REGISTRATION,36RTBR,,,5000,6533451.7
+,9/9/2021,Rec:INSPECTION FEES,36RTINF,,,30000,6563451.7
+,10/9/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,25000,6588451.7
+,13/09/2021,Rec:INSPECTION FEES,14RTINF,,,10000,6598451.7
+,13/09/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,18000,6616451.7
+,14/09/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,53000,6669451.7
+,15/09/2021,Rec:INSPECTION FEES,14RTINF,,,10000,6679451.7
+,16/09/2021,Rec:INSPECTION FEES,14RTINF,,,10000,6689451.7
+,17/09/2021,Rec:INSPECTION FEES,14RTINF,,,10000,6699451.7
+,20/09/2021,Rec:INSPECTION FEES,14RTINF,,,20000,6719451.7
+,20/09/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,26000,6745451.7
+,22/09/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,26000,6771451.7
+,23/09/2021,Rec:INSPECTION FEES,14RTINF,,,10000,6781451.7
+,23/09/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,15000,6796451.7
+,24/09/2021,Rec:INSPECTION FEES,14RTINF,,,20000,6816451.7
+,27/09/2021,Rec:PLAN APPROVAL FEES,14RTPAF,,,28000,6844451.7
+,29/09/2021,Rec:INSPECTION FEES,81RTINF,,,20000,6864451.7
+,30/09/2021,Rec:INSPECTION FEES,81RTINF,,,10000,6874451.7
+,30/09/2021,Rec:PLAN APPROVAL FEES,81RTPAF,,,30000,6904451.7
+,1/10/2021,Rec:INSPECTION FEES,81RTINF,,,10000,6914451.7
+,4/10/2021,Rec:INSPECTION FEES,36RTINF,,,20000,6934451.7
+,4/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,6944451.7
+,5/10/2021,Rec:INSPECTION FEES,36RTINF,,,10000,6954451.7
+,5/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,8000,6962451.7
+,6/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,6972451.7
+,7/10/2021,Rec:INSPECTION FEES,36RTINF,,,10000,6982451.7
+,11/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,33500,7015951.7
+,12/10/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7035951.7
+,12/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,15000,7050951.7
+,13/10/2021,Rec:INSPECTION FEES,36RTINF,,,25000,7075951.7
+,14/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,25000,7100951.7
+,15/10/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7120951.7
+,15/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,7130951.7
+,18/10/2021,Rec:INSPECTION FEES,36RTINF,,,30000,7160951.7
+,18/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,22000,7182951.7
+,19/10/2021,Rec:INSPECTION FEES,36RTINF,,,30000,7212951.7
+,19/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,26000,7238951.7
+,20/10/2021,Rec:INSPECTION FEES,36RTINF,,,30000,7268951.7
+,20/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,32000,7300951.7
+,21/10/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7320951.7
+,21/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,20000,7340951.7
+,22/10/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7350951.7
+,26/10/2021,Rec:INSPECTION FEES,36RTINF,,,85998,7436949.7
+,26/10/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,7446949.7
+,27/10/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7456949.7
+,28/10/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7466949.7
+,2/11/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7476949.7
+,2/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,7486949.7
+,4/11/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7496949.7
+,4/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,32000,7528949.7
+,5/11/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7548949.7
+,8/11/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7558949.7
+,9/11/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7578949.7
+,9/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,16000,7594949.7
+,15/11/2021,Rec:INSPECTION FEES,36RTINF,,,30000,7624949.7
+,15/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,18000,7642949.7
+,16/11/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7662949.7
+,16/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,7672949.7
+,17/11/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7692949.7
+,17/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,12000,7704949.7
+,18/11/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7724949.7
+,18/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,18000,7742949.7
+,19/11/2021,Rec:INSPECTION FEES,36RTINF,,,20000,7762949.7
+,22/11/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7772949.7
+,23/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,50000,7822949.7
+,26/11/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7832949.7
+,26/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,30000,7862949.7
+,29/11/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,78000,7940949.7
+,1/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,11000,7951949.7
+,3/12/2021,Rec:INSPECTION FEES,36RTINF,,,10000,7961949.7
+,6/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,40000,8001949.7
+,7/12/2021,Rec:INSPECTION FEES,36RTINF,,,10000,8011949.7
+,8/12/2021,Rec:INSPECTION FEES,36RTINF,,,20000,8031949.7
+,8/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,36000,8067949.7
+,9/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,12000,8079949.7
+,14/12/2021,Rec:INSPECTION FEES,36RTINF,,,10000,8089949.7
+,14/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,12000,8101949.7
+,15/12/2021,Rec:INSPECTION FEES,36RTINF,,,20000,8121949.7
+,15/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,25000,8146949.7
+,21/12/2021,Rec:INSPECTION FEES,36RTINF,,,20000,8166949.7
+,21/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,20000,8186949.7
+,28/12/2021,Rec:INSPECTION FEES,36RTINF,,,2000,8188949.7
+,29/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,8198949.7
+,30/12/2021,Rec:INSPECTION FEES,36RTINF,,,15000,8213949.7
+,30/12/2021,Rec:PLAN APPROVAL FEES,36RTPAF,,,10000,8223949.7
+1422000035,PARKING FEES-REVENUE,0,0,0,-4068836,,
+,28/01/2021,Rec:CESSION FEES,81RTCF,,,30000,30000
+,8/2/2021,Rec:CESSION FEES,39RTCF,,,25000,55000
+,17/02/2021,Rec:CESSION FEES,39RTCF,,,30000,85000
+,4/3/2021,Rec:CESSION FEES,15RTCF,,,60000,145000
+,11/3/2021,Rec:CESSION FEES,15RTCF,,,20000,165000
+,16/03/2021,Rec:CESSION FEES,14RTCF,,,10000,175000
+,17/03/2021,Rec:CESSION FEES,14RTCF,,,20000,195000
+,22/03/2021,Rec:CESSION FEES,14RTCF,,,5000,200000
+,30/03/2021,Rec:CESSION FEES,81RTCF,,,30000,230000
+,7/4/2021,Rec:CESSION FEES,81RTCF,,,20000,250000
+,4/5/2021,Rec:CESSION FEES,14RTCF,,,25236,275236
+,11/5/2021,Rec:CESSION FEES,14RTCF,,,30000,305236
+,21/05/2021,Rec:CESSION FEES,14RTCF,,,20000,325236
+,24/05/2021,Rec:CESSION FEES,15RTCF,,,20000,345236
+,31/05/2021,Rec:CESSION FEES,14RTCF,,,20000,365236
+,1/6/2021,Rec:CESSION FEES,14RTCF,,,20000,385236
+,3/6/2021,Rec:CESSION FEES,14RTCF,,,35000,420236
+,4/6/2021,Rec:CESSION FEES,14RTCF,,,20000,440236
+,10/6/2021,Rec:CESSION FEES,14RTCF,,,30000,470236
+,16/06/2021,Rec:CESSION FEES,15RTCF,,,30000,500236
+,22/06/2021,Rec:CESSION FEES,15RTCF,,,2523600,3023836
+,24/06/2021,Rec:CESSION FEES,15RTCF,,,25000,3048836
+,29/06/2021,Rec:CESSION FEES,15RTCF,,,50000,3098836
+,11/6/2021,Rec:CESSION FEES,14RTCF,,,10000,3108836
+,5/7/2021,Rec:CESSION FEES,14RTCF,,,30000,3138836
+,12/7/2021,Rec:CESSION FEES,36RTCF,,,20000,3158836
+,14/07/2021,Rec:CESSION FEES,36RTCF,,,35000,3193836
+,21/07/2021,Rec:CESSION FEES,14RTCF,,,20000,3213836
+,29/07/2021,Rec:CESSION FEES,36RTCF,,,30000,3243836
+,30/07/2021,Rec:CESSION FEES,36RTCF,,,5000,3248836
+,3/8/2021,Rec:CESSION FEES,14RTCF,,,50000,3298836
+,16/08/2021,Rec:CESSION FEES,14RTCF,,,30000,3328836
+,31/08/2021,Rec:CESSION FEES,14RTCF,,,20000,3348836
+,6/9/2021,Rec:CESSION FEES,36RTCF,,,35000,3383836
+,8/9/2021,Rec:CESSION FEES,36RTCF,,,40000,3423836
+,16/09/2021,Rec:CESSION FEES,14RTCF,,,20000,3443836
+,23/09/2021,Rec:CESSION FEES,14RTCF,,,30000,3473836
+,27/09/2021,Rec:CESSION FEES,14RTCF,,,20000,3493836
+,28/09/2021,Rec:CESSION FEES,14RTCF,,,30000,3523836
+,29/09/2021,Rec:CESSION FEES,81RTCF,,,30000,3553836
+,1/10/2021,Rec:CESSION FEES,81RTCF,,,30000,3583836
+,6/10/2021,Rec:CESSION FEES,36RTCF,,,60000,3643836
+,11/10/2021,Rec:CESSION FEES,36RTCF,,,35000,3678836
+,19/10/2021,Rec:CESSION FEES,36RTCF,,,35000,3713836
+,21/10/2021,Rec:CESSION FEES,36RTCF,,,20000,3733836
+,22/10/2021,Rec:CESSION FEES,36RTCF,,,20000,3753836
+,26/10/2021,Rec:CESSION FEES,36RTCF,,,55000,3808836
+,27/10/2021,Rec:CESSION FEES,36RTCF,,,10000,3818836
+,28/10/2021,Rec:CESSION FEES,36RTCF,,,30000,3848836
+,1/11/2021,Rec:CESSION FEES,36RTCF,,,50000,3898836
+,2/11/2021,Rec:CESSION FEES,36RTCF,,,20000,3918836
+,4/11/2021,Rec:CESSION FEES,36RTCF,,,20000,3938836
+,8/11/2021,Rec:CESSION FEES,36RTCF,,,35000,3973836
+,15/11/2021,Rec:CESSION FEES,36RTCF,,,50000,4023836
+,22/11/2021,Rec:CESSION FEES,36RTCF,,,40000,4063836
+,23/11/2021,Rec:CESSION FEES,36RTCF,,,20000,4083836
+,25/11/2021,Rec:CESSION FEES,36RTCF,,,30000,4113836
+,29/11/2021,Rec:CESSION FEES,36RTCF,,,20000,4133836
+,3/12/2021,Rec:CESSION FEES,36RTCF,,,20000,4153836
+,7/12/2021,Rec:CESSION FEES,36RTCF,,,20000,4173836
+,9/12/2021,Rec:CESSION FEES,36RTCF,,,30000,4203836
+,10/12/2021,Rec:CESSION FEES,36RTCF,,,35000,4238836
+,13/12/2021,Rec:CESSION FEES,36RTCF,,,20000,4258836
+,14/12/2021,Rec:CESSION FEES,36RTCF,,,20000,4278836
+,16/12/2021,Rec:CESSION FEES,36RTCF,,,65000,4343836
+,28/12/2021,Rec:CESSION FEES,36RTCF,,,51000,4394836
+,30/12/2021,Rec:CESSION FEES,36RTCF,,,65000,4459836
+1422000037,BUS LEVY AND PARKING,0,0,0,-259944.47,,
+,6/1/2021,Rec:BUS LEVY & PARKING FEES,37RTBLW,,,48617.45,48617.45
+,26/04/2021,Rec:Bus Levy & Parking,37RTBLP,,,5720.16,54337.61
+,5/5/2021,Rec:Bus Levy & Parking,37RTBLP,,,55182.72,109520.33
+,12/5/2021,Rec:Bus Levy & Parking,37RTBLP,,,35246.28,144766.61
+,17/05/2021,Rec:Bus Levy & Parking,37RTBLP,,,24394.8,169161.41
+,31/05/2021,Rec:Bus Levy & Parking,37RTBLP,,,27507.24,196668.65
+,17/06/2021,Rec:Bus Levy & Parking,37RTBLP,,,38947.56,235616.21
+,24/06/2021,Rec:Bus Levy & Parking,37RTBLP,,,4144.2,239760.41
+,16/08/2021,Rec:Bus Levy & Parking,37RTBLP,,,6200,245960.41
+,26/08/2021,Rec:Bus Levy & Parking,37RTBLP,,,5800,251760.41
+,1/9/2021,Rec:Bus Levy & Parking,37RTBLP,,,6200,257960.41
+,17/09/2021,Rec:Bus Levy & Parking,37RTBLP,,,31700,289660.41
+1425200001,SALE OF  COMMERCIAL STAND,0,0,0,-5322356.96,,
+,7/7/2021,being sale of stand fees,bs07/07,,,2740000,2740000
+,11/10/2021,being sale of commercial stand fees.,bs11/10,,,2582356.96,5322356.96
+1425200002,SALE OF INSTITUTIONAL STAND,0,0,0,-396050,,
+,15/09/2021,being sale of stand fees received,bs15/21,,,120000,120000
+,22/09/2021,being sale of stand fees received,bs22/09,,,105000,225000
+,28/09/2021,being sale of stand fees received,bs28/09,,,291050,516050
+,15/09/2021,being reversal of sale of stand,bs15/09,,,-120000,396050
+1425200003,SALE OF RESIDENTIAL STAND,0,-54330,0,-169955,,
+,5/1/2021,being deposit of land sale,BS01/21,,,543350,543350
+,5/1/2021,being reversal of land sale,BS01/21,,,-543350,0
+,23/06/2021,being land sale fees,bs23/06,,,102000,102000
+,21/06/2021,being land sale fees,bs21/06,,,44625,146625
+,13/12/2021,being sale of stand fees,bs13/12,,,54330,200955
+1425300001,SEWER CHARGES,0,0,0,-6000,,
+,9/4/2021,Rec:SEWER CONNECTION FEES,81RTSCF,,,6000,6000
+1425300005,REFUSE CHARGES,0,0,0,-7859840,,
+1430000008,ENVIRONMENT,0,0,0,-2080,,
+,16/02/2021,Rec:BRICK MOULDING,39RTBMD,,,1084,1084
+,19/05/2021,Rec:BRICK MOULDING,14RTBMD,,,500,1584
+,20/05/2021,Rec:BRICK MOULDING,14RTBMD,,,540,2124
+,30/08/2021,Rec:BRICK MOULDING,14RTBMD,,,1040,3164
+,14/12/2021,Rec:FEES &FINES,36RTFF,,,10000,13164
+,23/12/2021,Rec:FEES &FINES,36RTFF,,,12000,25164
+2200100008,PRINTING SERVICES,0,0,200,0,,
+,4/3/2021,Scanning of Chidzidzi Site plan,10006,,,-200,-200
+2200100011,TELEPHONE-MOBILE,0,0,2350,0,,
+,25/03/2021,Airtime for office use,10013,,,-500,-500
+,4/3/2021,Airtime for office use,10015,,,-500,-1000
+,27/07/2021,Airtime for office use,10048,,,-1000,-2000
+,17/08/2021,Airtime for office use,10048,,,-350,-2350
+2200600002,"COMPUTER CONSUMABLES, ACCESSORIES & SUPPLIES",0,0,69600,0,,
+,22/09/2021,purchase of cartridges,12062,,,-69600,-69600
+2200600004,STATIONERY SUPPLIES,0,0,2589.8,0,,
+,9/7/2021,Stationery,10038,,,-1939.8,-1939.8
+,5/8/2021,Rubber bands,10048,,,-650,-2589.8
+2200700006,CONFERENCES,0,0,300000,0,,
+,22/10/2021,conference fees,12083,,,-35000,-35000
+2200800002,TRAINING - TRAVEL EXPENSES,0,0,16000,0,,
+,13/07/2021,allowances for attending meetings,10041,,,-18810,-18810
+,22/07/2021,camping allowances,10043,,,-6848,-25658
+,4/8/2021,road maintenance supervision,10049,,,-16740,-42398
+,14/09/2021,ferrying bricks for Chikukwa Hall,12053,,,-8000,-50398
+,24/09/2021,"camping allowance, road maintenance",12065,,,-12000,-62398
+,24/09/2021,camping allowance(Chikukwa hall),12064,,,-16000,-78398
+,27/09/2021,camping allowance culvert constr.Kapondo,12069,,,-8000,-86398
+2200900001,"DOMESTIC ALLOWANCES FOR ACCOMODATION, MEALS ETC",0,0,114112.8,0,,
+,9/6/2021,Refreshments- Special Finance Meeting,10027,,,-2325,-2325
+,24/06/2021,Councillors' refreshments,10032,,,-2000,-4325
+,25/10/2021,Annual general conf. for engineers,12084,,,-70000,-74325
+,13/12/2021,Road maintenance(Matedza- Makora),10766,,,-10000,-84325
+,13/12/2021,transporting riversand Kapondoro,10766,,,-10000,-94325
+,13/12/2021,transporting riversand Kapondoro,10766,,,-10000,-104325
+2200900006,DOMESTIC ALLOWANCES -OTHERS,10000,0,352069.29,0,,
+,19/03/2021,being staff T&S,bs19/03,,,-1258.2,-1258.2
+,19/03/2021,being staff T&S,bs19/03,,,-1258.2,-2516.4
+,3/3/2021,Headman's T&S,10006,,,-57,-2573.4
+,5/3/2021,Headman's T&S,10006,,,-1045,-3618.4
+,22/07/2021,being councilors T&S,bs22/07,,,-2557.2,-6175.6
+,1/10/2021,transportation of building material Jemb,12071,,,-9562.3,-15737.9
+,7/10/2021,submission of bank documents-Stan Chart,12074,,,-9102.94,-24840.84
+,12/10/2021,camping allowances-road rehab-Matedza,12077,,,-20000,-44840.84
+,27/10/2021,refreshments for councillors meetings,12090,,,-12461,-57301.84
+,28/10/2021,councillors' sitting allowance,12092,,,-43677,-100978.84
+,29/10/2021,councillors' sitting allowances,12095,,,-32052.9,-133031.74
+,21/10/2021,culverts construction Kapondoro road,12081,,,-12000,-145031.74
+,22/10/2021,ferrying bricks for Nyamakosi clinic,12082,,,-16000,-161031.74
+,22/10/2021,being councilors T&S paid,bs22/10,,,-62500,-223531.74
+,3/11/2021,councillors' sitting allowances,12095,,,-32052.9,-255584.64
+,1/11/2021,allowances for ferrying clinic materials,12096,,,-8000,-263584.64
+,1/11/2021,allowances for ferrying clinic materials,12096,,,-8000,-271584.64
+,1/11/2021,construction of septic tank at Bepeta RH,12096,,,-12000,-283584.64
+,1/11/2021,rural shop licensing,12097,,,-9713,-293297.64
+,3/11/2021,allowances rural shop licencing,12097,,,-9713,-303010.64
+,3/11/2021,trip to Chivhu with CEO,12097,,,-14976.05,-317986.69
+,3/11/2021,trip to Harare for banking purpose,12097,,,-1942.6,-319929.29
+,16/11/2021,attending schools admin issues in distri,10757,,,-15744,-335673.29
+,16/11/2021,trip to Harare(transfering patient to Pa,10758,,,-6396,-342069.29
+,7/12/2021,road maitenance Matedza-Makora Rd,10765,,,-10000,-352069.29
+2201100002,ELECTRICITY,0,0,2000,0,,
+,29/07/2021,Payment of electricity,10046,,,-2000,-2000
+2201300001,REFUNDS - REVENUE,0,0,18000,0,,
+,29/10/2021,Land development levy refund,12094,,,-9000,-9000
+,3/11/2021,refund on overpayment of Land dev levy,12094,,,-9000,-18000
+2201400003,BANK TRANSACTION FEES,164718.31,0,358359.66,0,,
+,31/01/2021,Bank Charges,BC01/21,,,-1750.61,-1750.61
+,31/01/2021,being income received but not categorise,bs31/01,,,-1600,-3350.61
+,27/02/2021,being bank charges,BS27/30,,,-4751.34,-8101.95
+,31/03/2021,being bank charges paid,bs31/03,,,-6057.69,-14159.64
+,1/3/2021,being bank charges paid,bs01/03,,,-1227.18,-15386.82
+,30/04/2021,being bank charges paid,bs30/04,,,-3500,-18886.82
+,30/04/2021,being bank charges paid,bs30/04,,,-0.91,-18887.73
+,30/04/2021,being bank charges paid,bs30/04,,,-2282.29,-21170.02
+,31/05/2021,being bank charges paid,bs31/05,,,-3401.18,-24571.2
+,31/05/2021,being bank charges paid,bs31/21,,,-32031.95,-56603.15
+,31/05/2021,being correction of error on bank charge,bs31/05,,,0.04,-56603.11
+,30/06/2021,being bank charges paid,bs30/06,,,-9932.6,-66535.71
+,30/06/2021,being bank c harges paid,bs30/06,,,-7661.65,-74197.36
+,31/07/2021,being bank charges received,bs31/07,,,-7873.79,-82071.15
+,31/07/2021,being bank charges paid,bs31/07,,,-92626.56,-174697.71
+,31/07/2021,being bank charges paid,bs31/07,,,-50.39,-174748.1
+,31/07/2021,being bank charges paid,bs07/21,,,-76050,-250798.1
+,31/07/2021,being bank charges paid,bs31/07,,,-1028.09,-251826.19
+,31/08/2021,being bank charges paid,bs31/08,,,-7679.59,-259505.78
+,31/08/2021,being bank charges,bs31/08,,,-800.2,-260305.98
+,30/09/2021,being bank charges paid,bs30/09,,,-16602.84,-276908.82
+,30/09/2021,being correction of bank charges,bs30/09,,,282,-276626.82
+,31/10/2021,being bank charges paid,bs31/10,,,-1580.55,-278207.37
+,31/10/2021,being reversal on bank charges,bs31/10.,,,1580.55,-276626.82
+,31/10/2021,beng bank charges paid,bs31/10,,,-1207.09,-277833.91
+,30/10/2021,being bank charges paid,bs30/10,,,-60475.29,-338309.2
+,30/11/2021,being bank charges paid,bs30/11,,,-74612.79,-412921.99
+,30/11/2021,being bank charges overstated,bs30/11,,,5712.12,-407209.87
+,30/11/2021,being bank charges paid,bs30/11,,,-158074.1,-565283.97
+,30/11/2021,being bank charges overstated,bs30/11,,,0.03,-565283.94
+,30/11/2021,being bank charges wrongly posted,bs30/11,,,47682.71,-517601.23
+,31/12/2021,being bank charges paid,bs31/12,,,-12657.83,-530259.06
+,30/11/2021,being bank charges paid,bs30/11,,,-47682.71,-577941.77
+,31/12/2021,being bank charges paid,bs31/12,,,-47682.71,-625624.48
+,31/12/2021,being bank charges paid,bs31/12,,,-69352.89,-694977.37
+2201400009,LEGAL FEES,0,0,114803.2,0,,
+,28/07/2021,legal fees,10045,,,-44750,-44750
+,26/08/2021,"Court case Kadiki vs Jena ,Mutoko RDC",10045,,,-44750,-89500
+,14/08/2021,being reversal of legal fees,bs14/08,,,44696.8,-44803.2
+,29/10/2021,legal services,12093,,,-70000,-114803.2
+2201700002,ROAD MAINTENANCE,0,0,1024920,0,,
+2201900001,MAINTENANCE OF MOBILE EQUIPMENT,66776,0,66776,0,,
+,3/3/2021,Backhoe Core Seal,10006,,,-500,-500
+2201900002,MAINTENANCE OF VEHICLES,199500,0,199500,0,,
+2202000002,REPAIRS OF PLANT AND FIXED EQUIPMENT,0,0,508533.59,0,,
+,3/6/2021,being repairs and maintainance paid,vn9478,,,-76800,-76800
+2202200003,PETROL,0,0,596060,0,,
+2202200005,OILS,0,0,450148,0,,
+2631100004,OTHER EXPENSES,0,0,2992,0,,
+,3/3/2021,Staple pins and Drwaing pins,10006,,,-192,-192
+,18/03/2021,Purchase of bulbs,10008,,,-900,-1092
+,24/03/2021,Purchase of cellotape,10013,,,-500,-1592
+,1/4/2021,Purchase of mops,10015,,,-1400,-2992
+3111120003,INSTITUTIONAL BUILDINGS,0,0,24000,0,,
+,27/09/2021,Quarry stones for public toilet,12067,,,-24000,-24000
+3111130011,WATER RETICULATION SYSTEM,0,0,3110000,0,,
+,8/7/2021,purchase of drill rig truck,10037,,,-2530000,-2530000
+,9/7/2021,purchase of drill rig truck,10039,,,-450000,-2980000
+,27/07/2021,purchase of drill rig,10044,,,-130000,-3110000
+3112500002,CASUAL LABOURERS,0,0,12533.77,0,,
+,23/04/2021,being payment of salaries&wages,bs23/04,,,-12533.77,-12533.77
+3112500003,BUILDING MATERIALS,107920,0,107920,0,,
+3112500008,ROAD SURFACING MATERIALS,0,0,1075720,0,,
+3112500012,FUEL-DIESEL AND PETROL-OTHER STRUCTURES,0,0,998725.61,0,,
+3112500013,T AND S ALLOWANCES-OTHER STRUCTURES,0,0,45225,0,,
+3112500015,HIRE OF VEHICLES-OTHER STRUCTURES,1375000,0,1375000,0,,
+3122500008,ROAD SURFACING MATERIALS,3400000,0,5350000,0,,
+3131130003,BRIDGES,0,0,71400,0,,
+,3/11/2021,purchase of cement for culverts &repairs,12099,,,-71400,-71400
+6112100004,MOTOR VEHICLES,0,0,3124090,0,,
+6112100005,TRACTORS AND EARTHMOVING EQUIPMENT,0,0,600000,0,,
+6112210001,"INFORMATION, COMPUTER & TELECOMMUNICATION (ICT) EQUIPMENT",0,0,2096973,0,,
+6212100010,WORKS & PLANNING CASH BOOK,0,-432310.61,60533867.19,0,,
+6212100011,ZINARA ROADS CASH BOOK,0,-5343319.84,623126,-411808.29,,
+6218100015,UNIT TAX -STANDS DEBTORS,0,0,46188483.22,0,,
+,11/2/2021,being unit tax on stand,BS11/02,,,3700,3700
+6218100016,REFUSE DEBTORS,0,0,7170457.96,0,,
+6218100017,SEWERAGE DEBTORS,0,0,0,-7200,,
+6218100018,PEGGING FEES,0,0,796958,0,,
+6218100019,LAND SALES DEBTORS,0,0,0,-3687437.4,,
+6318200007,VAT PROVISION - DEBTORS,0,0,90390.79,0,,
+6318200008,VAT PAYABLE,0,0,0,-89477.75,,
+6325100001,SURPLUS/DEFICIT,0,0,0,-11321154,,
+6325100002,RESERVES,0,0,0,-5149948,,
+SEGMENT TOTALS,,4952028.5,-5416309.18,141424929,-148229408.1,,
+EMA,,,,,,,
+1131000006,DEVELOPMENT LEVY -A1,0,0,0,-5608,,
+,1/3/2021,Farm Rates,018FTMC21060101,,,1500,1500
+,29/03/2021,land development levy,32929850000,,,2608,4108
+1131000008,DEVELOPMENT LEVY -COMMUNAL,0,0,0,-8175,,
+,17/03/2021,being deposit of development levy,bs17/03,,,1775,1775
+,18/08/2021,being communal levy paid,pos18/08,,,6400,8175
+1131000010,DEVELOPMENT LEVY- RESETTLEMENT,0,0,0,-90074,,
+,11/3/2021,being deposit of farmrates,bs11/21,,,9100,9100
+,15/03/2021,being deposit of farm rates,bs15/03,,,7275,16375
+,16/03/2021,being deposit of development levies,bs16/03,,,3000,19375
+,18/03/2021,being deposit of development levies,bs18/03,,,7200,26575
+,26/03/2021,being deposit of development levies,bs26/03,,,59699,86274
+,19/03/2021,being development levy deposit,bs19/03,,,2300,88574
+,22/03/2021,being deposit of farm rates,bs22/03,,,1500,90074
+1145210008,UNCATEGORISED INCOME,0,0,0,-1157,,
+,31/05/2021,being income received but not categorise,bs31/05,,,1157,1157
+1411100004,INTEREST - CURRENCY AND DEPOSITS,0,-31.48,0,-50137.93,,
+,31/01/2021,interest received,int31/01/21,,,88.23,88.23
+,27/02/2021,Intrest Received,int27/02/21,,,7.85,96.08
+,31/03/2021,intrest received,int31/03/21,,,2.38,98.46
+,1/4/2021,intrest received,int01/04/21,,,2.38,100.84
+,1/4/2021,intrest received -contra enry,int01/04/21,,,-2.38,98.46
+,30/04/2021,Intrest Received,intrest30/04/21,,,5.6,104.06
+,28/04/2021,RBZ Retention Entry - USD conversion,103CHDP21118002,,,2427.61,2531.67
+,31/05/2021,being interest received,bs31/05,,,9.17,2540.84
+,31/07/2021,being interest received,bs31/07,,,35.07,2575.91
+,31/08/2021,being interest received,bs31/08,,,47316.17,49892.08
+,31/08/2021,being interest received,bs31/08,,,64.25,49956.33
+,31/10/2021,being interest accrued,bs31/10,,,87.01,50043.34
+,30/11/2021,being interest received,bs30/11,,,63.11,50106.45
+,31/12/2021,being interest received,bs31/12,,,31.48,50137.93
+1422000022,GENERAL AGRICULTURE FEES,0,0,0,-276901.41,,
+,27/01/2021,Rec:LIVESTOCK LEVY,81RTLL,,,300,300
+,2/3/2021,Rec:LIVESTOCK LEVY,15RTLL,,,6000,6300
+,28/05/2021,Rec:STRAY CATTLE SALES,37RTSCS,,,86391.24,92691.24
+,1/6/2021,Rec:STRAY CATTLE SALES,37RTSCS,,,156715.56,249406.8
+,26/08/2021,Rec:STRAY CATTLE SALES,81RTSCS,,,22294.62,271701.42
+,6/10/2021,Rec:LIVESTOCK LEVY,36RTLL,,,5500,277201.42
+1430000008,ENVIRONMENT,0,0,0,-14920.6,,
+,7/1/2021,Rec:FEES &FINES,13RTFF,,,50,50
+,1/3/2021,Rec:FEES &FINES,15RTFF,,,2500,2550
+,18/05/2021,Rec:FEES &FINES,14RTFF,,,5000,7550
+,20/05/2021,Rec:FEES &FINES,14RTFF,,,500,8050
+,27/05/2021,Rec:FEES &FINES,14RTFF,,,1500,9550
+,28/05/2021,Rec:FEES &FINES,14RTFF,,,420.6,9970.6
+,2/6/2021,Rec:FEES &FINES,14RTFF,,,5000,14970.6
+1430000009,OTHER PENALTIES AND FINES,0,0,0,-5000,,
+2200100001,PUBLIC RELATIONS & ADVERTISING,0,0,50500,0,,
+,20/10/2021,tender advert for supply of building mat,10615,,,-50500,-50500
+2200100003,INTERNET,0,0,100000,0,,
+,15/10/2021,internet services,10658,,,-100000,-100000
+2200100011,TELEPHONE-MOBILE,0,0,4500,0,,
+,26/04/2021,Airtime for office use,9617,,,-500,-500
+,27/04/2021,Airtime for office use,9617,,,-500,-1000
+,2/6/2021,Airtime for office use,9632,,,-500,-1500
+,25/08/2021,Airtime for office use,12014,,,-500,-2000
+,20/08/2021,Airtime for office work,12014,,,-500,-2500
+,17/08/2021,Airtime for office use,9650,,,-650,-3150
+,15/07/2021,Airtime for office use,9650,,,-1000,-4150
+,19/07/2021,Airtime for office use,9650,,,-350,-4500
+2200300004,GIFTS AND DONATIONS,0,0,20000,0,,
+,14/05/2021,donation to ZANU PF,9623,,,-20000,-20000
+2200600002,"COMPUTER CONSUMABLES, ACCESSORIES & SUPPLIES",0,0,70880,0,,
+,26/08/2021,Pig feeds for IGP-Piggery,10514,,,-70880,-70880
+2200600004,STATIONERY SUPPLIES,0,0,3305,0,,
+,30/07/2021,Bond Paper,9647,,,-1700,-1700
+,19/07/2021,Bond Paper,9637,,,-1605,-3305
+2200800002,TRAINING - TRAVEL EXPENSES,0,0,348141.66,0,,
+,1/6/2021,WILGF meeting in Chikomba,9625,,,-33210.66,-33210.66
+,22/07/2021,stray auction fees,9642,,,-21784,-54994.66
+,28/07/2021,allowances for interviewers,9646,,,-34668,-89662.66
+,25/08/2021,For Simac training in Harare,10507,,,-32325,-121987.66
+,25/08/2021,constituency visit Mutoko North,10509,,,-14161.95,-136149.61
+,3/9/2021,attending mining disputes meetings,10520,,,-8564,-144713.61
+,14/09/2021,sitting allowances,10525,,,-15480,-160193.61
+,14/09/2021,sitting allowance,10528,,,-2580,-162773.61
+,22/09/2021,sitting allowances,10532,,,-53992.5,-216766.11
+,23/09/2021,interview panelist-HRA post,10534,,,-39780,-256546.11
+,27/09/2021,allowances for rural rates collection,10536,,,-18966.2,-275512.31
+,27/09/2021,allowances HRA interview panelist,10535,,,-4741.55,-280253.86
+,27/09/2021,attending meeting in Harare,10538,,,-27900,-308153.86
+,29/09/2021,allowances,10542,,,-39987.8,-348141.66
+2200900001,"DOMESTIC ALLOWANCES FOR ACCOMODATION, MEALS ETC",20000,0,79267,0,,
+,24/06/2021,Councillors' refreshments,9632,,,-1000,-1000
+,13/10/2021,By-law review workshop in Harare,10657,,,-21502,-22502
+,26/10/2021,attending workshop in Chiredzi & Mwenezi,10662,,,-36765,-59267
+,17/12/2021,camping allowances Bepeta RHC,10688,,,-20000,-79267
+2200900004,TOLL/PARKING FEES,0,0,328,0,,
+,23/04/2021,Toll'gate Fees,9617,,,-328,-328
+2200900006,DOMESTIC ALLOWANCES -OTHERS,10000,0,521488.3,0,,
+,17/03/2021,Lunch allowances for Simaac trainers,9616,,,-1800,-1800
+,4/3/2021,Headman's T&S,9616,,,-200,-2000
+,26/08/2021,being staff T&S paid,10511,,,-32325,-34325
+,3/9/2021,being staff T&S paid,bs03/09,,,-8564,-42889
+,4/10/2021,councillors' sitting allowances,10547,,,-81533.1,-124422.1
+,4/10/2021,refreshments budget consultation,10548,,,-80985,-205407.1
+,4/10/2021,refreshments budget consultation,10548,,,-73350,-278757.1
+,11/10/2021,sale of stray cattle allowances,10653,,,-8855,-287612.1
+,11/10/2021,councillors' sitting allowances,10651,,,-13282.5,-300894.6
+,11/10/2021,camping allowances-road rehab-Kapondoro,10652,,,-8000,-308894.6
+,15/10/2021,councillors' sitting allowances,10659,,,-12843,-321737.6
+,1/1/2021,being staff T&S paid,bs01/01,,,-7758,-329495.6
+,5/11/2021,councillors' sitting allowances,10665,,,-17802,-347297.6
+,8/11/2021,councillors' sitting allowances,10664,,,-97525.5,-444823.1
+,9/11/2021,councillors' sitting allowances,10667,,,-47091,-491914.1
+,9/11/2021,provincial chapter meeting Chikomba,10670,,,-13846,-505760.1
+,17/11/2021,councillor's sitting allowance,10682,,,-5728.2,-511488.3
+,31/12/2021,being staff t&s paid,bs31/12,,,-10000,-521488.3
+2201100002,ELECTRICITY,0,0,7500,0,,
+,24/06/2021,Electricity bulbs,9632,,,-500,-500
+2201200001,STOCK FEED,0,0,40680,0,,
+,14/06/2021,Piggery crash,9629,,,-1800,-1800
+,31/07/2021,being stock feed paid,10514,,,-38880,-40680
+2201400003,BANK TRANSACTION FEES,38223.75,0,391439.21,0,,
+,26/01/2021,commision charged,30004114,,,-500,-500
+,31/01/2021,bank charges,bank31/01/21,,,-2938.23,-3438.23
+,31/01/2021,Bank charges,Bank31/01/21,,,-50,-3488.23
+,28/02/2021,Bank Charges,bank28/02/21,,,-16342.51,-19830.74
+,28/02/2021,Bank Charges- Contra entry,Bank28/02/21,,,16342.51,-3488.23
+,28/02/2021,Bank Charges,Bank28/02/21,,,-15342.51,-18830.74
+,31/03/2021,bank charges,bc31/03/21,,,-2100.36,-20931.1
+,30/04/2021,Bank charges,bank31/04/21,,,-4650.84,-25581.94
+,31/05/2021,being bank charges paid,bs31/05,,,-6601.38,-32183.32
+,30/06/2021,being bank charges paid,bs30/06,,,-17564.21,-49747.53
+,30/06/2021,being bank charges paid,bs30/06,,,-3004.08,-52751.61
+,31/07/2021,being bank charges paid,bs31/07,,,-60025.55,-112777.16
+,31/07/2021,being bank chgarges paid,bs31/07,,,-3000,-115777.16
+,31/08/2021,being bank charges paid,bs31/08,,,-52916.21,-168693.37
+,30/09/2021,being bank charges paid,bs30/09,,,-96362.83,-265056.2
+,31/10/2021,being bank charges paid,bs31/10,,,-81151.05,-346207.25
+,26/10/2021,being bank charges paid,bs26/10,,,-250,-346457.25
+,31/10/2021,being bank charges paid,bs31/10,,,-5254.95,-351712.2
+,31/10/2021,being bank charges paid,bs31/10,,,-3254.95,-354967.15
+,30/11/2021,being bank charges paid,bs30/11,,,-58273.86,-413241.01
+,31/12/2021,being bank charges paid,bs31/12,,,-36055.51,-449296.52
+,31/12/2021,being bank charges paid,bs31/12,,,-2168.24,-451464.76
+2201400006,CONSULTANCY FEES/EXTRANOEUS PROFESSIONAL SERVICES,0,0,163000,0,,
+,25/10/2021,Simacc system upgrading & Training,10660,,,-100000,-100000
+,5/11/2021,upgradig Simacc system &training,10666,,,-63000,-163000
+2201400009,LEGAL FEES,0,0,149875,0,,
+,13/10/2021,legal service on labour cases,10655,,,-100000,-100000
+,13/10/2021,Kadiki VS Cllr Jena & Mutoko RDC case,10656,,,-49875,-149875
+2201900002,MAINTENANCE OF VEHICLES,0,0,760,0,,
+,26/04/2021,Vehicle Tyre Mending,9617,,,-300,-300
+,26/04/2021,Vehicle Tyre Mending,9617,,,-300,-600
+,30/07/2021,Repair of tyres,9647,,,-160,-760
+2202000002,REPAIRS OF PLANT AND FIXED EQUIPMENT,0,0,228000,0,,
+,27/07/2021,purchase of drill rig,9645,,,-120000,-120000
+,29/09/2021,servicing of vehicle Isuzu AAE9013,10541,,,-108000,-228000
+2202200002,DIESEL,0,0,600,0,,
+,11/8/2021,Fuel,12014,,,-600,-600
+2202200003,PETROL,0,0,249000,0,,
+,12/7/2021,bulk fuel purchase for council use,9639,,,-121000,-121000
+,27/07/2021,bulk fuel purchase for council use,9644,,,-63000,-184000
+,23/08/2021,bulk fuel purchase for council use,10480,,,-65000,-249000
+2202300001,LOCAL SUBSCRIPTIONS,0,0,95458.05,0,,
+,27/09/2021,affiliation fees,10537,,,-95458.05,-95458.05
+2202300002,FOREIGN SUBSCRIPTIONS,0,0,380000,0,,
+,10/11/2021,subscriptions to NEC,10679,,,-30000,-30000
+,10/11/2021,subscriptions to ZRDCWU,10674,,,-100000,-130000
+,10/11/2021,PAYE (ZIMRA),10675,,,-200000,-330000
+,10/11/2021,subscription to ZIMDEF,10678,,,-50000,-380000
+2631100004,OTHER EXPENSES,74200,0,804447.09,0,,
+,22/07/2021,food hamper for council staff,9641,,,-318395.69,-318395.69
+,26/07/2021,Bicycle Parts,9637,,,-500,-318895.69
+,25/08/2021,airtime,10510,,,-2000,-320895.69
+,8/9/2021,food hamper for council staff for June,10522,,,-383751.4,-704647.09
+,30/09/2021,Pig feeds for IGP-Piggerry,10543,,,-25600,-730247.09
+,14/12/2021,padlocks for security(rural shops),10687,,,-74200,-804447.09
+3112210001,MATERIALS AND SUPPLIES,0,0,52600,0,,
+,4/10/2021,purchase of materials for Agric show,10549,,,-52600,-52600
+6212100007,EMMA CASH BOOK,12449.77,0,3193246.06,0,,
+6218100012,LAND DEV LEVY DEBTORS,0,0,0,-6196414.26,,
+6218100013,IRRIGATION DEV LEVY DEBTORS,0,0,0,-38000,,
+6318200009,ASSOCIATION OF RURAL DISTRICT COUNCILS,0,0,100000,0,,
+,10/11/2021,subscriptions to ARDCZ,10677,,,-100000,-100000
+6318200011,LOANS,0,0,568801.74,0,,
+6325100001,SURPLUS/DEFICIT,0,0,0,-3889454,,
+SEGMENT TOTALS,,167531.35,-31.48,7696500.49,-10587642.2,,
+GRAND TOTALS,,21151577.75,-21151577.75,785649619.9,-791958589.9,,
+DIFF,, ,0, ,-6308970,,

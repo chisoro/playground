@@ -1,0 +1,25 @@
+[DEVELOPMENT DATABASE
+
+-------------EOD----------------
+
+     Operator: 1  Receipt Date: 25/12/19
+
+-----------COLLECTION SUMMARY----------
+
+
+DESCRIPTION                AMOUNT BANK
+-------------------- ------------ --------------------
+RTGS STANCHART FINA      1045.75  STANCHART - FINANCE
+-------------------- ------------
+Total Collections        1045.75
+Voids                       0.00
+
+
+
+
+
+
+
+
+
+i
