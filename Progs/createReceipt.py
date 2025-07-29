@@ -213,6 +213,8 @@ def zx_report(deviceid,version,modname,refile,client_cert,client_key,server_cert
     serial = data["EOD"]["serial"]
     sales = data["EOD"]["Sales"]
     h = dataFormat.format_sales_eod(sales)
+
+    
     """
     "receiptCounter": 10,
     "opened": "07/07/25",

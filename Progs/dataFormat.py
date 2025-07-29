@@ -66,6 +66,10 @@ def format_sales_eod(sales):
         result += sale_by_tax_by_tax + tax_cur + tax_percent + tax_amount
 
     print(result, result1)
+    result2 = result + result1
+
+    return result2
+
 
 def format_receipt_taxes(taxes):
     def sort_key(t):
