@@ -1,0 +1,113 @@
+{
+  "receipt": {
+    "receiptType": "FiscalInvoice",
+    "receiptCurrency": "ZWG",
+    "receiptCounter": 1,
+    "receiptGlobalNo": 1000000123,
+    "invoiceNo": "INV-12345",
+    "fiscalDayNo": 10,
+    "deviceSerialNo": "DEV-CHIT-0001",
+    "deviceID": 123456789,
+    "receiptDate": "2025-07-03T14:55:00",
+
+    
+    "sellerData": {
+      "taxpayerName": "Chitungwiza City Council",
+      "taxpayerTIN": "200012345",
+      "vatNumber": "10000000",
+      "deviceBranchName": "Revenue Office",
+      "deviceBranchAddress": "Stand No. 1000, Zengeza 1, Chitungwiza",
+      "deviceBranchContacts": {
+        "email": "accounts@chitungwizacc.gov.zw",
+        "phoneNo": "0242-212345"
+      }
+    },
+
+    "buyerData": {
+      "buyerRegisterName": "MR FRANOS ZIVANOMOYO",
+      "buyerTradeName": "MR FRANOS ZIVANOMOYO",
+      "vatNumber": "0",
+      "buyerTIN": "0",
+      "buyerContacts": {
+        "phoneNo": "0772884713",
+        "email": "franos.ziva@example.com"
+      },
+      "buyerAddress": {
+        "province": "Harare",
+        "city": "Chitungwiza",
+        "street": "T KUBATANA STR",
+        "houseNo": "16411",
+        "district": "Seke"
+      }
+    },
+
+    "receiptLinesTaxInclusive": true,
+    "receiptLines": [
+      {
+        "receiptLineType": "Sale",
+        "receiptLineNo": 1,
+        "receiptLineCode": "900",
+        "receiptLineName": "RATES RECEIPT",
+        "receiptLinePrice": 93.27,
+        "receiptLineQuantity": 1,
+        "receiptLineTotal": 93.27,
+        "taxCode": "B",
+        "taxPercent": 0,
+        "taxID": 2,
+        "taxAmount": 0.00
+      },
+      {
+        "receiptLineType": "Sale",
+        "receiptLineNo": 2,
+        "receiptLineCode": "901",          
+        "receiptLineName": "REFUSE RECEIPT",
+        "receiptLinePrice": 166.35,
+        "receiptLineQuantity": 1,
+        "receiptLineTotal": 166.35,
+        "taxCode": "C",
+        "taxPercent": 15,
+        "taxID": 3,
+        "taxAmount": 24.96
+      },
+      {
+        "receiptLineType": "Sale",
+        "receiptLineNo": 3,
+        "receiptLineCode": "902",
+        "receiptLineName": "WATER-HD RECEIPT",
+        "receiptLinePrice": 113.58,
+        "receiptLineQuantity": 1,
+        "receiptLineTotal": 113.58,
+        "taxCode": "B",
+        "taxPercent": 0,
+        "taxID": 2,
+        "taxAmount": 0.00
+      }
+    ],
+
+    "receiptTaxes": [
+      {
+        "taxCode": "B",
+        "taxPercent": 0,
+        "taxID": 2,
+        "taxAmount": 0.00,
+        "salesAmountWithTax": 206.85
+      },
+      {
+        "taxCode": "C",
+        "taxPercent": 15,
+        "taxID": 3,
+        "taxAmount": 24.96,
+        "salesAmountWithTax": 166.35
+      }
+    ],
+
+    "receiptPayments": [
+      {
+        "moneyTypeCode": "Cash",
+        "paymentAmount": 373.20
+      }
+    ],
+
+    "receiptTotal": 373.20
+  }
+}

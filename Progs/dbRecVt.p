@@ -1466,7 +1466,12 @@ PROCEDURE send-trans:
               END.
               IF ActionCode = 'DECLINE' THEN DO:
                        varAmount = DEC(SAmount) / 100.
-                       MESSAGE "Transaction Declined" VIEW-AS ALERT-BOX.
+                       FIND FIRST eftResponse WHERE  eftResponse.res_cd = ResponseCode NO-LOCK NO-ERROR.
+                       IF NOT AVAILABLE eftResponse THEN
+                            MESSAGE "Transaction Declined" VIEW-AS ALERT-BOX.
+                       IF AVAILABLE eftResponse THEN
+                            MESSAGE "Transaction Declined. " + eftResponse.descrip VIEW-AS ALERT-BOX.
+
                         ASSIGN wsTitle = "RECEIPT"
                    wsCashier =  STRING(DATE(VarDate),"99/99/9999")
                    + "  TIME: " + substr(string(time,"HH:MM:SS"),1,5)
