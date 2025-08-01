@@ -9,6 +9,17 @@ from flask import Flask, render_template, request, url_for, redirect, session, j
 import requests
 import dataFormat
 from cryptography.hazmat.primitives import serialization
+import json
+import hashlib
+import base64
+from cryptography.hazmat.primitives import hashes
+from cryptography.hazmat.primitives.asymmetric import ec
+from cryptography.hazmat.primitives.asymmetric.utils import encode_dss_signature
+from cryptography.hazmat.primitives.asymmetric import padding
+from datetime import datetime
+import generate_ZReport
+import generate_invoiceA4
+import generate_receipt48
 
 
 def generate_signature_and_hash(receipt, private_key):
@@ -134,7 +145,28 @@ def on_receipt(deviceid,version,modname,refile,client_cert,client_key,server_cer
               }
             }
 
-    try:
+    payload1 = {
+        "receipt":rec,
+        "receiptDeviceSignature": {
+          "hash": receipt_hash,
+          "signature": receipt_signature
+        }
+    }
+    with open(file_path, 'w') as json_file:
+        json.dump(payload1, json_file, indent=4)
+
+    if receiptPrintForm == "Receipt48" and receiptType in ("FiscalTaxInvoice", "FiscalInvoice"):
+        generate_receipt48.gen_report(receipt_path, refile)
+    elif receiptPrintForm == "InvoiceA4" and receiptType in ("FiscalTaxInvoice", "FiscalInvoice"):
+        generate_invoiceA4.gen_report(receipt_path, refile)
+    elif receiptPrintForm == "Receipt48" and receiptType in ("CreditNote", "DebitNote"):
+        generate_receipt48.gen_report48(receipt_path, refile)
+    else:
+        generate_invoiceA4.gen_reportA4(receipt_path, refile)
+
+
+
+    '''try:
         response = requests.post(
             url,
             headers=headers,
@@ -153,7 +185,8 @@ def on_receipt(deviceid,version,modname,refile,client_cert,client_key,server_cer
 
     except Exception as e:
         return jsonify([{'rsMessage': str(e)}]), 500  # Return error as JSON
-
+    '''
+    return payload1
 
 
 def of_receipt(deviceid,version,modname,refile,client_cert,client_key,server_cert,link,receipt_path):
@@ -205,52 +238,113 @@ def zx_report(deviceid,version,modname,refile,client_cert,client_key,server_cert
     with open(file_path, 'r') as file:
         data = json.load(file)
 
+    with open(client_key, "rb") as key_file:
+        private_key = serialization.load_pem_private_key(
+            key_file.read(),
+            password=None
+        )
 
     fiscalDayNo_str = data["EOD"]["fiscalDayNo"]
     deviceID_upper = data["EOD"]["deviceID"].upper()
-    fiscalDayDate = dataFormat.format_receipt_date(data["EOD"]["opened"])
+    fiscalDayDate = dataFormat.format_receipt_date1(data["EOD"]["opened"])
+    #fiscalDayClosed = dataFormat.format_receipt_date(data["EOD"]["closed"])
+    fiscalDayClosed = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
+
+    reconciliationMode = "MANUAL".upper()
     receiptCounter = data["EOD"]["receiptCounter"]
     serial = data["EOD"]["serial"]
     sales = data["EOD"]["Sales"]
-    h = dataFormat.format_sales_eod(sales)
+    sales_by_currency = data["EOD"]["SalesByCurrency"]
+    sale_by_tax, sale_by_tax_by_tax = dataFormat.format_sales_eod(sales)
+    balance_by_money_type = dataFormat.format_sales_mt(sales_by_currency)
 
-    
-    """
-    "receiptCounter": 10,
-    "opened": "07/07/25",
-    "closed": "22/07/25",
-    "serial":
-    """
+    fields = []
+    fields.append(str(deviceID_upper))
+    fields.append(str(fiscalDayNo_str))
+    fields.append(str(fiscalDayDate))
+    fields.append(str(sale_by_tax))
+    fields.append(str(sale_by_tax_by_tax))
+    fields.append(str(balance_by_money_type))
 
-
-    hashstring = str(deviceID_upper) + str(fiscalDayNo_str) + str(fiscalDayDate)
-
-    hashstring1 = str(deviceID_upper) + str(fiscalDayNo_str) + str(fiscalDayDate) +"2025-07-07T22:21:14AUTO"
-
-    # Compute SHA256 hash and base64 encode
-    sha256_hash = hashlib.sha256(hashstring.encode('utf-8')).digest()
-    base64_hash = base64.b64encode(sha256_hash).decode('utf-8')
+    concatenated = dataFormat.concatenate_fields(fields)
 
 
+    eod_hash = dataFormat.generate_hash(concatenated)
 
-    sha256_hash1 = hashlib.sha256(hashstring1.encode('utf-8')).digest()
-    base64_hash1 = base64.b64encode(sha256_hash1).decode('utf-8')
+
+    fields = []
+    fields.append(str(deviceID_upper))
+    fields.append(str(fiscalDayNo_str))
+    fields.append(str(fiscalDayDate))
+    fields.append(str(fiscalDayClosed))
+    fields.append(str(reconciliationMode))
+    fields.append(str(sale_by_tax))
+    fields.append(str(sale_by_tax_by_tax))
+    fields.append(str(balance_by_money_type))
+
+    concatenated = dataFormat.concatenate_fields(fields)
+
+    print(concatenated)
+    eod_hash1 = dataFormat.generate_hash(concatenated)
+    eod_sign = dataFormat.sign_concatenated_string(private_key, eod_hash1)
 
 
     # Prepare fiscalDayDeviceSignature per spec
     fiscalDayDeviceSignature = {
-        "hash": base64_hash,
-        "signature": base64_hash1
+        "hash": eod_hash,
+        "signature": eod_sign
     }
 
     # According to spec, omit zero-value counters or send empty list
     fiscalDayCounters = []
+    #hashstring = str(deviceID_upper) + str(fiscalDayNo_str) + str(fiscalDayDate)
+
+    #hashstring1 = str(deviceID_upper) + str(fiscalDayNo_str) + str(fiscalDayDate) +"2025-07-07T22:21:14AUTO"
+
+    # Compute SHA256 hash and base64 encode
+    #sha256_hash = hashlib.sha256(hashstring.encode('utf-8')).digest()
+    #base64_hash = base64.b64encode(sha256_hash).decode('utf-8')
+
+
+
+    #sha256_hash1 = hashlib.sha256(hashstring1.encode('utf-8')).digest()
+    #base64_hash1 = base64.b64encode(sha256_hash1).decode('utf-8')
+
+
+    # Prepare fiscalDayDeviceSignature per spec
+    #fiscalDayDeviceSignature = {
+        #"hash": eod_hash,
+        #"signature": base64_hash1
+    #}
 
     # Prepare data to send with correct fields
-    data = {
+    payload = {
         "fiscalDayNo": int(fiscalDayNo_str),
         "fiscalDayCounters": fiscalDayCounters,
         "fiscalDayDeviceSignature": fiscalDayDeviceSignature,
-        "receiptCounter": 0
+        "receiptCounter": receiptCounter
     }
-    return jsonify(data)
+    #return jsonify(data)
+
+
+    try:
+        response = requests.post(
+            url,
+            headers=headers,
+            json=payload,
+            cert=(server_cert, client_key),
+            verify=False
+
+        )
+
+        #print(data)
+        printjob = generate_ZReport.gen_report(receipt_path,refile)
+        # Check if the response is empty or not and return accordingly
+        if response.status_code != 200:
+            return jsonify([{'rsMessage': "We cannot reach the API."}]), response.status_code
+
+        print(response.json())
+        return jsonify(response.json())  # Return JSON response
+
+    except Exception as e:
+        return jsonify([{'rsMessage': str(e)}]), 500  # Return error as JSON

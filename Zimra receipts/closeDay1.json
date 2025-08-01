@@ -1,0 +1,164 @@
+{
+  "EOD": {
+    "fiscalDayNo": 1,
+    "receiptCounter": 10,
+    "opened": "07/07/25",
+    "closed": "22/07/25",
+    "deviceID": "19794",
+    "serial": "city-vic-falls-1",
+    "sellerData": {
+      "sellerRegisterName": "City of Victoria Falls",
+      "sellerTradeName": "City of Victoria Falls",
+      "sellervatNumber": "220068562",
+      "sellerTIN": "2000040776",
+      "sellerContacts": {
+           "sellerHouse": "P.o. Box 41",
+           "sellerStreet": "Livingstone Way",
+           "sellerCity": "Victoria Fall",
+           "sellerDistrict": "",
+           "sellerProvince": "Matebeleland North",
+           "sellerphoneNo": "0773885331",
+           "selleremail": "mmlotshwa@vfm.co.zw"
+       }
+    },
+    "Sales": [
+      {
+        "taxCode": "",
+        "taxPercent": 15,
+        "taxID": 3,
+        "taxCur": "USD",
+        "taxAmount": 4.16,
+        "salesAmountWithTax": 31.87
+      }
+,
+      {
+        "taxCode": "",
+        "taxPercent": 0,
+        "taxID": 2,
+        "taxCur": "USD",
+        "taxAmount": 0,
+        "salesAmountWithTax": 34.13
+      }
+,
+      {
+        "taxCode": "",
+        "taxPercent": 0,
+        "taxID": 2,
+        "taxCur": "ZAR",
+        "taxAmount": 0,
+        "salesAmountWithTax": 465.41
+      }
+,
+      {
+        "taxCode": "",
+        "taxPercent": 15,
+        "taxID": 3,
+        "taxCur": "ZAR",
+        "taxAmount": 56.69,
+        "salesAmountWithTax": 434.59
+      }
+,
+      {
+        "taxCode": "",
+        "taxPercent": 0,
+        "taxID": 2,
+        "taxCur": "ZWG",
+        "taxAmount": 0,
+        "salesAmountWithTax": 517.12
+      }
+,
+      {
+        "taxCode": "",
+        "taxPercent": 15,
+        "taxID": 3,
+        "taxCur": "ZWG",
+        "taxAmount": 62.98,
+        "salesAmountWithTax": 482.88
+      }
+    ],
+    "SalesByCurrency": [
+      {
+        "taxCur": "USD",
+        "taxMoney":"CASH",
+        "taxAmount": 4.16,
+        "salesAmountWithTax": 66
+      }
+,
+      {
+        "taxCur": "ZAR",
+        "taxMoney":"CASH",
+        "taxAmount": 56.69,
+        "salesAmountWithTax": 900
+      }
+,
+      {
+        "taxCur": "ZWG",
+        "taxMoney":"CASH",
+        "taxAmount": 62.98,
+        "salesAmountWithTax": 1000
+      }
+    ],
+    "CreditNotes": [
+    ],
+    "DebitNotes": [
+    ],
+    "DayQuantities": [
+      {
+        "taxCur": "USD",
+        "Amount": 66,
+        "Quantity": 3,
+        "Type": "Invoice"
+      },
+      {
+        "taxCur": "USD",
+        "Amount": 0,
+        "Quantity": 0,
+        "Type": "Credit"
+      },
+      {
+        "taxCur": "USD",
+        "Amount": 0,
+        "Quantity": 0,
+        "Type": "Debit"
+      }
+,
+      {
+        "taxCur": "ZAR",
+        "Amount": 900,
+        "Quantity": 3,
+        "Type": "Invoice"
+      },
+      {
+        "taxCur": "ZAR",
+        "Amount": 0,
+        "Quantity": 0,
+        "Type": "Credit"
+      },
+      {
+        "taxCur": "ZAR",
+        "Amount": 0,
+        "Quantity": 0,
+        "Type": "Debit"
+      }
+,
+      {
+        "taxCur": "ZWG",
+        "Amount": 1000,
+        "Quantity": 4,
+        "Type": "Invoice"
+      },
+      {
+        "taxCur": "ZWG",
+        "Amount": 0,
+        "Quantity": 0,
+        "Type": "Credit"
+      },
+      {
+        "taxCur": "ZWG",
+        "Amount": 0,
+        "Quantity": 0,
+        "Type": "Debit"
+      }
+    ]
+    }
+    }

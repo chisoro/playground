@@ -60,7 +60,7 @@ def get_open(deviceid,model,version,dnumber,fdOpen):
 
 @app.route('/onlinerec/<deviceid>/<version>/<modname>/<refile>', methods=['GET'])
 def onlinereceipt(deviceid,version,modname,refile):
-    r = createReceipt.on_receipt(deviceid,version,modname,refile,client_cert,client_key,server_cert,link)
+    r = createReceipt.on_receipt(deviceid,version,modname,refile,client_cert,client_key,server_cert,link,receipt_path)
     return r
 
 @app.route('/offlinerec/<deviceid>/<version>/<modname>/<refile>', methods=['GET'])
@@ -73,12 +73,12 @@ def closeday(deviceid, version, modname, refile):
     r = createReceipt.zx_report(deviceid,version,modname,refile,client_cert,client_key,server_cert,link,receipt_path)
     return r
 
-'''
+
 @app.route('/print/<filename>', methods=['GET'])
 def f_printout(filename):
-    r = printout.re_print(filename,receipt_path,default)
+    r = printout.re_print(filename,receipt_path)
     return r
-'''
+
 
 if __name__ == '__main__':
     #app.run(debug=True)

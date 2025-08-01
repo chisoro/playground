@@ -46,6 +46,12 @@ def format_receipt_date(day):
     rd = rd.isoformat()
     return rd
 
+def format_receipt_date1(day):
+    date_format = "%d/%m/%y"
+    rd = datetime.strptime(day, date_format).strftime('%Y-%m-%d')
+    #rd = rd.isoformat()
+    return rd
+
 def format_sales_eod(sales):
     def sort_key(t):
         tax_code = t['taxCode'] or ''
@@ -58,18 +64,36 @@ def format_sales_eod(sales):
     for sale in sorted_sales:
         sale_by_tax = "SaleByTax".upper()
         sale_by_tax_by_tax = "SaleTaxByTax".upper()
-        tax_cur = sale['taxCur']
+        tax_cur = sale['taxCur'].upper()
         tax_percent = format_tax_percent(sale['taxPercent'])
         tax_amount = str(int(round(sale['taxAmount']*100)))
         sales_amount = str(int(round(sale['salesAmountWithTax']*100)))
-        result += sale_by_tax + tax_cur + tax_percent + sales_amount
-        result += sale_by_tax_by_tax + tax_cur + tax_percent + tax_amount
+        result+= sale_by_tax + tax_cur + tax_percent + sales_amount
+        result1+= sale_by_tax_by_tax + tax_cur + tax_percent + tax_amount
 
-    print(result, result1)
-    result2 = result + result1
+    #print(result, result1)
 
-    return result2
 
+    return result, result1
+
+def format_sales_mt(sales_by_currency):
+    def sort_key(t):
+        cur_code = t['taxCur']
+        return (t['taxCur'])
+
+    sorted_sales = sorted(sales_by_currency, key=sort_key)
+
+    result = ""
+    for  sale_cur in sorted_sales:
+        balance_by_money_type ="BalanceByMoneyType".upper()
+        tax_cur =sale_cur['taxCur'].upper()
+        money_type = sale_cur['taxMoney'].upper()
+        sales_amount =str(int(round(sale_cur['salesAmountWithTax']*100)))
+        result+=balance_by_money_type+tax_cur+money_type+sales_amount
+
+    #print(result)
+
+    return result
 
 def format_receipt_taxes(taxes):
     def sort_key(t):
@@ -97,19 +121,30 @@ def concatenate_fields(fields):
     return "".join(fields)
 
 def generate_hash(concatenated_string):
-    return hashlib.sha256(concatenated_string.encode('utf-8')).hexdigest()
+    sha256_hash  = hashlib.sha256(concatenated_string.encode('utf-8')).digest()
+    base64_hash = base64.b64encode(sha256_hash).decode('utf-8')
+    return base64_hash
 
 def sign_concatenated_string(private_key, concatenated_string):
     # Sign using RSA PKCS#1 v1.5 padding with SHA256 hash algorithm
-    signature = private_key.sign(
+    '''signature = private_key.sign(
         concatenated_string.encode('utf-8'),
         padding.PKCS1v15(),
         hashes.SHA256()
     )
-    return signature.hex()  # Return hex signature for display/storage
+    '''
+    hash_bytes = base64.b64decode(concatenated_string)
+    signature = private_key.sign(
+    hash_bytes,
+    padding.PKCS1v15(),
+    hashes.SHA256()
+    )
+    signature_base64 = base64.b64encode(signature).decode()
+
+    return signature_base64     #signature.hex()  # Return hex signature for display/storage
 
 def generate_sales_fields(sales):
     fields =[]
     fields.append((format_sales_eod(sales)))
-    print(fields)
+    #print(fields)
     return fields
